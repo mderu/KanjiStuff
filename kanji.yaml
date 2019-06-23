@@ -1,0 +1,12271 @@
+---
+parts:
+- 日
+- 田
+- ｜
+- 宀
+keyword: ''
+radical: 宀
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+tree: {"vertical": ['宀', '由']}
+kyujitai:
+character: 宙
+---
+parts:
+- 心
+- ｜
+- 口
+keyword: ''
+radical: 心
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+tree: {"vertical": ['中', '心']}
+kyujitai:
+character: 忠
+---
+parts:
+- ｜
+- 扎
+- 日
+- 田
+keyword: ''
+radical: 手
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+tree: { "horizontal": ['扌', '由'] }
+kyujitai:
+character: 抽
+---
+parts:
+- 王
+- 丶
+- 汁
+keyword: 'pour'
+radical: 水
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+tree: { 'horizontal': ['⺡', '主'] }
+kyujitai:
+character: 注
+---
+parts:
+- 日
+- 一
+- 丶
+- 尸
+keyword: ''
+radical: 日
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+tree: { 'vertical': ['尺', '旦'] }
+kyujitai: 晝
+character: 昼
+---
+parts:
+- 丶
+- 木
+- 王
+keyword: ''
+radical: 木
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+tree: { 'horizontal': ['尺', '主'] }
+kyujitai:
+character: 柱
+---
+parts:
+- 衣
+- 十
+- 口
+keyword: ''
+radical: 衣
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 衷
+---
+parts:
+- 寸
+- 酉
+keyword: ''
+radical: 酉
+strokes: 10
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 酎
+---
+parts:
+- 金
+- ノ
+- 亠
+- 土
+- 寸
+keyword: ''
+radical: 金
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 鑄
+character: 鋳
+---
+parts:
+- 丶
+- 杰
+- 王
+- 馬
+keyword: ''
+radical: 馬
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 駐
+---
+parts:
+- 艾
+- 日
+- 老
+keyword: ''
+radical: 艸
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai: 著
+character: 著
+---
+parts:
+- 目
+- 貝
+- 一
+- 亅
+- ハ
+- 宀
+keyword: ''
+radical: 貝
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 貯
+---
+parts:
+- 一
+- 亅
+keyword: ''
+radical: 一
+strokes: 2
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 丁
+---
+parts:
+- ｜
+- 弓
+keyword: ''
+radical: 弓
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 弔
+---
+parts:
+- 一
+- 亅
+- 广
+keyword: ''
+radical: 广
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai: 廳
+character: 庁
+---
+parts:
+- 儿
+- 冫
+keyword: ''
+radical: 儿
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 兆
+---
+parts:
+- 一
+- 亅
+- 田
+keyword: ''
+radical: 田
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 町
+---
+parts:
+- 長
+keyword: ''
+radical: 長
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 長
+---
+parts:
+- 儿
+- 冫
+- 扎
+keyword: ''
+radical: 手
+strokes: 9
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 挑
+---
+parts:
+- 長
+- 巾
+keyword: ''
+radical: 巾
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 帳
+---
+parts:
+- 弓
+- 長
+keyword: ''
+radical: 弓
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 張
+---
+parts:
+- 冂
+- 口
+- 土
+- 彡
+keyword: ''
+radical: 彡
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 彫
+---
+parts:
+- 目
+- 儿
+- 冫
+keyword: ''
+radical: 目
+strokes: 11
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 眺
+---
+parts:
+- 金
+- 丶
+- 勹
+keyword: ''
+radical: 金
+strokes: 11
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 釣
+---
+parts:
+- 目
+- 貝
+- 頁
+- 一
+- 亅
+- ハ
+keyword: ''
+radical: 頁
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 頂
+---
+parts:
+- 杰
+- 鳥
+keyword: ''
+radical: 鳥
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 鳥
+---
+parts:
+- 日
+- 月
+- 十
+keyword: ''
+radical: 月
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 朝
+---
+parts:
+- ハ
+- 卜
+- 口
+- 目
+- 貝
+keyword: ''
+radical: 貝
+strokes: 12
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 貼
+---
+parts:
+- 走
+- 刀
+- 口
+- 土
+keyword: ''
+radical: 走
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 超
+---
+parts:
+- 一
+- 日
+- 月
+- 勿
+keyword: ''
+radical: 肉
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 腸
+---
+parts:
+- 止
+- 足
+- 儿
+- 冫
+- 口
+keyword: ''
+radical: 足
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 跳
+---
+parts:
+- 攵
+- 王
+- 乞
+- 山
+- 彳
+keyword: ''
+radical: 彳
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 徵
+character: 徴
+---
+parts:
+- 日
+- 月
+- 十
+- 口
+keyword: ''
+radical: 口
+strokes: 15
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 嘲
+---
+parts:
+- 日
+- 月
+- 十
+- 汁
+keyword: ''
+radical: 水
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 潮
+---
+parts:
+- 癶
+- 豆
+- 并
+- 口
+- 汁
+keyword: ''
+radical: 水
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 澄
+---
+parts:
+- 言
+- 冂
+- 口
+- 土
+keyword: ''
+radical: 言
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 調
+---
+parts:
+- 心
+- 買
+- 耳
+- 十
+keyword: ''
+radical: 耳
+strokes: 17
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 聽
+character: 聴
+---
+parts:
+- 山
+- 彳
+- 心
+- 攵
+- 王
+- 乞
+keyword: ''
+radical: 心
+strokes: 18
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 懲
+character: 懲
+---
+parts:
+- 目
+- 一
+- ｜
+- 十
+keyword: ''
+radical: 目
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 直
+---
+parts:
+- 一
+- ｜
+- 力
+- 口
+- 木
+keyword: ''
+radical: 力
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 敕
+character: 勅
+---
+parts:
+- 止
+- ノ
+- 小
+- 扎
+keyword: ''
+radical: 手
+strokes: 10
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 捗
+---
+parts:
+- 冖
+- 尢
+- 汁
+keyword: ''
+radical: 水
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 沈
+---
+parts:
+- 王
+- 个
+- 彡
+keyword: ''
+radical: 玉
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 珍
+---
+parts:
+- 月
+- 一
+- 人
+- 并
+- 大
+keyword: ''
+radical: 月
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 朕
+---
+parts:
+- 日
+- 木
+- 田
+- 一
+- ｜
+- 阡
+keyword: ''
+radical: 阜
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 陳
+---
+parts:
+- 王
+- 目
+- 貝
+- 化
+- ハ
+keyword: ''
+radical: 貝
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 賃
+---
+parts:
+- 目
+- 金
+- 一
+- ハ
+- 并
+- 十
+keyword: ''
+radical: 金
+strokes: 18
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 鎭
+character: 鎮
+---
+parts:
+- ｜
+- 込
+- 口
+keyword: ''
+radical: 辵
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 追
+---
+parts:
+- 木
+- 隹
+keyword: ''
+radical: 木
+strokes: 12
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 椎
+---
+parts:
+- 豕
+- 并
+- 土
+- 阡
+keyword: ''
+radical: 土
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 墜
+---
+parts:
+- 用
+- マ
+- 込
+keyword: ''
+radical: 辵
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 通
+---
+parts:
+- マ
+- 用
+- 疔
+keyword: ''
+radical: 疒
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 痛
+---
+parts:
+- 冖
+- 土
+- 豕
+keyword: ''
+radical: 土
+strokes: 12
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai: 塚
+character: 塚
+---
+parts:
+- 目
+- 貝
+- 二
+- 亠
+- ハ
+- 土
+- 汁
+keyword: ''
+radical: 水
+strokes: 14
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 漬
+---
+parts:
+- 并
+- 土
+- 干
+keyword: ''
+radical: 土
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 坪
+---
+parts:
+- 爪
+keyword: ''
+radical: 爪
+strokes: 4
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 爪
+---
+parts:
+- 杰
+- 隹
+- 鳥
+- 冖
+- 宀
+keyword: ''
+radical: 鳥
+strokes: 21
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 鶴
+---
+parts:
+- 氏
+- 一
+- 化
+keyword: ''
+radical: 人
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 低
+---
+parts:
+- 口
+- 王
+keyword: ''
+radical: 口
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 呈
+---
+parts:
+- 王
+- 士
+- 廴
+keyword: ''
+radical: 廴
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 廷
+---
+parts:
+- ｜
+- ノ
+- 并
+- 弓
+keyword: ''
+radical: 弓
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 弟
+---
+parts:
+- 疋
+- 宀
+keyword: ''
+radical: 宀
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 定
+---
+parts:
+- 广
+- 氏
+keyword: ''
+radical: 广
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 底
+---
+parts:
+- 氏
+- 扎
+keyword: ''
+radical: 手
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 抵
+---
+parts:
+- 邦
+- 氏
+keyword: ''
+radical: 邑
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 邸
+---
+parts:
+- 亅
+- 亠
+- 冖
+- 口
+keyword: ''
+radical: 亠
+strokes: 9
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 亭
+---
+parts:
+- 目
+- 貝
+- ハ
+- 卜
+keyword: ''
+radical: 貝
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 貞
+---
+parts:
+- 立
+- 亠
+- 并
+- 冖
+- 巾
+keyword: ''
+radical: 巾
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 帝
+---
+parts:
+- 言
+- 一
+- 亅
+keyword: ''
+radical: 言
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 訂
+---
+parts:
+- 王
+- 广
+- 廴
+keyword: ''
+radical: 广
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 庭
+---
+parts:
+- ｜
+- 二
+- 厂
+- 込
+- 巾
+keyword: ''
+radical: 辵
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 遞
+character: 逓
+---
+parts:
+- 一
+- 亅
+- 亠
+- 化
+- 冖
+- 口
+keyword: ''
+radical: 人
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 停
+---
+parts:
+- 目
+- 貝
+- 化
+- ハ
+- 卜
+keyword: ''
+radical: 人
+strokes: 11
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 偵
+---
+parts:
+- 日
+- 疋
+- 土
+keyword: ''
+radical: 土
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 堤
+---
+parts:
+- 日
+- 疋
+- 扎
+keyword: ''
+radical: 手
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 提
+---
+parts:
+- 口
+- 王
+- 禾
+keyword: ''
+radical: 禾
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 程
+---
+parts:
+- 王
+- 舟
+- 廴
+keyword: ''
+radical: 舟
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 艇
+---
+parts:
+- 立
+- 糸
+- 亠
+- 并
+- 冖
+- 小
+- 巾
+- 幺
+keyword: ''
+radical: 糸
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 締
+---
+parts:
+- 立
+- 言
+- 亠
+- 并
+- 冖
+- 巾
+keyword: ''
+radical: 言
+strokes: 16
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 諦
+---
+parts:
+- 匕
+- 尸
+- 汁
+keyword: ''
+radical: 水
+strokes: 8
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 泥
+---
+parts:
+- 丶
+- 勹
+- 白
+keyword: ''
+radical: 白
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 的
+---
+parts:
+- ｜
+- 日
+- 田
+- 竹
+- 乞
+keyword: ''
+radical: 竹
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 笛
+---
+parts:
+- 亠
+- 并
+- 冂
+- 十
+- 口
+- 扎
+- 立
+- 滴
+keyword: ''
+radical: 手
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 摘
+---
+parts:
+- 立
+- 滴
+- 亠
+- 并
+- 冂
+- 十
+- 口
+- 汁
+keyword: ''
+radical: 水
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 滴
+---
+parts:
+- 立
+- 滴
+- 亠
+- 并
+- 冂
+- 十
+- 込
+- 口
+keyword: ''
+radical: 辵
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 適
+---
+parts:
+- 亠
+- 并
+- 冂
+- 十
+- 口
+- 攵
+- 立
+- 滴
+- 乞
+keyword: ''
+radical: 攴
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 敵
+---
+parts:
+- 冫
+- 弓
+- 汁
+keyword: ''
+radical: 水
+strokes: 13
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 溺
+---
+parts:
+- 牛
+- 矢
+- 乞
+- 一
+- ｜
+- ノ
+- 二
+- 込
+- 大
+keyword: ''
+radical: 辵
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 迭
+---
+parts:
+- 斤
+- 口
+- 扎
+keyword: ''
+radical: 口
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 哲
+---
+parts:
+- 矢
+- 金
+- 乞
+- ノ
+- 二
+- 大
+keyword: ''
+radical: 金
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai: 鐵
+character: 鉄
+---
+parts:
+- 攵
+- 月
+- 乞
+- 亠
+- 厶
+- 彳
+keyword: ''
+radical: 彳
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 徹
+---
+parts:
+- 攵
+- 月
+- 乞
+- 亠
+- 厶
+- 扎
+keyword: ''
+radical: 手
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 撤
+---
+parts:
+- 一
+- 二
+- 大
+keyword: ''
+radical: 大
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 天
+---
+parts:
+- 日
+- 一
+- ｜
+- ハ
+keyword: ''
+radical: 八
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 典
+---
+parts:
+- 卜
+- 口
+- 广
+keyword: ''
+radical: 广
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 店
+---
+parts:
+- 杰
+- 卜
+- 口
+keyword: ''
+radical: 黑
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai: 點
+character: 点
+---
+parts:
+- 衣
+- 一
+- ｜
+- 二
+- 尸
+keyword: ''
+radical: 尸
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 展
+---
+parts:
+- 心
+- 一
+- ノ
+- 二
+- 大
+- 汁
+keyword: ''
+radical: 水
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 添
+---
+parts:
+- 二
+- 厶
+- 車
+keyword: ''
+radical: 車
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai: 轉
+character: 転
+---
+parts: []
+keyword: ''
+radical: 土
+strokes: 13
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 塡
+---
+parts:
+- 田
+keyword: ''
+radical: 田
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 田
+---
+parts:
+- 二
+- 化
+- 厶
+keyword: ''
+radical: 人
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai: 傳
+character: 伝
+---
+parts:
+- 殳
+- 一
+- ｜
+- 二
+- ハ
+- 几
+- 又
+- 尸
+keyword: ''
+radical: 殳
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 殿
+---
+parts:
+- 田
+- 雨
+- 乙
+keyword: ''
+radical: 雨
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 電
+---
+parts:
+- 斗
+keyword: ''
+radical: 斗
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 斗
+---
+parts:
+- 口
+- 土
+keyword: ''
+radical: 口
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 吐
+---
+parts:
+- 石
+- 口
+- 女
+keyword: ''
+radical: 女
+strokes: 8
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 妬
+---
+parts:
+- 走
+- 土
+- 彳
+keyword: ''
+radical: 彳
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 徒
+---
+parts:
+- 木
+- 一
+- 亅
+- 个
+- ハ
+- 込
+keyword: ''
+radical: 辵
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 途
+---
+parts:
+- 日
+- 邦
+- 老
+keyword: ''
+radical: 邑
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai: 都
+character: 都
+---
+parts:
+- 又
+- 广
+- 汁
+keyword: ''
+radical: 水
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 渡
+---
+parts:
+- 木
+- 一
+- 亅
+- 个
+- ハ
+- 土
+- 汁
+keyword: ''
+radical: 土
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 塗
+---
+parts:
+- 日
+- 目
+- 貝
+- ハ
+- 老
+keyword: ''
+radical: 貝
+strokes: 16
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 賭
+---
+parts:
+- 土
+keyword: ''
+radical: 土
+strokes: 3
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 土
+---
+parts:
+- 又
+- 女
+keyword: ''
+radical: 女
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 奴
+---
+parts:
+- 力
+- 又
+- 女
+keyword: ''
+radical: 力
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 努
+---
+parts:
+- 一
+- 凵
+- 又
+- 广
+keyword: ''
+radical: 广
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 度
+---
+parts:
+- 又
+- 女
+- 心
+keyword: ''
+radical: 心
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 怒
+---
+parts:
+- 刀
+keyword: ''
+radical: 刀
+strokes: 2
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 刀
+---
+parts:
+- 丶
+- 夂
+- 攵
+keyword: ''
+radical: 冫
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 冬
+---
+parts:
+- 一
+- 亅
+- 火
+keyword: ''
+radical: 火
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai: 燈
+character: 灯
+---
+parts:
+- 尚
+- ヨ
+keyword: ''
+radical: 田
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai: 當
+character: 当
+---
+parts:
+- 几
+- 又
+- 扎
+- 殳
+keyword: ''
+radical: 手
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 投
+---
+parts:
+- 并
+- 口
+- 豆
+keyword: ''
+radical: 豆
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 豆
+---
+parts:
+- 一
+- ｜
+- 日
+- 木
+- 田
+keyword: ''
+radical: 木
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 東
+---
+parts:
+- 至
+- 刈
+- 厶
+- 土
+keyword: ''
+radical: 刀
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 到
+---
+parts:
+- 儿
+- 冫
+- 込
+keyword: ''
+radical: 辵
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 逃
+---
+parts:
+- 至
+- 化
+- 刈
+- 厶
+- 土
+keyword: ''
+radical: 人
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 倒
+---
+parts:
+- 日
+- 木
+- 田
+- 一
+- ｜
+- 冫
+keyword: ''
+radical: 冫
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 凍
+---
+parts:
+- 一
+- ｜
+- 口
+- 广
+- ヨ
+keyword: ''
+radical: 口
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 唐
+---
+parts:
+- 白
+- 鳥
+- 山
+keyword: ''
+radical: 山
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 島
+---
+parts:
+- 儿
+- 冫
+- 木
+keyword: ''
+radical: 木
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 桃
+---
+parts:
+- 言
+- 寸
+keyword: ''
+radical: 言
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 討
+---
+parts:
+- ノ
+- 乃
+- 込
+- 禾
+keyword: ''
+radical: 辵
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 透
+---
+parts:
+- 儿
+- 冖
+- 口
+- 尚
+keyword: ''
+radical: 黑
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai: 黨
+character: 党
+---
+parts:
+- 十
+- 卜
+- 忙
+- 日
+keyword: ''
+radical: 心
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 悼
+---
+parts:
+- 欠
+- 皿
+- 冫
+keyword: ''
+radical: 皿
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 盜
+character: 盗
+---
+parts:
+- 勹
+- 阡
+- 缶
+keyword: ''
+radical: 阜
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 陶
+---
+parts:
+- 一
+- 个
+- 口
+- 土
+- 艾
+keyword: ''
+radical: 土
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 塔
+---
+parts:
+- 艾
+- 一
+- 个
+- 口
+- 扎
+keyword: ''
+radical: 手
+strokes: 12
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 搭
+---
+parts:
+- 日
+- 木
+- 田
+- 一
+- ｜
+keyword: ''
+radical: 木
+strokes: 12
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 棟
+---
+parts:
+- 日
+- 勿
+- 一
+- ｜
+- 汁
+keyword: ''
+radical: 水
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 湯
+---
+parts:
+- 疔
+- 豆
+- 并
+- 口
+keyword: ''
+radical: 疒
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 痘
+---
+parts:
+- 癶
+- 豆
+- 并
+- 口
+keyword: ''
+radical: 癶
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 登
+---
+parts:
+- 竹
+- 乞
+- 一
+- 个
+- 口
+keyword: ''
+radical: 竹
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 答
+---
+parts:
+- 竹
+- 乞
+- 土
+- 寸
+keyword: ''
+radical: 竹
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 等
+---
+parts:
+- 竹
+- 乞
+- 一
+- 冂
+- 口
+keyword: ''
+radical: 竹
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 筒
+---
+parts:
+- 糸
+- 亠
+- 儿
+- 厶
+- 小
+- 幺
+keyword: ''
+radical: 糸
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 統
+---
+parts:
+- 日
+- 爪
+- 禾
+- ｜
+keyword: ''
+radical: 禾
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 稻
+character: 稲
+---
+parts:
+- 日
+- 止
+- 水
+- 足
+- 口
+keyword: ''
+radical: 足
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 踏
+---
+parts:
+- 米
+- 口
+- 广
+keyword: ''
+radical: 米
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 糖
+---
+parts:
+- 目
+- 豆
+- 貝
+- 頁
+- ハ
+- 并
+- 口
+keyword: ''
+radical: 頁
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 頭
+---
+parts:
+- 一
+- ｜
+- 二
+- 大
+- 月
+- 言
+keyword: ''
+radical: 言
+strokes: 17
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 謄
+---
+parts:
+- 一
+- ｜
+- 二
+- 大
+- 艾
+- 月
+- 水
+keyword: ''
+radical: 艸
+strokes: 18
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 藤
+---
+parts:
+- 豆
+- 門
+- 并
+- 口
+- 寸
+keyword: ''
+radical: 鬥
+strokes: 18
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 鬭
+character: 闘
+---
+parts:
+- 一
+- 二
+- 人
+- 并
+- 大
+- 月
+- 杰
+- 馬
+keyword: ''
+radical: 馬
+strokes: 20
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 騰
+---
+parts:
+- 一
+- 冂
+- 口
+keyword: ''
+radical: 口
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 同
+---
+parts:
+- 一
+- 冂
+- 口
+- 汁
+keyword: ''
+radical: 水
+strokes: 9
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 洞
+---
+parts:
+- 一
+- 冂
+- 口
+- 月
+keyword: ''
+radical: 肉
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 胴
+---
+parts:
+- 日
+- 里
+- 一
+- ｜
+- ノ
+- 力
+keyword: ''
+radical: 力
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 動
+---
+parts:
+- 冖
+- 口
+- 土
+- 尚
+keyword: ''
+radical: 土
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 堂
+---
+parts:
+- 立
+- 里
+keyword: ''
+radical: 立
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 童
+---
+parts:
+- 自
+- 首
+- 并
+- 込
+keyword: ''
+radical: 辵
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 道
+---
+parts:
+- 一
+- ｜
+- ノ
+- 化
+- 力
+- 日
+keyword: ''
+radical: 人
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 働
+---
+parts:
+- 一
+- 冂
+- 口
+- 金
+keyword: ''
+radical: 金
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 銅
+---
+parts:
+- 并
+- 込
+- 寸
+- 自
+- 首
+keyword: ''
+radical: 寸
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 導
+---
+parts:
+- 目
+- 立
+- 里
+keyword: ''
+radical: 目
+strokes: 17
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 瞳
+---
+parts:
+- 一
+- ｜
+- 卜
+- 山
+keyword: ''
+radical: 山
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 峠
+---
+parts:
+- 艾
+- ノ
+- 匚
+- 口
+keyword: ''
+radical: 匸
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 匿
+---
+parts:
+- 土
+- 寸
+- 牛
+keyword: ''
+radical: 牛
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 特
+---
+parts:
+- 日
+- 一
+- 寸
+- 彳
+keyword: ''
+radical: 彳
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 得
+---
+parts:
+- 卜
+- 又
+- 小
+- 目
+keyword: ''
+radical: 目
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 督
+---
+parts:
+- 心
+- 買
+- 十
+- 彳
+keyword: ''
+radical: 彳
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai: 德
+character: 徳
+---
+parts:
+- 杰
+- 竹
+- 馬
+- 乞
+keyword: ''
+radical: 竹
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 篤
+---
+parts:
+- 二
+- 亠
+- 土
+- 毋
+- 母
+keyword: ''
+radical: 毋
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 毒
+---
+parts:
+- 虫
+- 犯
+keyword: ''
+radical: 犬
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai: 獨
+character: 独
+---
+parts:
+- 儿
+- 冖
+- 士
+- 言
+keyword: ''
+radical: 言
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai: 讀
+character: 読
+---
+parts:
+- 斤
+- 木
+- 厂
+keyword: ''
+radical: 木
+strokes: 9
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 栃
+---
+parts:
+- 一
+- ｜
+- 冂
+- 凵
+keyword: ''
+radical: 凵
+strokes: 5
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 凸
+---
+parts:
+- 穴
+- 儿
+- 大
+- 宀
+keyword: ''
+radical: 穴
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 突
+character: 突
+---
+parts:
+- 日
+- 田
+- ｜
+- 尸
+keyword: ''
+radical: 尸
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai: 屆
+character: 届
+---
+parts:
+- 屯
+- 乙
+- ノ
+- 凵
+keyword: ''
+radical: 屮
+strokes: 4
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 屯
+---
+parts:
+- 月
+- 豕
+keyword: ''
+radical: 豕
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 豚
+---
+parts:
+- ハ
+- 屯
+- 目
+- 貝
+- 頁
+keyword: ''
+radical: 頁
+strokes: 13
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 頓
+---
+parts:
+- 一
+- 个
+- ハ
+- 目
+- 貝
+keyword: ''
+radical: 貝
+strokes: 11
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 貪
+---
+parts:
+- 屯
+- 金
+keyword: ''
+radical: 金
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 鈍
+---
+parts:
+- 日
+- 雨
+- 二
+- 厶
+keyword: ''
+radical: 日
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 曇
+---
+parts:
+- 井
+- ｜
+- 丶
+- ノ
+- 二
+- 廾
+keyword: ''
+radical: 丶
+strokes: 5
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 丼
+---
+parts:
+- 二
+- 刀
+- 邦
+keyword: ''
+radical: 邑
+strokes: 7
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 那
+---
+parts:
+- 示
+- 二
+- 大
+- 小
+keyword: ''
+radical: 大
+strokes: 8
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 奈
+---
+parts:
+- 人
+- 冂
+keyword: ''
+radical: 入
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 内
+---
+parts:
+- 刈
+- 木
+- 禾
+keyword: ''
+radical: 木
+strokes: 11
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 梨
+---
+parts:
+- 米
+- 言
+- 込
+keyword: ''
+radical: 言
+strokes: 17
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 謎
+---
+parts:
+- 冂
+- 口
+- 金
+keyword: ''
+radical: 金
+strokes: 17
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 鍋
+---
+parts:
+- 并
+- 冂
+- 十
+- 干
+keyword: ''
+radical: 十
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 南
+---
+parts:
+- 欠
+- 車
+keyword: ''
+radical: 車
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 軟
+---
+parts:
+- 艾
+- 隹
+- 二
+- 亠
+- 口
+- 大
+keyword: ''
+radical: 隹
+strokes: 18
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai: 難
+character: 難
+---
+parts:
+- 二
+keyword: ''
+radical: 二
+strokes: 2
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 二
+---
+parts:
+- 匕
+- 尸
+keyword: ''
+radical: 尸
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 尼
+---
+parts:
+- 一
+- 二
+- 弋
+keyword: ''
+radical: 貝
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 貳
+character: 弐
+---
+parts:
+- 勹
+- 匕
+keyword: ''
+radical: 勹
+strokes: 4
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 匂
+---
+parts:
+- 肉
+- 人
+- 冂
+keyword: ''
+radical: 肉
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 肉
+---
+parts:
+- 虫
+- 工
+keyword: ''
+radical: 虫
+strokes: 9
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 虹
+---
+parts:
+- 日
+keyword: ''
+radical: 日
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 日
+---
+parts:
+- 入
+keyword: ''
+radical: 入
+strokes: 2
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 入
+---
+parts:
+- 爪
+- 乙
+- 子
+keyword: ''
+radical: 乙
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 乳
+---
+parts:
+- 尸
+- 水
+keyword: ''
+radical: 尸
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 尿
+---
+parts:
+- 王
+- ノ
+- 化
+- 士
+keyword: ''
+radical: 人
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 任
+---
+parts:
+- 王
+- ノ
+- 士
+- 女
+keyword: ''
+radical: 女
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 妊
+---
+parts:
+- 心
+- 丶
+- 刀
+keyword: ''
+radical: 心
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 忍
+---
+parts:
+- 丶
+- 刀
+- 心
+- 言
+keyword: ''
+radical: 言
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 認
+---
+parts:
+- 一
+- 亅
+- 宀
+- 心
+- 皿
+- 買
+keyword: ''
+radical: 宀
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 寧
+---
+parts:
+- 丶
+- 儿
+- 九
+- 土
+- 杰
+keyword: ''
+radical: 火
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 熱
+---
+parts:
+- 一
+- ノ
+- 干
+- 乞
+keyword: ''
+radical: 干
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 年
+---
+parts:
+- 心
+- 一
+- ｜
+- 个
+keyword: ''
+radical: 心
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 念
+---
+parts:
+- 一
+- ｜
+- 个
+- 扎
+- 心
+keyword: ''
+radical: 手
+strokes: 11
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 捻
+---
+parts:
+- 米
+- 卜
+- 口
+keyword: ''
+radical: 米
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 粘
+---
+parts:
+- 夕
+- 火
+- 杰
+- 犬
+keyword: ''
+radical: 火
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 燃
+---
+parts:
+- 凵
+- 尚
+- 忙
+keyword: ''
+radical: 心
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 惱
+character: 悩
+---
+parts:
+- 糸
+- 人
+- 冂
+- 小
+- 幺
+keyword: ''
+radical: 糸
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 納
+---
+parts:
+- 匕
+- 厶
+- 月
+keyword: ''
+radical: 肉
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 能
+---
+parts:
+- 月
+- 凵
+- 尚
+keyword: ''
+radical: 肉
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai: 腦
+character: 脳
+---
+parts:
+- 日
+- 衣
+- 辰
+- 一
+- ｜
+- 厂
+keyword: ''
+radical: 辰
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 農
+---
+parts:
+- 日
+- 衣
+- 辰
+- 一
+- ｜
+- 厂
+- 汁
+keyword: ''
+radical: 水
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 濃
+---
+parts:
+- 巴
+- 扎
+keyword: ''
+radical: 手
+strokes: 7
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 把
+---
+parts:
+- 皮
+- 又
+- 汁
+keyword: ''
+radical: 水
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 波
+---
+parts:
+- 厂
+- 汁
+- 斤
+keyword: ''
+radical: 水
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 派
+---
+parts:
+- 又
+- 口
+- 皮
+- 石
+keyword: ''
+radical: 石
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 破
+---
+parts:
+- 月
+- 西
+- 革
+keyword: ''
+radical: 雨
+strokes: 19
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai: 霸
+character: 覇
+---
+parts:
+- 杰
+- 馬
+keyword: ''
+radical: 馬
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 馬
+---
+parts:
+- 皮
+- 又
+- 女
+- 汁
+keyword: ''
+radical: 女
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 婆
+---
+parts:
+- 杰
+- 買
+- 馬
+keyword: ''
+radical: 网
+strokes: 15
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 罵
+---
+parts:
+- 一
+- ｜
+- 干
+- 扎
+keyword: ''
+radical: 手
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai: 拜
+character: 拝
+---
+parts:
+- 木
+- 礼
+- 一
+- ｜
+- ノ
+keyword: ''
+radical: 木
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 杯
+---
+parts:
+- 匕
+- 月
+- 爿
+keyword: ''
+radical: 肉
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 背
+---
+parts:
+- 月
+- 亠
+- 巾
+keyword: ''
+radical: 肉
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 肺
+---
+parts:
+- 非
+- 化
+keyword: ''
+radical: 人
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 俳
+---
+parts:
+- 酉
+- 已
+keyword: ''
+radical: 酉
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 配
+---
+parts:
+- 扎
+- 非
+keyword: ''
+radical: 手
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 排
+---
+parts:
+- ハ
+- 攵
+- 目
+- 貝
+- 乞
+keyword: ''
+radical: 攴
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 敗
+---
+parts:
+- 一
+- 儿
+- 广
+- 癶
+keyword: ''
+radical: 广
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 廢
+character: 廃
+---
+parts:
+- 車
+- 非
+keyword: ''
+radical: 車
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 輩
+---
+parts:
+- 儿
+- 冖
+- 士
+keyword: ''
+radical: 貝
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai: 賣
+character: 売
+---
+parts:
+- 立
+- 化
+- 口
+keyword: ''
+radical: 人
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 倍
+---
+parts:
+- 木
+- 毋
+- 母
+- 乞
+keyword: ''
+radical: 木
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai: 梅
+character: 梅
+---
+parts:
+- 口
+- 土
+- 立
+keyword: ''
+radical: 土
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 培
+---
+parts:
+- 立
+- 口
+- 阡
+keyword: ''
+radical: 阜
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 陪
+---
+parts:
+- 木
+- 甘
+- 女
+keyword: ''
+radical: 女
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 媒
+---
+parts:
+- 目
+- 買
+- 貝
+- ハ
+keyword: ''
+radical: 貝
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 買
+---
+parts:
+- ハ
+- 口
+- 目
+- 立
+- 貝
+keyword: ''
+radical: 貝
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 賠
+---
+parts:
+- 白
+keyword: ''
+radical: 白
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 白
+---
+parts:
+- 白
+- 化
+keyword: ''
+radical: 人
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 伯
+---
+parts:
+- 白
+- 扎
+keyword: ''
+radical: 手
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 拍
+---
+parts:
+- 汁
+- 白
+keyword: ''
+radical: 水
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 泊
+---
+parts:
+- 込
+- 白
+keyword: ''
+radical: 辵
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 迫
+---
+parts: []
+keyword: ''
+radical: 刀
+strokes: 10
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 剝
+---
+parts:
+- 白
+- 舟
+keyword: ''
+radical: 舟
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 舶
+---
+parts:
+- 田
+- 丶
+- 十
+- 寸
+keyword: ''
+radical: 十
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 博
+---
+parts:
+- 丶
+- 十
+- 寸
+- 汁
+- 艾
+- 田
+keyword: ''
+radical: 艸
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 薄
+---
+parts:
+- 麦
+- 二
+- 亠
+- 土
+- 夂
+keyword: ''
+radical: 麥
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai: 麥
+character: 麦
+---
+parts:
+- 艾
+- 日
+- 大
+- 汁
+keyword: ''
+radical: 水
+strokes: 13
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 漠
+---
+parts:
+- 丶
+- 十
+- 寸
+- 小
+- 幺
+- 田
+- 糸
+keyword: ''
+radical: 糸
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 縛
+---
+parts:
+- 一
+- ｜
+- ハ
+- 日
+- 水
+- 火
+- 井
+keyword: ''
+radical: 火
+strokes: 19
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 爆
+---
+parts:
+- 木
+- 目
+- 竹
+- 乞
+keyword: ''
+radical: 竹
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 箱
+---
+parts:
+- 老
+- 日
+- 竹
+- 乞
+keyword: ''
+radical: 竹
+strokes: 15
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 箸
+---
+parts:
+- 火
+- 田
+keyword: ''
+radical: 田
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 畑
+---
+parts:
+- 月
+- 几
+keyword: ''
+radical: 肉
+strokes: 6
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 肌
+---
+parts:
+- ハ
+keyword: ''
+radical: 八
+strokes: 2
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 八
+---
+parts:
+- 木
+- 金
+- 一
+keyword: ''
+radical: 金
+strokes: 13
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 鉢
+---
+parts:
+- 二
+- 儿
+- 癶
+keyword: ''
+radical: 癶
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai: 發
+character: 発
+---
+parts:
+- 長
+- 髟
+- 一
+- 夂
+- 彡
+keyword: ''
+radical: 髟
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 髮
+character: 髪
+---
+parts:
+- 化
+- 戈
+keyword: ''
+radical: 人
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 伐
+---
+parts:
+- 亠
+- 又
+- 夂
+- 扎
+keyword: ''
+radical: 手
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 拔
+character: 抜
+---
+parts:
+- 買
+- 言
+- 刈
+keyword: ''
+radical: 网
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 罰
+---
+parts:
+- 化
+- 戈
+- 門
+keyword: ''
+radical: 門
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 閥
+---
+parts:
+- 厂
+- 又
+keyword: ''
+radical: 又
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 反
+---
+parts:
+- ｜
+- 二
+- 并
+- 十
+keyword: ''
+radical: 十
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 半
+---
+parts:
+- 乙
+- 卩
+- 汁
+keyword: ''
+radical: 水
+strokes: 5
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 氾
+---
+parts:
+- 乙
+- 卩
+- 犯
+keyword: ''
+radical: 犬
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 犯
+---
+parts:
+- 丶
+- 几
+- 巾
+keyword: ''
+radical: 巾
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 帆
+---
+parts:
+- 丶
+- 几
+- 汁
+keyword: ''
+radical: 水
+strokes: 6
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 汎
+---
+parts:
+- ｜
+- 二
+- 化
+- 并
+- 十
+keyword: ''
+radical: 人
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 伴
+---
+parts:
+- ｜
+- 二
+- 并
+- 刈
+- 十
+keyword: ''
+radical: 刀
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 判
+---
+parts:
+- 厂
+- 又
+- 土
+keyword: ''
+radical: 土
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 坂
+---
+parts:
+- 厂
+- 又
+- 阡
+keyword: ''
+radical: 阜
+strokes: 7
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 阪
+---
+parts:
+- 木
+- 厂
+- 又
+keyword: ''
+radical: 木
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 板
+---
+parts:
+- 片
+- 厂
+- 又
+keyword: ''
+radical: 片
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 版
+---
+parts:
+- 王
+- 刀
+- 厂
+- 土
+keyword: ''
+radical: 玉
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 班
+---
+parts:
+- 田
+- ｜
+- 二
+- 并
+- 十
+keyword: ''
+radical: 田
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 畔
+---
+parts:
+- 几
+- 又
+- 殳
+- 舟
+keyword: ''
+radical: 舟
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 般
+---
+parts:
+- ハ
+- 厂
+- 又
+- 目
+- 貝
+keyword: ''
+radical: 貝
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 販
+---
+parts:
+- 文
+- 王
+keyword: ''
+radical: 文
+strokes: 12
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 斑
+---
+parts:
+- 食
+- 厂
+- 又
+keyword: ''
+radical: 食
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 飯
+---
+parts:
+- 殳
+- 舟
+- 几
+- 又
+- 扎
+keyword: ''
+radical: 手
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 搬
+---
+parts:
+- 火
+- 目
+- 貝
+- 頁
+- ハ
+keyword: ''
+radical: 火
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 煩
+---
+parts:
+- 目
+- 貝
+- 頁
+- ハ
+- 刀
+keyword: ''
+radical: 頁
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 頒
+---
+parts:
+- 竹
+- 車
+- 乞
+- 乙
+- 卩
+keyword: ''
+radical: 竹
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 範
+---
+parts:
+- 攵
+- 毋
+- 母
+- 糸
+- 乞
+- 小
+- 幺
+keyword: ''
+radical: 糸
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 繁
+character: 繁
+---
+parts:
+- 艾
+- 田
+- 米
+- 釆
+- 汁
+keyword: ''
+radical: 艸
+strokes: 18
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 藩
+---
+parts:
+- 日
+- 免
+- 儿
+- 勹
+keyword: ''
+radical: 日
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai: 晚
+character: 晩
+---
+parts:
+- 田
+- 米
+- 釆
+keyword: ''
+radical: 田
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 番
+---
+parts:
+- 虫
+- 亠
+keyword: ''
+radical: 虫
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 蠻
+character: 蛮
+---
+parts:
+- 殳
+- 皿
+- 舟
+- 几
+- 又
+keyword: ''
+radical: 皿
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 盤
+---
+parts:
+- 比
+keyword: ''
+radical: 比
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 比
+---
+parts:
+- 又
+- 皮
+keyword: ''
+radical: 皮
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 皮
+---
+parts:
+- 女
+- 已
+keyword: ''
+radical: 女
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 妃
+---
+parts:
+- 一
+- ｜
+- 丶
+- ノ
+- 口
+keyword: ''
+radical: 口
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 否
+---
+parts:
+- 比
+- 扎
+keyword: ''
+radical: 手
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 批
+---
+parts:
+- 皮
+- 又
+- 彳
+keyword: ''
+radical: 彳
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 彼
+---
+parts:
+- 皮
+- 又
+- 扎
+keyword: ''
+radical: 手
+strokes: 8
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 披
+---
+parts:
+- 月
+- 巴
+keyword: ''
+radical: 肉
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 肥
+---
+parts:
+- 非
+keyword: ''
+radical: 非
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 非
+---
+parts:
+- 十
+- 田
+keyword: ''
+radical: 十
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 卑
+character: 卑
+---
+parts:
+- 飛
+keyword: ''
+radical: 飛
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 飛
+---
+parts:
+- 疔
+- 皮
+- 又
+keyword: ''
+radical: 疒
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 疲
+---
+parts:
+- 心
+- 禾
+- 丶
+- ノ
+keyword: ''
+radical: 示
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai: 祕
+character: 秘
+---
+parts:
+- 又
+- 皮
+- 初
+keyword: ''
+radical: 衣
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 被
+---
+parts:
+- 心
+- 非
+keyword: ''
+radical: 心
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 悲
+---
+parts:
+- 戸
+- 非
+- 一
+- 尸
+keyword: ''
+radical: 戶
+strokes: 12
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 扉
+---
+parts:
+- 目
+- 貝
+- ｜
+- ハ
+- 弓
+keyword: ''
+radical: 貝
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 費
+---
+parts:
+- 十
+- 口
+- 田
+- 石
+keyword: ''
+radical: 石
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 碑
+character: 碑
+---
+parts:
+- 月
+- 買
+- 匕
+- 厶
+keyword: ''
+radical: 网
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 罷
+---
+parts:
+- 十
+- 込
+- 口
+- 尸
+- 立
+- 辛
+keyword: ''
+radical: 辵
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 避
+---
+parts:
+- 毛
+- 尸
+keyword: ''
+radical: 尸
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 尾
+---
+parts:
+- 目
+- ｜
+- 尸
+keyword: ''
+radical: 目
+strokes: 9
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 眉
+---
+parts:
+- 王
+- 羊
+- 并
+- 大
+keyword: ''
+radical: 羊
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 美
+---
+parts:
+- 化
+- 厂
+- 艾
+- 用
+keyword: ''
+radical: 人
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 備
+---
+parts:
+- 攵
+- 乞
+- 山
+- 彳
+keyword: ''
+radical: 彳
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 微
+---
+parts:
+- 廾
+- 田
+- 目
+- 自
+- 鼻
+keyword: ''
+radical: 鼻
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 鼻
+---
+parts:
+- 个
+- 月
+- 木
+- 水
+keyword: ''
+radical: 肉
+strokes: 15
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 膝
+---
+parts:
+- 月
+- 寸
+keyword: ''
+radical: 肉
+strokes: 7
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 肘
+---
+parts:
+- 儿
+- 匚
+keyword: ''
+radical: 匸
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 匹
+---
+parts:
+- 心
+- ノ
+keyword: ''
+radical: 心
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 必
+---
+parts:
+- 心
+- 丶
+- ノ
+- 汁
+keyword: ''
+radical: 水
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 泌
+---
+parts:
+- 竹
+- 聿
+- 乞
+keyword: ''
+radical: 竹
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 筆
+---
+parts:
+- 臣
+- 女
+keyword: ''
+radical: 女
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 姫
+---
+parts:
+- 白
+- 一
+keyword: ''
+radical: 白
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 百
+---
+parts:
+- 水
+- 丶
+keyword: ''
+radical: 水
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 氷
+---
+parts:
+- 衣
+- 二
+- 亠
+- 土
+- 士
+keyword: ''
+radical: 衣
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 表
+---
+parts:
+- 衣
+- 二
+- 亠
+- 化
+- 土
+- 士
+keyword: ''
+radical: 人
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 俵
+---
+parts:
+- 示
+- 西
+- 二
+- 小
+keyword: ''
+radical: 示
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 票
+---
+parts:
+- 一
+- ｜
+- 二
+- 并
+- 言
+keyword: ''
+radical: 言
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 評
+---
+parts:
+- 示
+- 西
+- 二
+- 小
+- 汁
+keyword: ''
+radical: 水
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 漂
+---
+parts:
+- 木
+- 示
+- 西
+- 二
+- 小
+keyword: ''
+radical: 木
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 標
+---
+parts:
+- 艾
+- 田
+keyword: ''
+radical: 艸
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 苗
+---
+parts:
+- 禾
+- ノ
+- 小
+keyword: ''
+radical: 禾
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 秒
+---
+parts:
+- 疔
+- 一
+- 人
+- 冂
+keyword: ''
+radical: 疒
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 病
+---
+parts:
+- 艾
+- 田
+- 扎
+keyword: ''
+radical: 手
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 描
+---
+parts:
+- 犯
+- 艾
+- 田
+keyword: ''
+radical: 犬
+strokes: 11
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 猫
+---
+parts:
+- 品
+- 口
+keyword: ''
+radical: 口
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 品
+---
+parts:
+- 一
+- ハ
+- 汁
+- 斤
+keyword: ''
+radical: 水
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 濱
+character: 浜
+---
+parts:
+- 目
+- 貝
+- ハ
+- 刀
+keyword: ''
+radical: 貝
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 貧
+---
+parts:
+- 目
+- 貝
+- 一
+- ノ
+- ハ
+- 宀
+- 小
+keyword: ''
+radical: 貝
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 賓
+character: 賓
+---
+parts:
+- ノ
+- ハ
+- 小
+- 止
+- 目
+- 貝
+- 頁
+keyword: ''
+radical: 頁
+strokes: 17
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai: 頻
+character: 頻
+---
+parts:
+- 攵
+- 毋
+- 母
+- 乞
+keyword: ''
+radical: 攴
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 敏
+character: 敏
+---
+parts:
+- 瓦
+- 一
+- ノ
+- 二
+- 并
+keyword: ''
+radical: 瓦
+strokes: 11
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai: 甁
+character: 瓶
+---
+parts:
+- 一
+- ｜
+- 丶
+- ノ
+keyword: ''
+radical: 一
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 不
+---
+parts:
+- 二
+- 人
+- 大
+keyword: ''
+radical: 大
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 夫
+---
+parts:
+- 父
+keyword: ''
+radical: 父
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 父
+---
+parts:
+- 化
+- 寸
+keyword: ''
+radical: 人
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 付
+---
+parts:
+- 一
+- ノ
+- 巾
+keyword: ''
+radical: 巾
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 布
+---
+parts:
+- 二
+- 人
+- 大
+- 扎
+keyword: ''
+radical: 手
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 扶
+---
+parts:
+- 化
+- 寸
+- 广
+keyword: ''
+radical: 广
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 府
+---
+parts:
+- 一
+- ノ
+- 巾
+- 忙
+keyword: ''
+radical: 心
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 怖
+---
+parts:
+- ｜
+- 十
+- 口
+- 阡
+keyword: ''
+radical: 阜
+strokes: 8
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 阜
+---
+parts:
+- 化
+- 寸
+- 阡
+keyword: ''
+radical: 阜
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 附
+---
+parts:
+- 言
+- 卜
+keyword: ''
+radical: 言
+strokes: 9
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 訃
+---
+parts:
+- ハ
+- 勹
+- 目
+- 貝
+keyword: ''
+radical: 貝
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 負
+---
+parts:
+- 卜
+- 土
+- 走
+keyword: ''
+radical: 走
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 赴
+---
+parts:
+- 爪
+- 子
+- 汁
+keyword: ''
+radical: 水
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 浮
+---
+parts:
+- 冖
+- 女
+- 巾
+- ヨ
+keyword: ''
+radical: 女
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 婦
+---
+parts:
+- 竹
+- 乞
+- 化
+- 寸
+keyword: ''
+radical: 竹
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 符
+---
+parts:
+- 田
+- 一
+- 口
+- 宀
+keyword: ''
+radical: 宀
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 富
+---
+parts:
+- 日
+- 一
+- ｜
+- 二
+- 并
+keyword: ''
+radical: 日
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 普
+---
+parts:
+- 肉
+- 化
+- 寸
+- 广
+keyword: ''
+radical: 肉
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 腐
+---
+parts:
+- 丶
+- 十
+- 攵
+- 方
+- 田
+- 乞
+keyword: ''
+radical: 攴
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 敷
+---
+parts:
+- 匕
+- 卜
+- 厂
+- 月
+- 田
+- 虍
+keyword: ''
+radical: 肉
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 膚
+---
+parts:
+- 止
+- 目
+- 貝
+- ハ
+- 弋
+keyword: ''
+radical: 貝
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 賦
+---
+parts:
+- 一
+- ｜
+- 二
+- 并
+- 日
+- 言
+keyword: ''
+radical: 言
+strokes: 19
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 譜
+---
+parts:
+- 毋
+- 母
+- 乞
+- 化
+keyword: ''
+radical: 人
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 侮
+character: 侮
+---
+parts:
+- 止
+- 弋
+keyword: ''
+radical: 止
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 武
+---
+parts:
+- 立
+- 口
+- 邦
+keyword: ''
+radical: 邑
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 部
+---
+parts:
+- 一
+- ｜
+- ノ
+- 二
+- 夕
+- 舛
+- 無
+- 乞
+keyword: ''
+radical: 舛
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 舞
+---
+parts:
+- 土
+- 寸
+keyword: ''
+radical: 寸
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 封
+---
+parts:
+- ノ
+- 几
+- 虫
+- 風
+keyword: ''
+radical: 風
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 風
+---
+parts:
+- 犬
+- 化
+keyword: ''
+radical: 人
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 伏
+---
+parts:
+- 月
+- 卩
+- 又
+keyword: ''
+radical: 月
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 服
+---
+parts:
+- 田
+- 一
+- 刈
+- 口
+keyword: ''
+radical: 刀
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 副
+---
+parts:
+- 田
+- 一
+- 口
+- 巾
+keyword: ''
+radical: 巾
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 幅
+---
+parts:
+- 一
+- ノ
+- 人
+- 夂
+- 彳
+- 日
+- 乞
+keyword: ''
+radical: 彳
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 復
+---
+parts:
+- 礼
+- 田
+- 一
+- 口
+keyword: ''
+radical: 示
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai: 福
+character: 福
+---
+parts:
+- 日
+- 月
+- 乞
+- 一
+- ノ
+- 人
+- 夂
+keyword: ''
+radical: 肉
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 腹
+---
+parts:
+- 日
+- 初
+- 乞
+- 夂
+keyword: ''
+radical: 衣
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 複
+---
+parts:
+- 日
+- 西
+- 乞
+- 夂
+- 彳
+keyword: ''
+radical: 襾
+strokes: 18
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 覆
+---
+parts:
+- 厶
+- 扎
+keyword: ''
+radical: 手
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 拂
+character: 払
+---
+parts:
+- ｜
+- ノ
+- 弓
+- 汁
+keyword: ''
+radical: 水
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 沸
+---
+parts:
+- 化
+- 厶
+keyword: ''
+radical: 人
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai: 佛
+character: 仏
+---
+parts:
+- ノ
+- 勹
+- 牛
+- 勿
+keyword: ''
+radical: 牛
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 物
+---
+parts:
+- ハ
+- 并
+- 刀
+- 米
+keyword: ''
+radical: 米
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 粉
+---
+parts:
+- 糸
+- ハ
+- 刀
+- 小
+- 幺
+keyword: ''
+radical: 糸
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 紛
+---
+parts:
+- 雨
+- ハ
+- 刀
+keyword: ''
+radical: 雨
+strokes: 12
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 雰
+---
+parts:
+- 艾
+- 目
+- 貝
+- ハ
+- 十
+- 口
+keyword: ''
+radical: 口
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 噴
+---
+parts:
+- 艾
+- 目
+- 貝
+- ハ
+- 十
+- 土
+keyword: ''
+radical: 土
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 墳
+---
+parts:
+- ハ
+- 十
+- 忙
+- 艾
+- 目
+- 貝
+keyword: ''
+radical: 心
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 憤
+---
+parts:
+- 田
+- 隹
+- 大
+keyword: ''
+radical: 大
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 奮
+---
+parts:
+- ハ
+- 刀
+keyword: ''
+radical: 刀
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 分
+---
+parts:
+- 文
+keyword: ''
+radical: 文
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 文
+---
+parts:
+- 耳
+- 門
+keyword: ''
+radical: 耳
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 聞
+---
+parts:
+- 一
+- 人
+- 冂
+keyword: ''
+radical: 一
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 丙
+---
+parts:
+- 并
+- 干
+keyword: ''
+radical: 干
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 平
+---
+parts:
+- 斤
+- 一
+- ハ
+keyword: ''
+radical: 八
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 兵
+---
+parts:
+- 一
+- ｜
+- ノ
+- 二
+- 化
+- 并
+- 廾
+keyword: ''
+radical: 人
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 倂
+character: 併
+---
+parts:
+- 一
+- ｜
+- 二
+- 并
+keyword: ''
+radical: 立
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai: 竝
+character: 並
+---
+parts:
+- 木
+- 一
+- 人
+- 冂
+keyword: ''
+radical: 木
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 柄
+---
+parts:
+- 比
+- 土
+- 阡
+keyword: ''
+radical: 阜
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 陛
+---
+parts:
+- 門
+- 一
+- ノ
+- 亅
+keyword: ''
+radical: 門
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 閉
+---
+parts:
+- 一
+- ｜
+- ノ
+- 二
+- ハ
+- 土
+- 尸
+- 廾
+keyword: ''
+radical: 土
+strokes: 12
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai: 塀
+character: 塀
+---
+parts:
+- 攵
+- 乞
+- 并
+- 冂
+- 巾
+keyword: ''
+radical: 巾
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 幣
+---
+parts:
+- 攵
+- 乞
+- ｜
+- 并
+- 冂
+- 尚
+- 巾
+- 廾
+keyword: ''
+radical: 廾
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 弊
+---
+parts:
+- 艾
+- 攵
+- 乞
+- ｜
+- 并
+- 冂
+- 尚
+- 巾
+keyword: ''
+radical: 艸
+strokes: 15
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 蔽
+---
+parts:
+- 食
+- 一
+- ｜
+- ノ
+- 二
+- 并
+- 廾
+keyword: ''
+radical: 食
+strokes: 15
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai: 餠
+character: 餅
+---
+parts:
+- 米
+keyword: ''
+radical: 米
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 米
+---
+parts:
+- 十
+- 口
+- 土
+- 尸
+- 立
+- 辛
+keyword: ''
+radical: 土
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 壁
+---
+parts:
+- 十
+- 口
+- 尸
+- 王
+- 立
+- 辛
+keyword: ''
+radical: 玉
+strokes: 18
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 璧
+---
+parts:
+- 疔
+- 立
+- 辛
+- 十
+- 口
+- 尸
+keyword: ''
+radical: 疒
+strokes: 18
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 癖
+---
+parts:
+- 刈
+- 力
+- 勹
+- 口
+keyword: ''
+radical: 刀
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 別
+---
+parts:
+- 艾
+- 戈
+- 買
+- ノ
+keyword: ''
+radical: 艸
+strokes: 14
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 蔑
+---
+parts:
+- 片
+keyword: ''
+radical: 片
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 片
+---
+parts:
+- 刀
+- 込
+keyword: ''
+radical: 辵
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai: 邊
+character: 辺
+---
+parts:
+- 厂
+- 又
+- 込
+keyword: ''
+radical: 辵
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 返
+---
+parts:
+- 亠
+- 夂
+keyword: ''
+radical: 言
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai: 變
+character: 変
+---
+parts:
+- 戸
+- 冊
+- 一
+- ｜
+- 化
+- 冂
+- 尸
+- 廾
+keyword: ''
+radical: 人
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 偏
+---
+parts:
+- 戸
+- 冊
+- 一
+- ｜
+- 冂
+- 込
+- 尸
+- 廾
+keyword: ''
+radical: 辵
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 遍
+---
+parts:
+- 戸
+- 冊
+- 糸
+- 一
+- ｜
+- 冂
+- 小
+- 尸
+- 幺
+- 廾
+keyword: ''
+radical: 糸
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 編
+---
+parts:
+- 厶
+- 廾
+keyword: ''
+radical: 辛
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai: 辨
+character: 弁
+---
+parts:
+- 日
+- 田
+- 一
+- ｜
+- ノ
+- 化
+keyword: ''
+radical: 人
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 便
+---
+parts:
+- 免
+- 儿
+- 力
+- 勹
+keyword: ''
+radical: 力
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai: 勉
+character: 勉
+---
+parts:
+- 止
+- ノ
+- 小
+keyword: ''
+radical: 止
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai: 步
+character: 歩
+---
+parts:
+- 化
+- 口
+- 木
+keyword: ''
+radical: 人
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 保
+---
+parts:
+- 用
+- 丶
+- 十
+- 口
+keyword: ''
+radical: 口
+strokes: 10
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 哺
+---
+parts:
+- 用
+- 丶
+- 十
+- 扎
+keyword: ''
+radical: 手
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 捕
+---
+parts:
+- 用
+- 初
+- 丶
+- 十
+keyword: ''
+radical: 衣
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 補
+---
+parts:
+- 用
+- 丶
+- 个
+- 十
+- 口
+- 土
+keyword: ''
+radical: 舌
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 舗
+---
+parts:
+- 毋
+- 母
+keyword: ''
+radical: 毋
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 母
+---
+parts:
+- 艾
+- 日
+- 力
+- 大
+keyword: ''
+radical: 力
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 募
+---
+parts:
+- 土
+- 大
+- 艾
+- 日
+keyword: ''
+radical: 土
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 墓
+---
+parts:
+- 艾
+- 心
+- 日
+- 大
+keyword: ''
+radical: 心
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 慕
+---
+parts:
+- 艾
+- 日
+- 大
+keyword: ''
+radical: 日
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 暮
+---
+parts:
+- 田
+- 竹
+- 乞
+- 丶
+- 十
+- 寸
+- 汁
+keyword: ''
+radical: 竹
+strokes: 19
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 簿
+---
+parts:
+- 方
+keyword: ''
+radical: 方
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 方
+---
+parts:
+- 勹
+- 已
+keyword: ''
+radical: 勹
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 包
+---
+parts:
+- 艾
+- 方
+keyword: ''
+radical: 艸
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 芳
+---
+parts:
+- ノ
+- 二
+- 邦
+keyword: ''
+radical: 邑
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 邦
+---
+parts:
+- 一
+- ｜
+- 二
+- 人
+- 大
+keyword: ''
+radical: 大
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 奉
+---
+parts:
+- 王
+- 丶
+- 宀
+keyword: ''
+radical: 宀
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai: 寶
+character: 宝
+---
+parts:
+- 勹
+- 已
+- 扎
+keyword: ''
+radical: 手
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 抱
+---
+parts:
+- 攵
+- 方
+- 乞
+keyword: ''
+radical: 攴
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 放
+---
+parts:
+- 厶
+- 土
+- 汁
+keyword: ''
+radical: 水
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 法
+---
+parts:
+- 勹
+- 已
+- 汁
+keyword: ''
+radical: 水
+strokes: 8
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 泡
+---
+parts:
+- 勹
+- 已
+- 月
+keyword: ''
+radical: 肉
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 胞
+---
+parts:
+- 一
+- ｜
+- 二
+- 人
+- 化
+- 大
+keyword: ''
+radical: 人
+strokes: 10
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 俸
+---
+parts:
+- 攵
+- 方
+- 乞
+- 化
+keyword: ''
+radical: 人
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 倣
+---
+parts:
+- 一
+- ｜
+- 夂
+- 山
+keyword: ''
+radical: 山
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 峰
+---
+parts:
+- 石
+- 勹
+- 口
+- 已
+keyword: ''
+radical: 石
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 砲
+---
+parts:
+- 山
+- 月
+keyword: ''
+radical: 山
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 崩
+---
+parts:
+- 方
+- 言
+keyword: ''
+radical: 言
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 訪
+---
+parts:
+- 立
+- 辛
+- 亠
+- 十
+- 卩
+- 又
+- 土
+keyword: ''
+radical: 土
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 報
+---
+parts:
+- 虫
+- 一
+- ｜
+- 夂
+keyword: ''
+radical: 虫
+strokes: 13
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 蜂
+---
+parts:
+- 一
+- ｜
+- 并
+- 口
+- 日
+- 豆
+keyword: ''
+radical: 豆
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai: 豐
+character: 豊
+---
+parts:
+- 食
+- 勹
+- 已
+keyword: ''
+radical: 食
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 飽
+---
+parts:
+- 衣
+- 亠
+- 化
+- 口
+- 小
+keyword: ''
+radical: 衣
+strokes: 15
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai: 襃
+character: 褒
+---
+parts:
+- 糸
+- 一
+- ｜
+- 込
+- 夂
+- 小
+- 幺
+keyword: ''
+radical: 糸
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 縫
+---
+parts:
+- 亠
+- 亡
+keyword: ''
+radical: 亠
+strokes: 3
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 亡
+---
+parts:
+- 丶
+- ノ
+- 乙
+- 亠
+- 廴
+keyword: ''
+radical: 丿
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 乏
+---
+parts:
+- 亠
+- 忙
+- 亡
+keyword: ''
+radical: 心
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 忙
+---
+parts:
+- 方
+- 土
+keyword: ''
+radical: 土
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 坊
+---
+parts:
+- 方
+- 女
+keyword: ''
+radical: 女
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 妨
+---
+parts:
+- 心
+- 亠
+- 亡
+keyword: ''
+radical: 心
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 忘
+---
+parts:
+- 方
+- 阡
+keyword: ''
+radical: 阜
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 防
+---
+parts:
+- 戸
+- 方
+- 一
+- 尸
+keyword: ''
+radical: 戶
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 房
+---
+parts:
+- 方
+- 月
+keyword: ''
+radical: 肉
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 肪
+---
+parts:
+- 木
+- 甘
+keyword: ''
+radical: 木
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 某
+---
+parts:
+- 日
+- 目
+keyword: ''
+radical: 冂
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 冒
+---
+parts:
+- 立
+- 刈
+- 口
+keyword: ''
+radical: 刀
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 剖
+---
+parts:
+- 方
+- 糸
+- 小
+- 幺
+keyword: ''
+radical: 糸
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 紡
+---
+parts:
+- 月
+- 王
+- 亡
+keyword: ''
+radical: 月
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 望
+---
+parts:
+- 方
+- 立
+- 亠
+- 化
+- 并
+- 冖
+keyword: ''
+radical: 人
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 傍
+---
+parts:
+- 巾
+- 日
+- 目
+keyword: ''
+radical: 巾
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 帽
+---
+parts:
+- 木
+- 一
+- ｜
+- 二
+- 人
+- 大
+keyword: ''
+radical: 木
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 棒
+---
+parts:
+- ハ
+- 刀
+- 厶
+- 目
+- 貝
+keyword: ''
+radical: 貝
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 貿
+---
+parts:
+- 儿
+- 白
+- 豸
+keyword: ''
+radical: 豸
+strokes: 14
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 貌
+---
+parts:
+- 日
+- 水
+- 井
+- 一
+- ｜
+- 二
+- ハ
+keyword: ''
+radical: 日
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 暴
+---
+parts:
+- 月
+- 豆
+- 并
+- 十
+- 口
+- 土
+- 彡
+keyword: ''
+radical: 肉
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 膨
+---
+parts:
+- 木
+- 甘
+- 言
+keyword: ''
+radical: 言
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 謀
+---
+parts: []
+keyword: ''
+radical: 頁
+strokes: 16
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 頰
+---
+parts:
+- 爿
+- 匕
+keyword: ''
+radical: 匕
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 北
+---
+parts:
+- 木
+keyword: ''
+radical: 木
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 木
+---
+parts:
+- 木
+- 卜
+keyword: ''
+radical: 木
+strokes: 6
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 朴
+---
+parts:
+- 攵
+- 牛
+- 乞
+keyword: ''
+radical: 牛
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 牧
+---
+parts:
+- 儿
+- 土
+- 目
+keyword: ''
+radical: 目
+strokes: 13
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 睦
+---
+parts:
+- 二
+- 化
+- 并
+- 大
+- 王
+- 羊
+keyword: ''
+radical: 人
+strokes: 14
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 僕
+---
+parts:
+- 土
+- 杰
+- 里
+- 黒
+keyword: ''
+radical: 土
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 墨
+character: 墨
+---
+parts:
+- 二
+- 人
+- 并
+- 大
+- 扎
+- 王
+- 羊
+keyword: ''
+radical: 手
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 撲
+---
+parts:
+- 殳
+- 几
+- 又
+- 汁
+keyword: ''
+radical: 水
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 沒
+character: 没
+---
+parts:
+- 冖
+- 力
+- 十
+- 子
+keyword: ''
+radical: 力
+strokes: 9
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 勃
+---
+parts:
+- ｜
+- 土
+- 尸
+- 山
+keyword: ''
+radical: 土
+strokes: 11
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 堀
+---
+parts:
+- 木
+- 一
+keyword: ''
+radical: 木
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 本
+---
+parts:
+- 一
+- ノ
+- 十
+- 大
+- 廾
+keyword: ''
+radical: 大
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 奔
+---
+parts:
+- 田
+- 米
+- 羽
+- 釆
+- 冫
+keyword: ''
+radical: 飛
+strokes: 18
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 飜
+character: 翻
+---
+parts:
+- 丶
+- 几
+keyword: ''
+radical: 几
+strokes: 3
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 凡
+---
+parts:
+- 皿
+- ハ
+- 刀
+keyword: ''
+radical: 皿
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 盆
+---
+parts:
+- 木
+- 麻
+- 广
+keyword: ''
+radical: 麻
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 麻
+---
+parts:
+- 木
+- 麻
+- 广
+- 手
+keyword: ''
+radical: 手
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 摩
+---
+parts:
+- 口
+- 广
+- 木
+- 石
+- 麻
+keyword: ''
+radical: 石
+strokes: 16
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 磨
+---
+parts:
+- 木
+- 田
+- 鬼
+- 麻
+- 儿
+- 匕
+- 厶
+- 广
+keyword: ''
+radical: 鬼
+strokes: 21
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 魔
+---
+parts:
+- 毋
+- 母
+- 乞
+keyword: ''
+radical: 毋
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai: 每
+character: 毎
+---
+parts:
+- 木
+- ｜
+- 二
+- 亠
+- ハ
+- 女
+keyword: ''
+radical: 女
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 妹
+---
+parts:
+- 攵
+- 木
+- 乞
+keyword: ''
+radical: 木
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 枚
+---
+parts:
+- ｜
+- 二
+- 亠
+- ハ
+- 日
+- 木
+keyword: ''
+radical: 日
+strokes: 9
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 昧
+---
+parts:
+- 土
+- 里
+keyword: ''
+radical: 土
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 埋
+---
+parts:
+- 艾
+- 日
+- 大
+- 巾
+keyword: ''
+radical: 巾
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 幕
+---
+parts:
+- 艾
+- 日
+- 月
+- 大
+keyword: ''
+radical: 肉
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 膜
+---
+parts:
+- ノ
+- 乙
+- 冖
+- 尢
+- 木
+keyword: ''
+radical: 木
+strokes: 8
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 枕
+---
+parts:
+- 又
+keyword: ''
+radical: 又
+strokes: 2
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 又
+---
+parts:
+- 木
+- 一
+- ｜
+- 亠
+- ハ
+keyword: ''
+radical: 木
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 末
+---
+parts:
+- 木
+- 一
+- ｜
+- 亠
+- ハ
+- 扎
+keyword: ''
+radical: 手
+strokes: 8
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 抹
+---
+parts:
+- 一
+- ｜
+- ノ
+keyword: ''
+radical: 艸
+strokes: 3
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai: 萬
+character: 万
+---
+parts:
+- 一
+- ｜
+- 二
+- 冂
+- 山
+- 汁
+- 艾
+keyword: ''
+radical: 水
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai: 滿
+character: 満
+---
+parts:
+- 日
+- 買
+- 又
+- 忙
+keyword: ''
+radical: 心
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 慢
+---
+parts:
+- 日
+- 買
+- 又
+- 汁
+keyword: ''
+radical: 水
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 漫
+---
+parts:
+- ｜
+- 二
+- 亠
+- ハ
+- 木
+keyword: ''
+radical: 木
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 未
+---
+parts:
+- 木
+- ｜
+- 二
+- 亠
+- ハ
+- 口
+keyword: ''
+radical: 口
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 味
+---
+parts:
+- 木
+- 田
+- 鬼
+- ｜
+- 二
+- 亠
+- 儿
+- ハ
+- 匕
+- 厶
+keyword: ''
+radical: 鬼
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 魅
+---
+parts:
+- ｜
+- 山
+- 日
+- 田
+keyword: ''
+radical: 山
+strokes: 8
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 岬
+---
+parts:
+- 丶
+- ノ
+- 宀
+- 山
+- 心
+keyword: ''
+radical: 宀
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 密
+---
+parts:
+- 心
+- 虫
+- 丶
+- ノ
+- 宀
+keyword: ''
+radical: 虫
+strokes: 14
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 蜜
+---
+parts:
+- 斤
+- 月
+- 厂
+keyword: ''
+radical: 肉
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 脈
+---
+parts:
+- ノ
+- 女
+- 小
+keyword: ''
+radical: 女
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 妙
+---
+parts:
+- 氏
+- 口
+- 尸
+keyword: ''
+radical: 氏
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 民
+---
+parts:
+- 氏
+- 目
+- 口
+- 尸
+keyword: ''
+radical: 目
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 眠
+---
+parts:
+- 矛
+- マ
+keyword: ''
+radical: 矛
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 矛
+---
+parts:
+- 矛
+- 力
+- 夂
+keyword: ''
+radical: 力
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 務
+---
+parts:
+- 杰
+- 無
+- 乞
+- 一
+- ｜
+- ノ
+keyword: ''
+radical: 火
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 無
+---
+parts:
+- 艾
+- 買
+- 冖
+- 夕
+keyword: ''
+radical: 夕
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 夢
+---
+parts:
+- 矛
+- 雨
+- 力
+- 夂
+keyword: ''
+radical: 雨
+strokes: 19
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 霧
+---
+parts:
+- 艮
+- 女
+keyword: ''
+radical: 女
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 娘
+---
+parts:
+- 口
+- 夕
+keyword: ''
+radical: 口
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 名
+---
+parts:
+- 一
+- 个
+- 卩
+- 口
+keyword: ''
+radical: 口
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 命
+---
+parts:
+- 日
+- 月
+keyword: ''
+radical: 日
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 明
+---
+parts:
+- 米
+- 込
+keyword: ''
+radical: 辵
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 迷
+---
+parts:
+- 亠
+- ハ
+- 冖
+- 日
+keyword: ''
+radical: 冖
+strokes: 10
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 冥
+---
+parts:
+- 日
+- 月
+- 皿
+keyword: ''
+radical: 皿
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 盟
+---
+parts:
+- 金
+- 口
+- 夕
+keyword: ''
+radical: 金
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 銘
+---
+parts:
+- 杰
+- 鳥
+- 口
+keyword: ''
+radical: 鳥
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 鳴
+---
+parts:
+- 戈
+- 火
+- ノ
+- 汁
+keyword: ''
+radical: 水
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 滅
+---
+parts:
+- 免
+- 一
+- ｜
+- 儿
+- 勹
+- 口
+keyword: ''
+radical: 儿
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 免
+character: 免
+---
+parts:
+- 面
+keyword: ''
+radical: 面
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 面
+---
+parts:
+- 白
+- 糸
+- 小
+- 巾
+- 幺
+keyword: ''
+radical: 糸
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 綿
+---
+parts:
+- 二
+- 亠
+- 土
+- 夂
+- 麦
+- 面
+keyword: ''
+radical: 麥
+strokes: 16
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai: 麵
+character: 麺
+---
+parts:
+- 艾
+- 戈
+- ノ
+keyword: ''
+radical: 艸
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 茂
+---
+parts:
+- 大
+- 艾
+- 日
+- 木
+keyword: ''
+radical: 木
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 模
+---
+parts:
+- 毛
+keyword: ''
+radical: 毛
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 毛
+---
+parts:
+- 亠
+- 女
+- 亡
+keyword: ''
+radical: 女
+strokes: 6
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 妄
+---
+parts:
+- 亠
+- 亡
+- 目
+keyword: ''
+radical: 目
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 盲
+---
+parts:
+- 木
+- 毛
+- 耒
+- ｜
+- ノ
+- ハ
+- 士
+keyword: ''
+radical: 耒
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 耗
+---
+parts:
+- 皿
+- 子
+- 犯
+keyword: ''
+radical: 犬
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 猛
+---
+parts:
+- 糸
+- 并
+- 冂
+- 小
+- 幺
+- 亡
+keyword: ''
+radical: 糸
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 網
+---
+parts:
+- 目
+keyword: ''
+radical: 目
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 目
+---
+parts:
+- 杰
+- 犬
+- 里
+- 黒
+keyword: ''
+radical: 黑
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 默
+character: 黙
+---
+parts:
+- 門
+keyword: ''
+radical: 門
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 門
+---
+parts:
+- 小
+- 幺
+- 文
+- 糸
+keyword: ''
+radical: 糸
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 紋
+---
+parts:
+- 門
+- 口
+keyword: ''
+radical: 口
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 問
+---
+parts:
+- 冫
+- 厶
+- 口
+keyword: ''
+radical: 冫
+strokes: 7
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 冶
+---
+parts:
+- 亠
+- 化
+- 夕
+keyword: ''
+radical: 夕
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 夜
+---
+parts:
+- 亅
+- 矛
+- 里
+keyword: ''
+radical: 里
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 野
+---
+parts:
+- ノ
+- 亅
+- 小
+- 弓
+- 乞
+keyword: ''
+radical: 弓
+strokes: 8
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai: 彌
+character: 弥
+---
+parts:
+- 卩
+- 厂
+keyword: ''
+radical: 厂
+strokes: 4
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 厄
+---
+parts:
+- 几
+- 又
+- 彳
+- 殳
+keyword: ''
+radical: 彳
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 役
+---
+parts:
+- 糸
+- 丶
+- 勹
+- 小
+- 幺
+keyword: ''
+radical: 糸
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 約
+---
+parts:
+- 言
+- 丶
+- 尸
+keyword: ''
+radical: 言
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai: 譯
+character: 訳
+---
+parts:
+- 冫
+- 艾
+- 日
+- 木
+keyword: ''
+radical: 艸
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai: 藥
+character: 薬
+---
+parts:
+- 止
+- 足
+- 隹
+- 口
+- ヨ
+keyword: ''
+radical: 足
+strokes: 21
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 躍
+---
+parts:
+- 日
+- 立
+- 門
+- 音
+keyword: ''
+radical: 門
+strokes: 17
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 闇
+---
+parts:
+- ｜
+- 日
+- 田
+keyword: ''
+radical: 田
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 由
+---
+parts:
+- 日
+- 田
+- ｜
+- 汁
+keyword: ''
+radical: 水
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 油
+---
+parts:
+- 月
+- 一
+- 个
+- 刈
+- 口
+keyword: ''
+radical: 口
+strokes: 12
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 喩
+---
+parts:
+- 月
+- 一
+- 个
+- 刈
+- 忙
+keyword: ''
+radical: 心
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 愉
+---
+parts:
+- 一
+- 个
+- 刈
+- 月
+- 言
+keyword: ''
+radical: 言
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 諭
+---
+parts:
+- 月
+- 車
+- 一
+- 个
+- 刈
+keyword: ''
+radical: 車
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 輸
+---
+parts:
+- 心
+- 月
+- 疔
+- 个
+- 刈
+keyword: ''
+radical: 疒
+strokes: 18
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 癒
+---
+parts:
+- 隹
+- 口
+keyword: ''
+radical: 口
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 唯
+---
+parts:
+- 一
+- ノ
+- 又
+keyword: ''
+radical: 又
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 友
+---
+parts:
+- 月
+- 一
+- ノ
+keyword: ''
+radical: 月
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 有
+---
+parts:
+- 力
+- マ
+- 田
+keyword: ''
+radical: 力
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 勇
+---
+parts:
+- ｜
+- 凵
+- 幺
+keyword: ''
+radical: 幺
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 幽
+---
+parts:
+- 心
+- 攵
+- 乞
+- ｜
+- 化
+- 夂
+keyword: ''
+radical: 心
+strokes: 11
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 悠
+---
+parts:
+- 一
+- ｜
+- ノ
+- 邦
+keyword: ''
+radical: 邑
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 郵
+---
+parts:
+- 田
+- 力
+- マ
+- 汁
+keyword: ''
+radical: 水
+strokes: 12
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 湧
+---
+parts:
+- 并
+- 犯
+- 酉
+keyword: ''
+radical: 犬
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 猶
+---
+parts:
+- 个
+- ハ
+- 口
+- 初
+- 谷
+keyword: ''
+radical: 衣
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 裕
+---
+parts:
+- 方
+- 乞
+- 込
+- 子
+keyword: ''
+radical: 辵
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 遊
+---
+parts:
+- 一
+- ノ
+- 厶
+- 隹
+keyword: ''
+radical: 隹
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 雄
+---
+parts:
+- ノ
+- 乃
+- 禾
+- 言
+keyword: ''
+radical: 言
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 誘
+---
+parts:
+- 心
+- 白
+- 自
+- 一
+- 冖
+- 夂
+keyword: ''
+radical: 心
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 憂
+---
+parts:
+- 儿
+- 冂
+- 口
+- 虫
+- 鬲
+keyword: ''
+radical: 虫
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 融
+---
+parts:
+- 心
+- 白
+- 自
+- 一
+- 化
+- 冖
+- 夂
+keyword: ''
+radical: 人
+strokes: 17
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 優
+---
+parts:
+- 一
+- 勹
+- 卜
+keyword: ''
+radical: 臼
+strokes: 3
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 與
+character: 与
+---
+parts:
+- 一
+- 亅
+- マ
+keyword: ''
+radical: 豕
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai: 豫
+character: 予
+---
+parts:
+- 一
+- 亅
+- 二
+- 个
+- ハ
+- 小
+- 示
+keyword: ''
+radical: 食
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai: 餘
+character: 余
+---
+parts:
+- 言
+- 一
+- 并
+- 尚
+keyword: ''
+radical: 言
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 譽
+character: 誉
+---
+parts:
+- 一
+- 亅
+- ハ
+- マ
+- 欠
+- 目
+- 貝
+- 頁
+keyword: ''
+radical: 頁
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 預
+---
+parts:
+- 力
+- 幺
+keyword: ''
+radical: 幺
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 幼
+---
+parts:
+- 用
+keyword: ''
+radical: 用
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 用
+---
+parts:
+- 王
+- 羊
+- 并
+keyword: ''
+radical: 羊
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 羊
+---
+parts:
+- ノ
+- 大
+- 女
+keyword: ''
+radical: 女
+strokes: 7
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 妖
+---
+parts:
+- 王
+- 羊
+- 并
+- 汁
+keyword: ''
+radical: 水
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 洋
+---
+parts:
+- 西
+- 女
+keyword: ''
+radical: 襾
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 要
+---
+parts:
+- 个
+- ハ
+- 口
+- 宀
+- 穴
+- 谷
+keyword: ''
+radical: 宀
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 容
+---
+parts:
+- 用
+- 聿
+- 广
+- ヨ
+keyword: ''
+radical: 广
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 庸
+---
+parts:
+- 一
+- 扎
+- 日
+- 勿
+keyword: ''
+radical: 手
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 揚
+---
+parts:
+- 凵
+- 干
+- 扎
+- 爪
+keyword: ''
+radical: 手
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 搖
+character: 揺
+---
+parts:
+- 艾
+- 木
+- 世
+keyword: ''
+radical: 艸
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 葉
+---
+parts:
+- 日
+- 勿
+- 一
+- 阡
+keyword: ''
+radical: 阜
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 陽
+---
+parts:
+- 穴
+- 谷
+- 个
+- ハ
+- 口
+- 宀
+- 汁
+keyword: ''
+radical: 水
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 溶
+---
+parts:
+- 女
+- 月
+- 西
+keyword: ''
+radical: 肉
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 腰
+---
+parts:
+- 并
+- 木
+- 水
+- 王
+- 羊
+keyword: ''
+radical: 木
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai: 樣
+character: 様
+---
+parts:
+- 日
+- 勿
+- 疔
+- 一
+- ノ
+- 勹
+keyword: ''
+radical: 疒
+strokes: 14
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 瘍
+---
+parts:
+- 止
+- 用
+- 足
+- マ
+- 口
+keyword: ''
+radical: 足
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 踊
+---
+parts:
+- 杰
+- 王
+- 穴
+- 羊
+- 儿
+- 并
+- 宀
+keyword: ''
+radical: 穴
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 窯
+---
+parts:
+- 并
+- 王
+- 羊
+- 食
+keyword: ''
+radical: 食
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 養
+---
+parts:
+- 亠
+- 幺
+- 扎
+- 隹
+keyword: ''
+radical: 手
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 擁
+---
+parts:
+- 爪
+- 言
+- 凵
+- 干
+keyword: ''
+radical: 言
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 謠
+character: 謡
+---
+parts:
+- 日
+- 隹
+- ヨ
+keyword: ''
+radical: 日
+strokes: 18
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 曜
+---
+parts:
+- 卩
+- 扎
+keyword: ''
+radical: 手
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 抑
+---
+parts:
+- ノ
+- 大
+- 汁
+keyword: ''
+radical: 水
+strokes: 7
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 沃
+---
+parts:
+- 谷
+- 个
+- ハ
+- 口
+- 汁
+keyword: ''
+radical: 水
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 浴
+---
+parts:
+- 欠
+- 谷
+- 个
+- ハ
+- 口
+keyword: ''
+radical: 欠
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 欲
+---
+parts:
+- 立
+- 羽
+- 冫
+keyword: ''
+radical: 羽
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 翌
+---
+parts:
+- 一
+- ｜
+- 二
+- ハ
+- 冫
+- 井
+- 田
+- 羽
+keyword: ''
+radical: 羽
+strokes: 17
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 翼
+---
+parts:
+- 立
+- 扎
+keyword: ''
+radical: 手
+strokes: 8
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 拉
+---
+parts:
+- 木
+- 田
+- 初
+keyword: ''
+radical: 衣
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 裸
+---
+parts:
+- 小
+- 幺
+- 買
+- 糸
+- 隹
+keyword: ''
+radical: 网
+strokes: 19
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 羅
+---
+parts:
+- ｜
+- 二
+- 亠
+- 木
+- 米
+keyword: ''
+radical: 人
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai: 來
+character: 来
+---
+parts:
+- 田
+- 雨
+keyword: ''
+radical: 雨
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 雷
+---
+parts:
+- 木
+- 目
+- 貝
+- 頁
+- ｜
+- ハ
+- 口
+keyword: ''
+radical: 貝
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 賴
+character: 頼
+---
+parts:
+- 口
+- 夂
+- 小
+- 幺
+- 糸
+keyword: ''
+radical: 糸
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 絡
+---
+parts:
+- 艾
+- 口
+- 夂
+- 汁
+keyword: ''
+radical: 艸
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 落
+---
+parts:
+- 酉
+- 口
+- 夂
+keyword: ''
+radical: 酉
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 酪
+---
+parts:
+- 木
+- 立
+- 辛
+- ｜
+- 十
+- 口
+keyword: ''
+radical: 辛
+strokes: 14
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 辣
+---
+parts:
+- 乙
+- 口
+- 舌
+keyword: ''
+radical: 乙
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai: 亂
+character: 乱
+---
+parts:
+- 丶
+- ノ
+- 卜
+- 卩
+keyword: ''
+radical: 卩
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 卵
+---
+parts:
+- 臣
+- 見
+- 乞
+- ノ
+- 二
+keyword: ''
+radical: 見
+strokes: 17
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai: 覽
+character: 覧
+---
+parts:
+- 皿
+- 臣
+- 乞
+- ノ
+- 二
+- 汁
+keyword: ''
+radical: 水
+strokes: 18
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 濫
+---
+parts:
+- 艾
+- 皿
+- 臣
+- 乞
+- ノ
+- 二
+keyword: ''
+radical: 艸
+strokes: 18
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 藍
+---
+parts:
+- 日
+- 木
+- 田
+- 門
+- 一
+- ｜
+keyword: ''
+radical: 木
+strokes: 20
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 欄
+character: 欄
+---
+parts:
+- 一
+- 丶
+- ノ
+- 口
+keyword: ''
+radical: 口
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 吏
+---
+parts:
+- 禾
+- 刈
+keyword: ''
+radical: 刀
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 利
+---
+parts:
+- 里
+keyword: ''
+radical: 里
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 里
+---
+parts:
+- 王
+- 里
+keyword: ''
+radical: 玉
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 理
+---
+parts:
+- 疔
+- 禾
+- 刈
+keyword: ''
+radical: 疒
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 痢
+---
+parts:
+- 亠
+- 衣
+- 里
+keyword: ''
+radical: 衣
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 裏
+---
+parts:
+- 夂
+- 尸
+- 彳
+- 日
+- 乞
+keyword: ''
+radical: 尸
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 履
+---
+parts:
+- 王
+- 禹
+- 亠
+- 凵
+keyword: ''
+radical: 玉
+strokes: 15
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 璃
+---
+parts:
+- 禹
+- 隹
+- 亠
+- 凵
+keyword: ''
+radical: 隹
+strokes: 19
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 離
+---
+parts:
+- 儿
+- 土
+- 阡
+keyword: ''
+radical: 阜
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 陸
+---
+parts:
+- 立
+keyword: ''
+radical: 立
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 立
+---
+parts:
+- 聿
+- 彳
+keyword: ''
+radical: 彳
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 律
+---
+parts:
+- 木
+- 西
+- 忙
+keyword: ''
+radical: 心
+strokes: 13
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 慄
+---
+parts:
+- 田
+- 口
+- 夂
+keyword: ''
+radical: 田
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 略
+---
+parts:
+- 木
+- 卩
+keyword: ''
+radical: 木
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 柳
+---
+parts:
+- 亠
+- 厶
+- 川
+- 汁
+keyword: ''
+radical: 水
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 流
+---
+parts:
+- 田
+- 刀
+- 厶
+keyword: ''
+radical: 田
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 留
+---
+parts:
+- 田
+- 立
+- 竜
+- 乙
+keyword: ''
+radical: 龍
+strokes: 10
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai: 龍
+character: 竜
+---
+parts:
+- 立
+- 米
+keyword: ''
+radical: 米
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 粒
+---
+parts:
+- 生
+- 夂
+- 阡
+keyword: ''
+radical: 阜
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 隆
+character: 隆
+---
+parts:
+- 石
+- 亠
+- 厶
+- 口
+- 川
+keyword: ''
+radical: 石
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 硫
+---
+parts:
+- ノ
+- 化
+- 口
+keyword: ''
+radical: 人
+strokes: 9
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 侶
+---
+parts:
+- ノ
+- 方
+- 乞
+keyword: ''
+radical: 方
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 旅
+---
+parts:
+- 田
+- 虍
+- 力
+- 匕
+- 卜
+- 厂
+keyword: ''
+radical: 虍
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 虜
+character: 虜
+---
+parts:
+- 心
+- 田
+- 虍
+- 匕
+- 卜
+- 厂
+keyword: ''
+radical: 心
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 慮
+---
+parts:
+- 一
+- 亅
+keyword: ''
+radical: 亅
+strokes: 2
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 了
+---
+parts:
+- 一
+- ｜
+- 冂
+- 山
+keyword: ''
+radical: 入
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai: 兩
+character: 両
+---
+parts:
+- 艮
+keyword: ''
+radical: 艮
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 良
+---
+parts:
+- 斗
+- 米
+keyword: ''
+radical: 斗
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 料
+---
+parts:
+- 亠
+- 口
+- 小
+- 汁
+keyword: ''
+radical: 水
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 涼
+---
+parts:
+- 几
+- 尚
+- 犯
+- 用
+keyword: ''
+radical: 犬
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 獵
+character: 猟
+---
+parts:
+- 儿
+- 土
+- 夂
+- 阡
+keyword: ''
+radical: 阜
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 陵
+---
+parts:
+- 日
+- 里
+- 一
+keyword: ''
+radical: 里
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 量
+---
+parts:
+- 化
+- 大
+- 小
+- 日
+keyword: ''
+radical: 人
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 僚
+---
+parts:
+- 一
+- 个
+- ハ
+- 卩
+- 目
+- 貝
+- 頁
+keyword: ''
+radical: 頁
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '5'
+dependencies: []
+kyujitai:
+character: 領
+---
+parts:
+- 日
+- 并
+- 大
+- 宀
+- 小
+keyword: ''
+radical: 宀
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 寮
+---
+parts:
+- 并
+- 大
+- 小
+- 日
+- 疔
+keyword: ''
+radical: 疒
+strokes: 17
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 療
+---
+parts:
+- 并
+- 大
+- 小
+- 日
+- 目
+keyword: ''
+radical: 目
+strokes: 17
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 瞭
+---
+parts:
+- 日
+- 米
+- 里
+- 一
+keyword: ''
+radical: 米
+strokes: 18
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 糧
+---
+parts:
+- 力
+keyword: ''
+radical: 力
+strokes: 2
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 力
+---
+parts:
+- 水
+- 糸
+- 隶
+- 小
+- 幺
+- ヨ
+keyword: ''
+radical: 糸
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai: 綠
+character: 緑
+---
+parts:
+- 木
+keyword: ''
+radical: 木
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 林
+---
+parts:
+- 里
+- 厂
+keyword: ''
+radical: 厂
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 厘
+---
+parts:
+- 冊
+- 一
+- ｜
+- 亅
+- 化
+- 个
+- 廾
+keyword: ''
+radical: 人
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 倫
+---
+parts:
+- 冊
+- 車
+- 一
+- ｜
+- 个
+- 廾
+keyword: ''
+radical: 車
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 輪
+---
+parts:
+- 米
+- 舛
+- 夕
+- 阡
+keyword: ''
+radical: 阜
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 隣
+---
+parts:
+- 一
+- ノ
+- 人
+- 口
+- 臣
+- 品
+- 乞
+keyword: ''
+radical: 臣
+strokes: 18
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 臨
+---
+parts:
+- 王
+- 田
+- 刀
+- 厶
+keyword: ''
+radical: 玉
+strokes: 14
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 瑠
+---
+parts:
+- 一
+- 大
+- 尸
+- 汁
+- 戸
+keyword: ''
+radical: 水
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 淚
+character: 涙
+---
+parts:
+- 小
+- 幺
+- 田
+- 糸
+keyword: ''
+radical: 糸
+strokes: 11
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 累
+---
+parts:
+- 冫
+- 土
+- 田
+keyword: ''
+radical: 土
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 壘
+character: 塁
+---
+parts:
+- 目
+- 米
+- 貝
+- 頁
+- ハ
+- 大
+keyword: ''
+radical: 頁
+strokes: 18
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai: 類
+character: 類
+---
+parts:
+- 一
+- 个
+- 卩
+keyword: ''
+radical: 人
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 令
+---
+parts:
+- 乙
+- 礼
+keyword: ''
+radical: 示
+strokes: 5
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai: 禮
+character: 礼
+---
+parts:
+- 一
+- 个
+- 冫
+- 卩
+keyword: ''
+radical: 冫
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 冷
+---
+parts:
+- 斤
+- 力
+- 厂
+keyword: ''
+radical: 力
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 勵
+character: 励
+---
+parts:
+- 一
+- 大
+- 尸
+- 戸
+keyword: ''
+radical: 戶
+strokes: 7
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai: 戾
+character: 戻
+---
+parts:
+- 歹
+- 化
+- 刈
+keyword: ''
+radical: 人
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 例
+---
+parts:
+- 金
+- 一
+- 个
+- 卩
+keyword: ''
+radical: 金
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 鈴
+---
+parts:
+- 雨
+- 一
+- 个
+- 卩
+keyword: ''
+radical: 雨
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 零
+---
+parts:
+- 一
+- ｜
+- 二
+- 雨
+keyword: ''
+radical: 雨
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 靈
+character: 霊
+---
+parts:
+- 水
+- 示
+- 隶
+- 二
+- 士
+- 小
+- ヨ
+keyword: ''
+radical: 隶
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 隷
+---
+parts:
+- 止
+- 米
+- 歯
+- 一
+- 个
+- 凵
+- 卩
+keyword: ''
+radical: 齒
+strokes: 17
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 齡
+character: 齢
+---
+parts:
+- 比
+- 鹿
+- 一
+- 冂
+- 广
+keyword: ''
+radical: 鹿
+strokes: 19
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 麗
+---
+parts:
+- 日
+- 木
+- 麻
+- 厂
+- 广
+keyword: ''
+radical: 日
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 曆
+character: 暦
+---
+parts:
+- 木
+- 止
+- 麻
+- 厂
+- 广
+keyword: ''
+radical: 止
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai: 歷
+character: 歴
+---
+parts:
+- 歹
+- 刈
+keyword: ''
+radical: 刀
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 列
+---
+parts:
+- ノ
+- 力
+- 小
+keyword: ''
+radical: 力
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 劣
+---
+parts:
+- 歹
+- 杰
+- 刈
+keyword: ''
+radical: 火
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 烈
+---
+parts:
+- 亠
+- 刈
+- 歹
+- 衣
+keyword: ''
+radical: 衣
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 裂
+---
+parts:
+- 亠
+- ハ
+- 心
+keyword: ''
+radical: 心
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 戀
+character: 恋
+---
+parts:
+- 込
+- 車
+keyword: ''
+radical: 辵
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 連
+---
+parts:
+- ｜
+- ハ
+- 并
+- 广
+- ヨ
+keyword: ''
+radical: 广
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 廉
+---
+parts:
+- 日
+- 木
+- 田
+- 糸
+- ｜
+- ハ
+- 小
+- 幺
+keyword: ''
+radical: 糸
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai: 練
+character: 練
+---
+parts:
+- 一
+- ｜
+- ハ
+- 并
+- 日
+- 木
+- 田
+- 金
+keyword: ''
+radical: 金
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 鍊
+character: 錬
+---
+parts:
+- ノ
+- 口
+keyword: ''
+radical: 口
+strokes: 7
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 呂
+---
+parts:
+- 戸
+- 火
+- 一
+- 尸
+keyword: ''
+radical: 火
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 爐
+character: 炉
+---
+parts:
+- ハ
+- 口
+- 夂
+- 目
+- 貝
+keyword: ''
+radical: 貝
+strokes: 13
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 賂
+---
+parts:
+- 止
+- 足
+- 口
+- 夂
+keyword: ''
+radical: 足
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 路
+---
+parts:
+- 口
+- 夂
+- 止
+- 足
+- 雨
+keyword: ''
+radical: 雨
+strokes: 21
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 露
+---
+parts:
+- 匕
+- 老
+keyword: ''
+radical: 老
+strokes: 6
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai:
+character: 老
+---
+parts:
+- 冖
+- 力
+- 尚
+keyword: ''
+radical: 力
+strokes: 7
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai: 勞
+character: 労
+---
+parts:
+- 廾
+- 王
+keyword: ''
+radical: 廾
+strokes: 7
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 弄
+---
+parts:
+- 艮
+- 邦
+keyword: ''
+radical: 邑
+strokes: 9
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 郞
+character: 郎
+---
+parts:
+- 月
+- 艮
+keyword: ''
+radical: 月
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai: 朗
+character: 朗
+---
+parts:
+- 艮
+- 汁
+keyword: ''
+radical: 水
+strokes: 10
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 浪
+---
+parts:
+- 艮
+- 广
+- 邦
+keyword: ''
+radical: 广
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 廊
+character: 廊
+---
+parts:
+- 木
+- 米
+- 女
+keyword: ''
+radical: 木
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 樓
+character: 楼
+---
+parts:
+- 尸
+- 汁
+- 雨
+keyword: ''
+radical: 水
+strokes: 14
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 漏
+---
+parts:
+- 月
+- 立
+- 竹
+- 乞
+keyword: ''
+radical: 竹
+strokes: 22
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 籠
+---
+parts:
+- 亠
+- ハ
+keyword: ''
+radical: 八
+strokes: 4
+jouyou:
+  year_added: ''
+  grade: '1'
+dependencies: []
+kyujitai:
+character: 六
+---
+parts:
+- ヨ
+- 水
+- 金
+- 隶
+keyword: ''
+radical: 金
+strokes: 16
+jouyou:
+  year_added: ''
+  grade: '4'
+dependencies: []
+kyujitai: 錄
+character: 録
+---
+parts:
+- 木
+- 比
+- 鹿
+- 广
+keyword: ''
+radical: 鹿
+strokes: 19
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 麓
+---
+parts:
+- 一
+- ｜
+- 个
+- 廾
+- 冊
+- 言
+keyword: ''
+radical: 言
+strokes: 15
+jouyou:
+  year_added: ''
+  grade: '6'
+dependencies: []
+kyujitai:
+character: 論
+---
+parts:
+- 口
+- 禾
+keyword: ''
+radical: 口
+strokes: 8
+jouyou:
+  year_added: ''
+  grade: '3'
+dependencies: []
+kyujitai:
+character: 和
+---
+parts:
+- 舌
+- 言
+- 口
+keyword: ''
+radical: 言
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: '2'
+dependencies: []
+kyujitai:
+character: 話
+---
+parts:
+- 月
+- 目
+- 貝
+- 一
+- ノ
+- ハ
+keyword: ''
+radical: 貝
+strokes: 13
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 賄
+---
+parts:
+- 月
+- 力
+keyword: ''
+radical: 肉
+strokes: 10
+jouyou:
+  year_added: '2010'
+  grade: S
+dependencies: []
+kyujitai:
+character: 脇
+---
+parts:
+- 心
+- 戈
+- 口
+keyword: ''
+radical: 心
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 惑
+---
+parts:
+- 十
+- 九
+- 木
+keyword: ''
+radical: 木
+strokes: 8
+jouyou:
+  year_added: '1981'
+  grade: S
+dependencies: []
+kyujitai:
+character: 枠
+---
+parts:
+- 亠
+- 弓
+- 汁
+keyword: ''
+radical: 水
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai: 灣
+character: 湾
+---
+parts:
+- 卩
+- 夕
+- 宀
+- 月
+keyword: ''
+radical: 肉
+strokes: 12
+jouyou:
+  year_added: ''
+  grade: S
+dependencies: []
+kyujitai:
+character: 腕
+---
+keyword: ''
+strokes: 7
+radical: 二
+parts:
+- 一
+- ｜
+- 口
+kyujitai: 亞
+jouyou:
+  grade: S
+  year_added: ''
+character: 亜
+dependencies: []
+---
+keyword: ''
+strokes: 9
+radical: 口
+parts:
+- 衣
+- 亠
+- 口
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 哀
+dependencies: []
+---
+keyword: ''
+strokes: 10
+radical: 手
+parts:
+- 厶
+- 扎
+- 矢
+- 乞
+kyujitai:
+jouyou:
+  grade: S
+  year_added: '2010'
+character: 挨
+dependencies: []
+---
+keyword: ''
+strokes: 13
+radical: 心
+parts:
+- 心
+- 爪
+- 冖
+- 夂
+kyujitai:
+jouyou:
+  grade: '4'
+  year_added: ''
+character: 愛
+dependencies: []
+---
+keyword: ''
+strokes: 17
+radical: 日
+parts:
+- 心
+- 日
+- 爪
+- 冖
+- 夂
+kyujitai:
+jouyou:
+  grade: S
+  year_added: '2010'
+character: 曖
+dependencies: []
+---
+keyword: ''
+strokes: 11
+radical: 心
+parts:
+- 心
+- 一
+- ｜
+- 口
+kyujitai: 惡
+jouyou:
+  grade: '3'
+  year_added: ''
+character: 悪
+dependencies: []
+---
+keyword: ''
+strokes: 12
+radical: 手
+parts:
+- 至
+- 厶
+- 土
+- 尸
+- 扎
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 握
+dependencies: []
+---
+keyword: ''
+strokes: 5
+radical: 土
+parts:
+- 厂
+- 土
+kyujitai: 壓
+jouyou:
+  grade: '5'
+  year_added: ''
+character: 圧
+dependencies: []
+---
+keyword: ''
+strokes: 6
+radical: 手
+parts:
+- 扎
+- 及
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 扱
+dependencies: []
+---
+keyword: ''
+strokes: 8
+radical: 宀
+parts:
+- 卩
+- 夕
+- 宀
+kyujitai:
+jouyou:
+  grade: S
+  year_added: '2010'
+character: 宛
+dependencies: []
+---
+keyword: ''
+strokes: 12
+radical: 山
+parts:
+- 風
+- 山
+kyujitai:
+jouyou:
+  grade: S
+  year_added: '2010'
+character: 嵐
+dependencies: []
+---
+keyword: ''
+strokes: 6
+radical: 宀
+parts:
+- 女
+- 宀
+kyujitai:
+jouyou:
+  grade: '3'
+  year_added: ''
+character: 安
+dependencies: []
+---
+keyword: ''
+strokes: 10
+radical: 木
+parts:
+- 女
+- 宀
+- 木
+kyujitai:
+jouyou:
+  grade: '4'
+  year_added: ''
+character: 案
+dependencies: []
+---
+keyword: ''
+strokes: 13
+radical: 日
+parts:
+- 日
+- 立
+- 音
+kyujitai:
+jouyou:
+  grade: '3'
+  year_added: ''
+character: 暗
+dependencies: []
+---
+keyword: ''
+strokes: 5
+radical: 人
+parts:
+- ｜
+- 丶
+- 人
+kyujitai:
+jouyou:
+  grade: '4'
+  year_added: ''
+character: 以
+dependencies: []
+---
+keyword: ''
+strokes: 6
+radical: 衣
+parts:
+- 衣
+- 亠
+kyujitai:
+jouyou:
+  grade: '4'
+  year_added: ''
+character: 衣
+dependencies: []
+---
+keyword: ''
+strokes: 7
+radical: 人
+parts:
+- 立
+- 化
+kyujitai:
+jouyou:
+  grade: '4'
+  year_added: ''
+character: 位
+dependencies: []
+---
+keyword: ''
+strokes: 7
+radical: 囗
+parts:
+- 井
+- 囗
+kyujitai: 圍
+jouyou:
+  grade: '4'
+  year_added: ''
+character: 囲
+dependencies: []
+---
+keyword: ''
+strokes: 7
+radical: 酉
+parts:
+- 矢
+- 乞
+- 匚
+kyujitai: 醫
+jouyou:
+  grade: '3'
+  year_added: ''
+character: 医
+dependencies: []
+---
+keyword: ''
+strokes: 8
+radical: 人
+parts:
+- 亠
+- 化
+- 衣
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 依
+dependencies: []
+---
+keyword: ''
+strokes: 8
+radical: 女
+parts:
+- 禾
+- 女
+kyujitai:
+jouyou:
+  grade: '3'
+  year_added: ''
+character: 委
+dependencies: []
+---
+keyword: ''
+strokes: 9
+radical: 女
+parts:
+- 戈
+- ノ
+- 厂
+- 女
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 威
+dependencies: []
+---
+keyword: ''
+strokes: 9
+radical: 爪
+parts:
+- 杰
+- ユ
+- 丶
+- ノ
+- 并
+- 勹
+kyujitai: 爲
+jouyou:
+  grade: S
+  year_added: ''
+character: 為
+dependencies: []
+---
+keyword: ''
+strokes: 9
+radical: 田
+parts:
+- 田
+- 衣
+- 一
+kyujitai:
+jouyou:
+  grade: S
+  year_added: '2010'
+character: 畏
+dependencies: []
+---
+keyword: ''
+strokes: 9
+radical: 肉
+parts:
+- 月
+- 田
+kyujitai:
+jouyou:
+  grade: '4'
+  year_added: ''
+character: 胃
+dependencies: []
+---
+keyword: ''
+strokes: 11
+radical: 寸
+parts:
+- 示
+- 二
+- 寸
+- 小
+- 尸
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 尉
+dependencies: []
+---
+keyword: ''
+strokes: 11
+radical: 田
+parts:
+- 井
+- 田
+- 一
+- ハ
+kyujitai:
+jouyou:
+  grade: '6'
+  year_added: ''
+character: 異
+dependencies: []
+---
+keyword: ''
+strokes: 11
+radical: 禾
+parts:
+- 禾
+- 夕
+kyujitai:
+jouyou:
+  grade: '5'
+  year_added: ''
+character: 移
+dependencies: []
+---
+keyword: ''
+strokes: 11
+radical: 艸
+parts:
+- 艾
+- 禾
+- 女
+kyujitai:
+jouyou:
+  grade: S
+  year_added: '2010'
+character: 萎
+dependencies: []
+---
+keyword: ''
+strokes: 12
+radical: 人
+parts:
+- 韋
+- 化
+- 口
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 偉
+dependencies: []
+---
+keyword: ''
+strokes: 12
+radical: 木
+parts:
+- 木
+- 一
+- 亅
+- 口
+- 大
+kyujitai:
+jouyou:
+  grade: S
+  year_added: '2010'
+character: 椅
+dependencies: []
+---
+keyword: ''
+strokes: 13
+radical: 彐
+parts:
+- 木
+- 田
+- 冖
+- ヨ
+- 彑
+kyujitai:
+jouyou:
+  grade: S
+  year_added: '2010'
+character: 彙
+dependencies: []
+---
+keyword: ''
+strokes: 13
+radical: 心
+parts:
+- 心
+- 日
+- 立
+- 音
+kyujitai:
+jouyou:
+  grade: '3'
+  year_added: ''
+character: 意
+dependencies: []
+---
+keyword: ''
+strokes: 13
+radical: 辵
+parts:
+- 韋
+- 込
+- 口
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 違
+dependencies: []
+---
+keyword: ''
+strokes: 14
+radical: 糸
+parts:
+- 小
+- 幺
+- 糸
+- 隹
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 維
+dependencies: []
+---
+keyword: ''
+strokes: 15
+radical: 心
+parts:
+- 心
+- 示
+- 二
+- 寸
+- 小
+- 尸
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 慰
+dependencies: []
+---
+keyword: ''
+strokes: 15
+radical: 辵
+parts:
+- 目
+- 貝
+- 一
+- ｜
+- ハ
+- 込
+- 口
+kyujitai:
+jouyou:
+  grade: '6'
+  year_added: ''
+character: 遺
+dependencies: []
+---
+keyword: ''
+strokes: 16
+radical: 糸
+parts:
+- 糸
+- 韋
+- 口
+- 小
+- 幺
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 緯
+dependencies: []
+---
+keyword: ''
+strokes: 11
+radical: 土
+parts:
+- 戈
+- 口
+- 土
+kyujitai:
+jouyou:
+  grade: '6'
+  year_added: ''
+character: 域
+dependencies: []
+---
+keyword: ''
+strokes: 8
+radical: 肉
+parts:
+- 月
+- 亠
+- 厶
+kyujitai:
+jouyou:
+  grade: '3'
+  year_added: ''
+character: 育
+dependencies: []
+---
+keyword: ''
+strokes: 1
+radical: 一
+parts:
+- 一
+kyujitai:
+jouyou:
+  grade: '1'
+  year_added: ''
+character: 一
+dependencies: []
+---
+keyword: ''
+strokes: 7
+radical: 士
+parts:
+- 冖
+- 匕
+- 士
+kyujitai: 壹
+jouyou:
+  grade: S
+  year_added: ''
+character: 壱
+dependencies: []
+---
+keyword: ''
+strokes: 11
+radical: 辵
+parts:
+- ノ
+- 儿
+- 勹
+- 込
+- 免
+kyujitai: 逸
+jouyou:
+  grade: S
+  year_added: ''
+character: 逸
+dependencies: []
+---
+keyword: ''
+strokes: 9
+radical: 艸
+parts:
+- 艾
+- 欠
+- 冫
+kyujitai:
+jouyou:
+  grade: S
+  year_added: '2010'
+character: 茨
+dependencies: []
+---
+keyword: ''
+strokes: 6
+radical: 艸
+parts:
+- 艾
+- 一
+- 干
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 芋
+dependencies: []
+---
+keyword: ''
+strokes: 4
+radical: 弓
+parts:
+- ｜
+- 弓
+kyujitai:
+jouyou:
+  grade: '2'
+  year_added: ''
+character: 引
+dependencies: []
+---
+keyword: ''
+strokes: 6
+radical: 卩
+parts:
+- ｜
+- 卩
+kyujitai:
+jouyou:
+  grade: '4'
+  year_added: ''
+character: 印
+dependencies: []
+---
+keyword: ''
+strokes: 6
+radical: 囗
+parts:
+- 囗
+- 大
+kyujitai:
+jouyou:
+  grade: '5'
+  year_added: ''
+character: 因
+dependencies: []
+---
+keyword: ''
+strokes: 9
+radical: 口
+parts:
+- 口
+- 囗
+- 大
+kyujitai:
+jouyou:
+  grade: S
+  year_added: '2010'
+character: 咽
+dependencies: []
+---
+keyword: ''
+strokes: 9
+radical: 女
+parts:
+- 囗
+- 大
+- 女
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 姻
+dependencies: []
+---
+keyword: ''
+strokes: 10
+radical: 口
+parts:
+- ハ
+- 口
+- 目
+- 貝
+kyujitai:
+jouyou:
+  grade: '3'
+  year_added: ''
+character: 員
+dependencies: []
+---
+keyword: ''
+strokes: 10
+radical: 阜
+parts:
+- 二
+- 儿
+- 宀
+- 阡
+- 元
+kyujitai:
+jouyou:
+  grade: '3'
+  year_added: ''
+character: 院
+dependencies: []
+---
+keyword: ''
+strokes: 11
+radical: 水
+parts:
+- 爪
+- 王
+- ノ
+- 士
+- 汁
+kyujitai:
+jouyou:
+  grade: S
+  year_added: '2010'
+character: 淫
+dependencies: []
+---
+keyword: ''
+strokes: 11
+radical: 阜
+parts:
+- 一
+- 二
+- 个
+- 厶
+- 阡
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 陰
+dependencies: []
+---
+keyword: ''
+strokes: 12
+radical: 食
+parts:
+- 欠
+- 食
+kyujitai:
+jouyou:
+  grade: '3'
+  year_added: ''
+character: 飲
+dependencies: []
+---
+keyword: ''
+strokes: 14
+radical: 阜
+parts:
+- ノ
+- 尚
+- ヨ
+- 阡
+- 心
+kyujitai: 隱
+jouyou:
+  grade: S
+  year_added: ''
+character: 隠
+dependencies: []
+---
+keyword: ''
+strokes: 19
+radical: 音
+parts:
+- ハ
+- 口
+- 日
+- 目
+- 立
+- 貝
+- 音
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 韻
+dependencies: []
+---
+keyword: ''
+strokes: 5
+radical: 口
+parts:
+- 一
+- ノ
+- 口
+kyujitai:
+jouyou:
+  grade: '1'
+  year_added: ''
+character: 右
+dependencies: []
+---
+keyword: ''
+strokes: 6
+radical: 宀
+parts:
+- 亅
+- 宀
+- 干
+kyujitai:
+jouyou:
+  grade: '6'
+  year_added: ''
+character: 宇
+dependencies: []
+---
+keyword: ''
+strokes: 6
+radical: 羽
+parts:
+- 羽
+- 冫
+kyujitai:
+jouyou:
+  grade: '2'
+  year_added: ''
+character: 羽
+dependencies: []
+---
+keyword: ''
+strokes: 8
+radical: 雨
+parts:
+- 雨
+kyujitai:
+jouyou:
+  grade: '1'
+  year_added: ''
+character: 雨
+dependencies: []
+---
+keyword: ''
+strokes: 10
+radical: 口
+parts:
+- ハ
+- 口
+- 目
+- 貝
+kyujitai:
+jouyou:
+  grade: S
+  year_added: '2010'
+character: 唄
+dependencies: []
+---
+keyword: ''
+strokes: 29
+radical: 鬯
+parts:
+- 冖
+- 凵
+- 匕
+- 彡
+- 木
+- 缶
+- 鬯
+kyujitai:
+jouyou:
+  grade: S
+  year_added: '2010'
+character: 鬱
+dependencies: []
+---
+keyword: ''
+strokes: 10
+radical: 田
+parts:
+- 亠
+- 久
+- 田
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 畝
+dependencies: []
+---
+keyword: ''
+strokes: 10
+radical: 水
+parts:
+- 用
+- 丶
+- 十
+- 汁
+kyujitai:
+jouyou:
+  grade: S
+  year_added: ''
+character: 浦
+dependencies: []
+---
+keyword: ''
+strokes: 12
+radical: 辵
+parts:
+- 冖
+- 込
+- 車
+kyujitai:
+jouyou:
+  grade: '3'
+  year_added: ''
+character: 運
+dependencies: []
+---
+keyword: ''
+strokes: 12
+radical: 雨
+parts:
+- 雨
+- 一
+- 二
+- 厶
+kyujitai:
+jouyou:
+  grade: '2'
+  year_added: ''
+character: 雲
+dependencies: []
+---
+keyword: ''
+strokes: 5
+radical: 水
+parts:
+- 丶
+- 水
+kyujitai:
+jouyou:
+  grade: '5'
+  year_added: ''
+character: 永
+dependencies: []
+---
+keyword: ''
+strokes: 8
+radical: 水
+parts:
+- 丶
+- 汁
+- 水
+kyujitai:
+jouyou:
+  grade: '3'
+  year_added: ''
+character: 泳
+dependencies: []
+---
+keyword: ''
+strokes: 8
+radical: 艸
+parts:
+- 艾
+- ノ
+- 冖
+- 大
+kyujitai:
+jouyou:
+  grade: '4'
+  year_added: ''
+character: 英
+dependencies: []
+---
+keyword: ''
+strokes: 9
+radical: 日
+parts:
+- 日
+- ノ
+- 冖
+- 大
+kyujitai:
+jouyou:
+  grade: '6'
+  year_added: ''
+character: 映
+dependencies: []
+---
+keyword: ''
+strokes: 9
+radical: 木
+parts:
+- 木
+- 冖
+- 尚
+kyujitai: 榮
+jouyou:
+  grade: '4'
+  year_added: ''
+character: 栄
+dependencies: []

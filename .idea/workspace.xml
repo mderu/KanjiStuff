@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85bdfb44-bf5e-4c49-bc27-bd4b495fcfd1" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="4">
+      <content type="file-editors">
+        <state>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file leaf-file-name="heisig.yaml" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/heisig.yaml">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="234">
+                    <caret line="4144" column="3" lean-forward="true" selection-start-line="4144" selection-start-column="3" selection-end-line="4144" selection-end-column="4" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="wiki_page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wiki_page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382248">
+              <caret line="15927" column="10" selection-start-line="15927" selection-start-column="10" selection-end-line="15927" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="visualizer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/visualizer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="134" column="2" lean-forward="true" selection-start-line="134" selection-start-column="2" selection-end-line="134" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kanji.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kanji.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parse_wiki_table.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parse_wiki_table.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parse_jisho_page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parse_jisho_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parse_component_tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parse_component_tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1056">
+              <caret line="45" column="59" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ssl.py" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/lib/python3.5/ssl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13608">
+              <caret line="585" selection-start-line="585" selection-end-line="585" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gather_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gather_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/lib/python3/dist-packages/yaml/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4608">
+              <caret line="199" selection-start-line="199" selection-end-line="199" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kanji.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kanji.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="888">
+              <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>目</find>
+      <find>⼗</find>
+      <find>寸</find>
+      <find>⼂</find>
+      <find>⼃</find>
+      <find>tongu</find>
+      <find>⿸</find>
+      <find>勹</find>
+      <find>defeat</find>
+      <find>mea</find>
+      <find>乚</find>
+      <find>rest</find>
+      <find>人</find>
+      <find>page</find>
+      <find>each</find>
+      <find>eye</find>
+      <find>タ</find>
+      <find>bound</find>
+      <find>句</find>
+      <find>⼘</find>
+      <find>young</find>
+      <find>刂</find>
+      <find>止</find>
+      <find>do</find>
+      <find>grove</find>
+      <find />
+      <find>colors</find>
+      <find>Back</find>
+      <find>inverted</find>
+      <find>戈</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>⼃</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wiki_page.html" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/kanji.py" />
+        <option value="$PROJECT_DIR$/parse_wiki_table.py" />
+        <option value="$PROJECT_DIR$/parse_jisho_page.py" />
+        <option value="$PROJECT_DIR$/parse_component_tree.py" />
+        <option value="$PROJECT_DIR$/gather_data.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+        <option value="$PROJECT_DIR$/kanji.yaml" />
+        <option value="$PROJECT_DIR$/visualizer.py" />
+        <option value="$PROJECT_DIR$/heisig.yaml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="-1" />
+    <option name="width" value="962" />
+    <option name="height" value="528" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KanjiStuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KanjiStuff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KanjiStuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="KanjiStuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/parse_jisho_page.py" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.visualizer">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="KanjiStuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parse_jisho_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="gather_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="KanjiStuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gather_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="parse_wiki_table" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="KanjiStuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parse_wiki_table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="visualizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="KanjiStuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visualizer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.parse_wiki_table" />
+      <item itemvalue="Python.gather_data" />
+      <item itemvalue="Python.visualizer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.visualizer" />
+        <item itemvalue="Python.gather_data" />
+        <item itemvalue="Python.parse_wiki_table" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85bdfb44-bf5e-4c49-bc27-bd4b495fcfd1" name="Default" comment="" />
+      <created>1559972711458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559972711458</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="962" height="528" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23541667" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5201271" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>(line, re.match('\s+&lt;a', line))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(line, re.match('&lt;a', line))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(line, re.match('&lt;a.*', line))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(line, re.match('&lt;a.*&gt;', line))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(line, re.match('&lt;a.*&gt;(.)&lt;/a&gt;', line))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str(val)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>json.dumps(             {                 'character': self.character,                 'radical': self.radical,                 'parts': self.parts,                 'dependencies': self.dependencies,                 'keyword': self.keyword,             },             indent=4         )</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>re.match('&lt;td.*?&gt;(?:.*?&lt;a.*?&gt;(.*?)&lt;/a&gt;.*)?&lt;/td&gt;', '&lt;td&gt;&lt;/td&gt;')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>re.match('&lt;td.*?&gt;&lt;/td&gt;', '&lt;td&gt;&lt;/td&gt;')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wiki_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382248">
+          <caret line="15927" column="10" selection-start-line="15927" selection-start-column="10" selection-end-line="15927" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_wiki_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_jisho_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_component_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="45" column="59" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/ssl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13608">
+          <caret line="585" selection-start-line="585" selection-end-line="585" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gather_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/yaml/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4608">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kanji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visualizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wiki_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382248">
+          <caret line="15927" column="10" selection-start-line="15927" selection-start-column="10" selection-end-line="15927" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_wiki_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_jisho_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_component_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="45" column="59" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/ssl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14040">
+          <caret line="585" selection-start-line="585" selection-end-line="585" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gather_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/yaml/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4608">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kanji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visualizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="69" column="24" lean-forward="true" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wiki_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238905">
+          <caret line="15927" column="10" lean-forward="true" selection-start-line="15927" selection-start-column="10" selection-end-line="15927" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_wiki_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_jisho_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_component_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="45" column="59" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/ssl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8775">
+          <caret line="585" selection-start-line="585" selection-end-line="585" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kanji.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gather_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/yaml/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2985">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kanji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visualizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_wiki_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="87" column="17" lean-forward="true" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24960">
+          <caret line="1664" selection-start-line="1664" selection-end-line="1664" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/encodings/cp1252.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24960">
+          <caret line="1664" selection-start-line="1664" selection-end-line="1664" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/html/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/yaml/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4608">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/yaml/emitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="257" selection-start-line="257" selection-end-line="257" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_wiki_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_component_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="45" column="59" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/ssl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13608">
+          <caret line="585" selection-start-line="585" selection-end-line="585" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gather_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_jisho_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kanji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wiki_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382248">
+          <caret line="15927" column="10" selection-start-line="15927" selection-start-column="10" selection-end-line="15927" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kanji.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visualizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="134" column="2" lean-forward="true" selection-start-line="134" selection-start-column="2" selection-end-line="134" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heisig.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="4144" column="3" lean-forward="true" selection-start-line="4144" selection-start-column="3" selection-end-line="4144" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
