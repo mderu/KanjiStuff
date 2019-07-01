@@ -1,6 +1,8 @@
 # Helpful links:
 # List used:
 #   https://www.reddit.com/r/LearnJapanese/comments/1a126a/all_2200_kanji_from_heisigs_remembering_the_kanji/
+# Append character at the end of the URL:
+#   https://en.wiktionary.org/wiki/
 # Search with X#kanji:
 #   https://jisho.org
 # Heisig Lookup:
@@ -43,14 +45,25 @@ c: ⼂
 k: dot
 t: ⼂
 variants:
-  - 乀
+  - ㇀
+  - 丶
+  - 丿
   - ⼁
   - ⼃
   - ⼅
   - 亅
+  # Clearly not dots
+  - 乀
+  - 乁
+  - 𠂊
   - ㇇
-  - ㇀
-  - 丶
+  - 𠃋
+  - 匚
+  - コ
+  - ユ
+  - ㇈
+  - # For Heisig'ers: belt
+  - 冂
 ---
 do_not_learn: true
 c: 厂
@@ -61,12 +74,14 @@ variants:
   - 𠂆
 ---
 do_not_learn: true
+type: Hyōgai
 c: 广
 k: cave
 dependencies:
   - 厂
 ---
 do_not_learn: true
+type: Hyōgai
 c: 𠂇
 k: by one's side
 t:
@@ -74,77 +89,77 @@ t:
     - 一
     - 丿
 ---
-character: 一
-keyword: one
-tree: 一
+c: 一
+k: one
+t: 一
 variants:
   - ⼀
 ---
-character: 二
-keyword: two
-tree:
+c: 二
+k: two
+t:
   vertical':
     - 一
     - 一
 ---
-character: 三
-keyword: three
-tree:
+c: 三
+k: three
+t:
   vertical:
     - 一
     - 一
     - 一
 ---
-character: 四
-keyword: four
-tree:
+c: 四
+k: four
+t:
   ⿴:
     - 口
     - ⼉
 ---
-character: 五
-keyword: five
-tree: 五 #Probably isn't worth pulling in into strokes.
+c: 五
+k: five
+t: 五 #Probably isn't worth pulling in into strokes.
 ---
-character: 六
-keyword: six
-tree:
+c: 六
+k: six
+t:
   vertical:
     - ⼇
     - 八
 -character: 七
-keyword: seven
-tree:
+k: seven
+t:
   ⿻:
     - ㇀
     - 乚
 ---
-character: 八
-keyword: eight
-tree: 八
+c: 八
+k: eight
+t: 八
 variants:
   - ⼋
 ---
-character: 九
-keyword: nine
-tree: 九
+c: 九
+k: nine
+t: 九
 ---
-character: 十
-keyword: ten
-tree: 十
+c: 十
+k: ten
+t: 十
 variants:
   - ⼗
 ---
-character: 口
-keyword: mouth
-tree: 口
+c: 口
+k: mouth
+t: 口
 variants:
   - ⼝
   - 囗
 ---
-character: 日
-keyword: day
-tree:
+c: 日
+k: day
+t:
   # Up for debate.
   ⿴:
     - 口
@@ -152,9 +167,9 @@ tree:
 variants:
   - ⽇
 ---
-character: 月
-keyword: month
-tree: 月
+c: 月
+k: month
+t: 月
   # TODO: see if this makes sense from a learning perspective:
   # "Dictionary Paradox"
   #  ⿵:
@@ -164,252 +179,256 @@ variants:
   - ⺼
   - ⽉
 ---
-character: 田
-keyword: rice field
-tree: 田
+c: 田
+k: rice field
+t: 田
   #TODO: "Dictionary Paradox"
   #  ⿴:
   #    - 囗
   #    - 十
 ---
-character: 目
-keyword: eye
-tree: 目
+c: 目
+k: eye
+t: 目
   #TODO: "Dictionary Paradox"
   #  ⿴:
   #    - 囗
   #    - 𠄠
 ---
-character: 古
-keyword: old
-tree:
+c: 古
+k: old
+t:
   vertical:
     - 十
     - 口
 ---
-character: 吾
-keyword: I
-tree:
+c: 吾
+k: I
+t:
   vertical:
     - 五
     - 口
 ---
-character: 冒
-keyword: risk
-tree:
+c: 冒
+k: risk
+t:
   vertical:
     - 日
     - 目
 ---
-character: 朋
-keyword: companion
-tree:
+c: 朋
+k: companion
+t:
   horizontal:
     - 月
     - 月
 ---
-character: 明
-keyword: bright
-tree:
+c: 明
+k: bright
+t:
   horizontal:
     - 日
     - 月
 ---
-character: 唱
-keyword: chant
-tree:
+c: 唱
+k: chant
+t:
   horizontal:
     - 口
     - vertical:
       - 日
       - 日
 ---
-character: 晶
-keyword: sparkle
-tree:
+c: 晶
+k: sparkle
+t:
   vertical:
     - 日
     - horizontal:
         - 日
         - 日
 ---
-character: 品
-keyword: goods
-tree:
+c: 品
+k: goods
+t:
   vertical:
     - 口
     horizontal:
       - 口
       - 口
 ---
-character: 呂
-keyword: spine
-tree: #TODO
+c: 呂
+k: spine
+t:
+  ⿳:
+    - 口
+    - 丿
+    - 口
 ---
-character: 昌
-keyword: prosperous
-tree:
+c: 昌
+k: prosperous
+t:
   vertical:
     - 日
     - 日
 ---
-character: 早
-keyword: early
-tree:
+c: 早
+k: early
+t:
   vertical:
     - 日
     - 十
 ---
-character: 旭
-keyword: rising sun
-tree:
+c: 旭
+k: rising sun
+t:
   ⿺:
     - 九
     - 日
 ---
-character: 世
-keyword: generations
-tree: 世
+c: 世
+k: generations
+t: 世
 #TODO: "Dictionary Paradox"
 # ⿻:
 #   - 廿
 #   - 𠃊
 ---
-character: 胃
-keyword: stomach
-tree:
+c: 胃
+k: stomach
+t:
   vertical:
     - 田
     - 月
 ---
-character: 旦
-keyword: nightbreak
-tree:
+c: 旦
+k: nightbreak
+t:
   vertical:
     - 日
     - 一
 ---
-character: 胆
-keyword: gall bladder
-tree:
+c: 胆
+k: gall bladder
+t:
   horizontal:
     - 月
     - 旦
 ---
-character: 亘
-keyword: span
-tree:
+c: 亘
+k: span
+t:
   vertical:
     - 一
     - 日
     - 一
-character: 凹
-keyword: concave
-tree: 凹 # TODO
+c: 凹
+k: concave
+t: 凹 # TODO
 
 ---
-character: 凸
-keyword: convex
-tree: 凸 # TODO
+c: 凸
+k: convex
+t: 凸 # TODO
 ---
-character: 旧
-keyword: olden days
-tree:
+c: 旧
+k: olden days
+t:
   horizontal:
     - ⼁
     - 日
 ---
-character: 自
-keyword: oneself
-tree:
+c: 自
+k: oneself
+t:
   vertical:
     - ⼂
     - 目
 variants:
   - ⽬
 ---
-character: 白
-keyword: white
-tree:
+c: 白
+k: white
+t:
   - ⼂
   - 日
 ---
-character: 百
-keyword: hundred
-tree:
+c: 百
+k: hundred
+t:
   vertical:
     - 一
     - ⼂
     - 日
 ---
-character: 中
-keyword: in
-tree:
+c: 中
+k: in
+t:
   ⿻:
     - 口
     - ⼁
 ---
-character: 千
-keyword: thousand
-tree:
+c: 千
+k: thousand
+t:
   vertical:
     - ⼃
     - 十
 ---
-character: 舌
-keyword: tongue
-tree:
+c: 舌
+k: tongue
+t:
   vertical:
     - 千
     - 口
 ---
-character: 升
-keyword: measuring box
-tree:
+c: 升
+k: measuring box
+t:
   ⿱:
     - 丿
     - 廾
 ---
-character: 昇
-keyword: rise up
-tree:
+c: 昇
+k: rise up
+t:
   vertical:
     - 日
     - 升
 ---
-character: 丸
-keyword: round
-tree:
+c: 丸
+k: round
+t:
   ⿻:
     - 九
     - ⼂
 ---
-character: 寸
-keyword: measurement
-tree: 寸 #TODO: "Dictionary Paradox"
+c: 寸
+k: measurement
+t: 寸 #TODO: "Dictionary Paradox"
 ---
-character: 肘
-keyword: elbow
-tree:
+c: 肘
+k: elbow
+t:
   horizontal:
     - 月
     - 寸
 ---
-character: 専
-keyword: specialty
-tree:
+c: 専
+k: specialty
+t:
   vertical:
     - 十
     - 田
     - 寸
 ---
-character: 博
-keyword: Dr.
-tree:
+c: 博
+k: Dr.
+t:
   horizontal:
     - 十
     # Up for debate
-    - ⿻:
+    - ⿺:
       - 専
       - ⼂
 ---
@@ -420,38 +439,38 @@ t: 卜
 variants:
   - ⼘
 ---
-character: 占
-keyword: fortune-telling
-tree:
+c: 占
+k: fortune-telling
+t:
   vertical:
     - ⼘
     - 口
 ---
-character: 上
-keyword: above
-tree:
+c: 上
+k: above
+t:
   vertical:
     - ⼘
     - 一
 ---
-character: 下
-keyword: below
-tree:
+c: 下
+k: below
+t:
   vertical:
     - 一
     - ⼘
 ---
-character: 卓
-keyword: eminent
-tree:
+c: 卓
+k: eminent
+t:
   vertical:
     - ⼘
     - 日
     - 十
 ---
-character: 朝
-keyword: morning
-tree:
+c: 朝
+k: morning
+t:
   horizontal:
     - vertical:
       - 十
@@ -459,160 +478,167 @@ tree:
       - 十
     - 月
 ---
-character: 嘲
-keyword: derision
-tree:
+c: 嘲
+k: derision
+t:
   horizontal:
     - 口
     - 朝
 ---
-character: 只
-keyword: only
-tree:
+c: 只
+k: only
+t:
   vertical:
     - 口
     - 八
 ---
-character: 貝
-keyword: shellfish
-tree:
+c: 貝
+k: shellfish
+t:
   vertical:
     - 目
     - 八
 ---
-character: 唄
-keyword: pop song
-tree:
+c: 唄
+k: pop song
+t:
   horizontal:
     - 口
     - 貝
 ---
-character: 貞
-keyword: upright
-tree:
+c: 貞
+k: upright
+t:
   vertical:
     - ⼘
     - 貝
 ---
-character: 員
-keyword: employee
-tree:
+c: 員
+k: employee
+t:
   vertical:
     - 口
     - 貝
 ---
-character: 貼
-keyword: post a bill
-tree:
+c: 貼
+k: post a bill
+t:
   horizontal:
     - 貝
     - 占
 ---
-character: 見
-keyword: see
-tree:
+c: 見
+k: see
+t:
   vertical:
     - 目
     - ⼉
 ---
-character: 児
-keyword: newborn babe
-tree:
+c: 児
+k: newborn babe
+t:
   vertical:
     - 旧
     - ⼉
 ---
-character: 元
-keyword: beginning
-tree:
+c: 元
+k: beginning
+t:
   vertical:
     - 二
     - ⼉
 ---
-character: 頁
-keyword: page
-tree:
+c: 頁
+k: page
+t:
   vertical:
     - 一
     - ⼂
     - 貝
 ---
-character: 頑
-keyword: stubborn
-tree:
+c: 頑
+k: stubborn
+t:
   horizontal:
     - 元
     - 頁
 ---
-character: 凡
-keyword: mediocre
-tree:
+c: 凡
+k: mediocre
+t:
   ⿴:
     - ⼏
     - ⼂
 ---
-character: 負
-keyword: defeat
-tree:
+do_not_learn: true
+type: Hyōgai
+c: 勹
+k: bound up
+variants:
+  - ⺈
+---
+c: 負
+k: defeat
+t:
   horizontal:
     - 勹
     - 貝
 ---
-character: 万
-keyword: ten thousand
-tree:
+c: 万
+k: ten thousand
+t:
   vertical:
     - 一
     - horizontal:
       - ｜
       - ノ
 ---
-character: 句
-keyword: phrase
-tree:
+c: 句
+k: phrase
+t:
   ⿹:
     - 勹
     - 口
 ---
-character: 肌
-keyword: texture
-tree:
+c: 肌
+k: texture
+t:
   horizontal:
     - 月
     # TODO: Create a node for this.
     - 几
 ---
-character: 旬
-keyword: decameron
-tree:
+c: 旬
+k: decameron
+t:
   ⿹:
     - 勹
     - 日
 ---
-character: 勺
-keyword: ladle
-tree:
+c: 勺
+k: ladle
+t:
   ⿹:
     - 勹
     - ⼂
 ---
-character: 的
-keyword: bull's eye
-tree:
+c: 的
+k: bull's eye
+t:
   horizontal:
     - 白
     - 勺
 ---
-character: 首
-keyword: neck
-tree:
+c: 首
+k: neck
+t:
   ⿱:
     - 䒑
     - 自
 ---
-character: 乙
-keyword: fish guts
-tree: 乙
+c: 乙
+k: fish guts
+t: 乙
 variants:
   - ⺄
   - 𠃌
@@ -620,373 +646,374 @@ variants:
 ---
 do_not_learn: true
 type: Hyōgai
-character: 乚
+c: 乚
 # Wiki-provided meaning: mysterious
-keyword: fish hook
-tree: 乚
+k: fish hook
+t: 乚
 dependencies:
   - 乙
 ---
-character: 乱
-keyword: riot
-tree:
+c: 乱
+k: riot
+t:
   horizontal:
     - 舌
     - 乚
 ---
-character: 直
-keyword: straightaway
-tree:
+c: 直
+k: straightaway
+t:
   vertical:
     - 十
     - ⿺:
       - 乚
       - 目
 ---
-character: 具
-keyword: tool
-tree:
+c: 具
+k: tool
+t:
   vertical:
     - 目
     - 一
     - ハ
 ---
-character: 真
-keyword: true
-tree:
+c: 真
+k: true
+t:
   vertical:
     - 十
     - 具
 ---
-character: 工
-keyword: craft
-tree: 工
+c: 工
+k: craft
+t: 工
 ---
-character: 左
-keyword: left
-tree:
+c: 左
+k: left
+t:
   ⿸:
     - 𠂇
     - 工
 ---
-character: 右
-keyword: right
-tree:
+c: 右
+k: right
+t:
   ⿸:
     - 𠂇
     - 口
 ---
-character: 有
-keyword: possess
-tree:
-  ⿸:
-    # Up for debate.
-    # Order based on stroke order.
-    - ⿻:
-      - ノ
-      - 一
+c: 有
+k: possess
+t:
+  ⿸:- 𠂇
     - 月
 ---
-character: 賄
-keyword: bribe
-tree:
+c: 賄
+k: bribe
+t:
   horizontal:
     - 貝
     - 有
 ---
-character: 貢
-keyword: tribute
-tree:
+c: 貢
+k: tribute
+t:
   vertical:
     - 工
     - 貝
 ---
-character: 項
-keyword: paragraph
-tree:
+c: 項
+k: paragraph
+t:
   horizontal:
     - 工
     - 頁
 ---
-character: 刀
-keyword: sword
-tree: 刀
+c: 刀
+k: sword
+t: 刀
 variants:
   # For Heisig'ers: sabre/saber
   - 刂
 ---
-character: 刃
-keyword: blade
-tree:
+c: 刃
+k: blade
+t:
   bound:
     - 刀
     - ⼂
 ---
-character: 切
-keyword: cut
-tree:
+c: 切
+k: cut
+t:
   horizontal:
     - 匕
     - 刀
 ---
-character: 召
-keyword: seduce
-tree:
+c: 召
+k: seduce
+t:
   vertical:
     - 刀
     - 口
 ---
-character: 昭
-keyword: shining
-tree:
+c: 昭
+k: shining
+t:
   horizontal:
     - 日
     - 召
 ---
-character: 則
-keyword: rule
-tree:
+c: 則
+k: rule
+t:
   horizontal:
     - 貝
     - 刂
 ---
-character: 副
-keyword: vice-
-tree:
+c: 副
+k: vice-
+t:
   horizontal:
-    - vertical:
-      - 一
-      - 口
-      - 田
+    - 畐
     - 刂
 ---
-character: 別
-keyword: separate
-tree:
+c: 別
+k: separate
+t:
   horizontal:
     - vertical:
       - 口
-      # TODO: Replace the below glyph.
+      # TODO: Not on Wiki. Replace the below glyph.
       - 刀
     - 刂
 ---
-character: 丁
-keyword: street
-tree: 丁
+c: 丁
+k: street
+t: 丁
+variants:
+  - 丅
 ---
-character: 町
-keyword: village
-tree:
+c: 町
+k: village
+t:
   horizontal:
     - 田
     - 丁
 ---
-character: 可
-keyword: can
-tree:
+c: 可
+k: can
+t:
   ⿹:
     - bound:
       - ⼀
       - ⼅
     - ⼝
 ---
-character: 頂
-keyword: place on the head
-tree:
+c: 頂
+k: place on the head
+t:
   horizontal:
     - 丁
     - 頁
 ---
-character: 子
-keyword: child
-tree: 子
+c: 子
+k: child
+t: 子
+variants:
+  # According to https://en.wiktionary.org/wiki/%F0%A0%AB%93,
+  # This is an inverted form.
+  - 𠫓
+  # If we accidentally add this character here,
+  # this will pretend this the same as above.
+  - ㄊ
 ---
-character: 孔
-keyword: cavity
-tree:
+c: 孔
+k: cavity
+t:
   horizontal:
     - 子
     - 乚
 ---
-character: 了
-keyword: complete
-tree: 了
+c: 了
+k: complete
+t: 了
 ---
-character: 女
-keyword: woman
-tree: 女
+c: 女
+k: woman
+t: 女
 ---
-character: 好
-keyword: fond
-tree:
+c: 好
+k: fond
+t:
   horizontal:
     - 女
     - 子
 ---
-character: 如
-keyword: likeness
-tree:
+c: 如
+k: likeness
+t:
   horizontal:
     - 女
     - 口
 ---
-character: 母
-keyword: mama
-tree: 母
+c: 母
+k: mama
+t: 母
 variants:
  - 毋
 ---
-character: 貫
-keyword: pierce
-tree:
+c: 貫
+k: pierce
+t:
   vertical:
     - 毋
     - 貝
 ---
-character: 兄
-keyword: elder brother
-tree:
+c: 兄
+k: elder brother
+t:
   vertical:
     - 口
     - ⼉
 ---
-character: 呪
-keyword: curse
-tree:
+c: 呪
+k: curse
+t:
   horizontal:
      - 口
      - 兄
 ---
-character: 克
-keyword: overcome
-tree:
+c: 克
+k: overcome
+t:
   vertical:
     - 十
     - 兄
 ---
-character: 小
-keyword: little
-tree: 小
+c: 小
+k: little
+t: 小
 variants:
   - ⼩
 ---
-character: 少
-keyword: few
-tree:
+c: 少
+k: few
+t:
   vertical:
     - 小
     - ノ
 ---
-character: 大
-keyword: large
-tree: 大
+c: 大
+k: large
+t: 大
 ---
-character: 多
-keyword: many
-tree:
+c: 多
+k: many
+t:
   vertical:
     - 夕
     - 夕
 ---
-character: 夕
-keyword: evening
-tree: 夕
+c: 夕
+k: evening
+t: 夕
 variants:
   - ⼣
 ---
-character: 汐
-keyword: eventide
-tree:
+c: 汐
+k: eventide
+t:
   horizontal:
     - ⺡
     - 夕
 ---
-character: 外
-keyword: outside
-tree:
+c: 外
+k: outside
+t:
   horizontal:
     - 夕
     - ⼘
 ---
-character: 名
-keyword: name
-tree:
+c: 名
+k: name
+t:
   vertical:
     - 夕
     - 口
 ---
-character: 石
-keyword: stone
-tree:
+c: 石
+k: stone
+t:
   # Up for debate.
   vertical:
     - 一
     - ⼃
     - 口
 ---
-character: 肖
-keyword: resemblence
-tree:
+c: 肖
+k: resemblence
+t:
   vertical:
     - ⺌
     - 月
 ---
-character: 硝
-keyword: nitrate
-tree:
+c: 硝
+k: nitrate
+t:
   horizontal:
     - 石
     - 肖
 ---
-character: 砕
-keyword: smash
-tree:
+c: 砕
+k: smash
+t:
   horizontal:
     - 石
     - vertical:
       - 九
       - 十
 ---
-character: 砂
-keyword: sand
-tree:
+c: 砂
+k: sand
+t:
   horizontal:
     - 石
     - 少
 ---
-character: 妬
-keyword: jealous
-tree:
+c: 妬
+k: jealous
+t:
   horizontal:
     - 女
     - 石
 ---
-character: 削
-keyword: plane
-tree:
+c: 削
+k: plane
+t:
   horizontal:
     - 肖
     - 刂
 ---
-character: 光
-keyword: ray
-tree:
+c: 光
+k: ray
+t:
   vertical:
     - ⺌
     - 一
     - 儿
 ---
-character: 太
-keyword: plump
-tree:
+c: 太
+k: plump
+t:
   # Up for debate
   ⿵:
     - 大
     - ⼂
 ---
-character: 器
-keyword: utensil
-tree:
+c: 器
+k: utensil
+t:
   vertical:
     - horizontal:
       - 口
@@ -996,62 +1023,67 @@ tree:
       - 口
       - 口
 ---
-character: 臭
-keyword: stinking
-tree:
+c: 臭
+k: stinking
+t:
   vertical:
     - ⼂
     - 目
     - 大
 ---
-character: 嗅
-keyword: sniff
-tree:
+c: 嗅
+k: sniff
+t:
   horizontal:
     - 口
     - 臭
 ---
-character: 妙
-keyword: exquisite
-tree:
+c: 妙
+k: exquisite
+t:
   horizontal:
     - 女
     - 少
 ---
-character: 省
-keyword: focus
-tree:
+c: 省
+k: focus
+t:
   vertical:
     - 少
     - 目
 ---
-character: 厚
-keyword: thick
-tree:
+c: 厚
+k: thick
+t:
   ⿸:
     - ⼚
     - vertical:
       - 日
       - 子
 ---
-character: 奇
-keyword: strange
-tree:
+c: 奇
+k: strange
+t:
   vertical:
     - 大
     - 可
 ---
-character: 川
-keyword: stream
-tree: 川
+c: 川
+k: stream
+t: 川
 variants:
   # For Heisig'ers: flood
   - 巛
   - 巜
+  # TODO: Get multi-stroke variants to work?
+  - ⿲:
+    - 丿
+    - 丨
+    - ㇄
 ---
-character: 州
-keyword: state
-tree:
+c: 州
+k: state
+t:
   # Up for debate.
   ⿻:
     - 川
@@ -1060,19 +1092,17 @@ tree:
       - 丶
       - 丶
 ---
-character: 順
-keyword: obey
-tree:
+c: 順
+k: obey
+t:
   horizontal:
     - 川
     - 頁
 ---
-character: 水
-keyword: water
-tree:
-  # Up for debate. I don't think doing this is worth it.
-  # Pulled from:
-  # 水
+c: 水
+k: water
+t:
+  # TODO: "Dictionary Paradox"
   horizontal:
     - ㇇
     - 亅
@@ -1086,252 +1116,252 @@ variants:
   - 冫
   - ⺀
 ---
-character: 氷
-keyword: icicle
-tree:
+c: 氷
+k: icicle
+t:
   # Up for debate:
   ⿻:
     - 水
     - ⼂
 ---
-character: 永
-keyword: eternity
-tree:
+c: 永
+k: eternity
+t:
   vertical:
     - ⼂
     - 水
 ---
-character: 泉
-keyword: spring
-tree:
+c: 泉
+k: spring
+t:
   vertical:
     - 白
     - 水
 ---
-character: 腺
-keyword: gland
-tree:
+c: 腺
+k: gland
+t:
   horizontal:
     - ⺼
     - 泉
 ---
-character: 原
-keyword: meadow
-tree:
+c: 原
+k: meadow
+t:
   ⿸:
     - ⼚
     - vertical:
       - 白
       - 小
 ---
-character: 願
-keyword: petition
-tree:
+c: 願
+k: petition
+t:
   horizontal:
     - 原
     - 頁
 ---
-character: 泳
-keyword: swimming
-tree:
+c: 泳
+k: swimming
+t:
   horizontal:
     - 氵
     - 永
 ---
-character: 沼
-keyword: marsh
-tree:
+c: 沼
+k: marsh
+t:
   horizontal:
     - 氵
     - 召
 ---
-character: 沖
-keyword: open sea
-tree:
+c: 沖
+k: open sea
+t:
   horizontal:
     - 氵
     - 中
 ---
-character: 汎
-keyword: pan-
-tree:
+c: 汎
+k: pan-
+t:
   horizontal:
     - 氵
     - 凡
 ---
-character: 江
-keyword: creek
-tree:
+c: 江
+k: creek
+t:
   horizontal:
     - 氵
     - 工
 ---
-character: 汰
-keyword: cleanse
-tree:
+c: 汰
+k: cleanse
+t:
   horizontal:
     - 氵
     - 太
 ---
-character: 汁
-keyword: soup
-tree:
+c: 汁
+k: soup
+t:
   horizontal:
     - 氵
     - 十
 ---
-character: 沙
-keyword: grains of sand
-tree:
+c: 沙
+k: grains of sand
+t:
   horizontal:
     - 氵
     - 少
 ---
-character: 潮
-keyword: tide
-tree:
+c: 潮
+k: tide
+t:
   horizontal:
     - 氵
     - 朝
 ---
-character: 源
-keyword: source
-tree:
+c: 源
+k: source
+t:
   horizontal:
     - 氵
     - 原
 ---
-character: 活
-keyword: lively
-tree:
+c: 活
+k: lively
+t:
   horizontal:
     - 氵
     - 舌
 ---
-character: 消
-keyword: extinguish
-tree:
+c: 消
+k: extinguish
+t:
   horizontal:
     - 氵
     - 肖
 ---
-character: 況
-keyword: but of course
-tree:
+c: 況
+k: but of course
+t:
   horizontal:
     - 氵
     - 兄
 ---
-character: 河
-keyword: river
-tree:
+c: 河
+k: river
+t:
   horizontal:
     - 氵
     - 可
 ---
-character: 泊
-keyword: overnight
-tree:
+c: 泊
+k: overnight
+t:
   horizontal:
     - 氵
     - 白
 ---
-character: 湖
-keyword: lake
-tree:
+c: 湖
+k: lake
+t:
   horizontal:
     - 氵
     - 古
     - 月
 ---
-character: 測
-keyword: fathom
-tree:
+c: 測
+k: fathom
+t:
   horizontal:
     - 氵
     - 則
 ---
-character: 土
-keyword: soil
-tree: 土
+c: 土
+k: soil
+t: 土
 variants:
   - ⼟
 ---
-character: 吐
-keyword: spit
-tree:
+c: 吐
+k: spit
+t:
   horizontal:
     - 口
     - 土
 ---
-character: 圧
-keyword: pressure
-tree:
+c: 圧
+k: pressure
+t:
   ⿸:
     - ⼚
     - 土
 ---
-character: 埼
-keyword: cape
-tree:
+c: 埼
+k: cape
+t:
   horizontal:
     - 土
     - 奇
 ---
-character: 垣
-keyword: hedge
-tree:
+c: 垣
+k: hedge
+t:
   horizontal:
     - 土
     - 亘
 ---
-character: 填
-keyword: inlay
-tree:
+c: 填
+k: inlay
+t:
   horizontal:
     - 土
     - 真
 ---
-character: 圭
-keyword: squared jewel
-tree:
+c: 圭
+k: squared jewel
+t:
   vertical:
     - 土
     - 土
 ---
-character: 封
-keyword: seal
-tree:
+c: 封
+k: seal
+t:
   horizontal:
     - 圭
     - 寸
 ---
-character: 涯
-keyword: horizon
-tree:
+c: 涯
+k: horizon
+t:
   horizontal:
     - 氵
     - ⿸:
       - ⼚
       - 圭
 ---
-character: 寺
-keyword: Buddhist temple
-tree:
+c: 寺
+k: Buddhist temple
+t:
   vertical:
     - 土
     - 寸
 ---
-character: 時
-keyword: time
-tree:
+c: 時
+k: time
+t:
   horizontal:
     - 日
     - 寺
 ---
-character: 均
-keyword: level
-tree:
+c: 均
+k: level
+t:
   horizontal:
     - 土
     # Up for debate.
@@ -1343,458 +1373,473 @@ tree:
            # "冫" here also doesn't align with other char's
            # uses of 冫.
 ---
-character: 火
-keyword: fire
-tree: 火
+c: 火
+k: fire
+t: 火
 variants:
   - 灬
 ---
-character: 炎
-keyword: inflammation
-tree:
+c: 炎
+k: inflammation
+t:
   - vertical:
     - 火
     - 火
 ---
-character: 煩
-keyword: anxiety
-tree:
+c: 煩
+k: anxiety
+t:
   - horizontal:
     - 火
     - 頁
 ---
-character: 淡
-keyword: thin
-tree:
+c: 淡
+k: thin
+t:
   horizontal:
     - 氵
     - 炎
 ---
-character: 灯
-keyword: lamp
-tree:
+c: 灯
+k: lamp
+t:
   horizontal:
     - 火
     - 丁
 ---
-character: 畑
-keyword: farm
-tree:
+c: 畑
+k: farm
+t:
   horizontal:
     - 火
     - 田
 ---
-character: 災
-keyword: disaster
-tree:
+c: 災
+k: disaster
+t:
   vertical:
     - 巛
     - 火
 ---
-character: 灰
-keyword: ashes
-tree:
+# TODO: Add these types
+# Kyōiku is a subset of Jōyō
+type: Kyōiku
+c: 灰
+k: ashes
+t:
   ⿸:
     - ⼚
     - 火
 ---
-character: 点
-keyword: spot
-tree:
+c: 点
+k: spot
+t:
   vertical:
     - ⼘
     - 口
     - 灬
 ---
-character: 照
-keyword: illuminate
-tree:
+c: 照
+k: illuminate
+t:
   vertical:
     - 昭
     - 灬
 ---
-character: 魚
-keyword: fish
-tree:
+c: 魚
+k: fish
+t:
   vertical:
-    - 勹
+    - ⺈
     - 田
     - 灬
 ---
-character: 漁
-keyword: fishing
-tree:
+c: 漁
+k: fishing
+t:
   horizontal:
     - 氵
     - 魚
 ---
-character: 里
-keyword: ri
-# Up for debate.
-tree: 里
+c: 里
+k: ri
+# TODO: "Dictionary Paradox"
+t: 里
 ---
-character: 黒
-keyword: black
-tree:
+c: 黒
+k: black
+t:
   vertical:
     - 里
     - 灬
 ---
-character: 墨
-keyword: black ink
-tree:
+c: 墨
+k: black ink
+t:
   vertical:
     - 黒
     - 土
 ---
-character: 鯉
-keyword: carp
-tree:
+c: 鯉
+k: carp
+t:
   horizontal:
     - 魚
     - 里
 ---
-character: 量
-keyword: quantity
-tree:
+c: 量
+k: quantity
+t:
   vertical:
     - 旦
     - 里
 ---
-character: 厘
-keyword: rin
-tree:
+c: 厘
+k: rin
+t:
   ⿸:
     - ⼚
     - 里
 ---
-character: 埋
-keyword: bury
-tree:
+c: 埋
+k: bury
+t:
   horizontal:
     - 土
     - 里
 ---
-character: 同
-keyword: same
-tree:
+c: 同
+k: same
+t:
   ⿵:
     - 冂
     - vertical:
       - 一
       - 口
 ---
-character: 洞
-keyword: den
-tree:
+c: 洞
+k: den
+t:
   horizontal:
     - 氵
     - 同
 ---
-character: 胴
-keyword: trunk
-tree:
+c: 胴
+k: trunk
+t:
   horizontal:
     - 月
     - 同
 ---
-character: 向
-keyword: yonder
-tree:
+c: 向
+k: yonder
+t:
   vertical:
     - ⼂
     - ⿵:
       - 冂
       - 口
 ---
-character: 尚
-keyword: esteem
-tree:
+c: 尚
+k: esteem
+t:
   vertical:
     - ⺌
     - ⿵:
       - 冂
       - 口
+variants:
+  # TODO: Find a better way to handle these characters.
+  - 龸
 ---
-character: 字
-keyword: character
-tree:
+c: 字
+k: character
+t:
   vertical:
     - ⼧
     - 子
 ---
-character: 守
-keyword: guard
-tree:
+c: 守
+k: guard
+t:
   vertical:
     - ⼧
     - 寸
 ---
-character: 完
-keyword: perfect
-tree:
+c: 完
+k: perfect
+t:
   horizontal:
     - ⼧
     - 元
 ---
-character: 宣
-keyword: proclaim
-tree:
+c: 宣
+k: proclaim
+t:
   vertical:
     - ⼧
     - 亘
 ---
-character: 宵
-keyword: wee hours
-tree:
+c: 宵
+k: wee hours
+t:
   vertical:
     - ⼧
     - 肖
 ---
-character: 安
-keyword: relax
-tree:
+c: 安
+k: relax
+t:
   vertical:
     - ⼧
     - 女
 ---
-character: 宴
-keyword: banquet
-tree:
+c: 宴
+k: banquet
+t:
   vertical:
     - ⼧
     - 日
     - 女
 ---
-character: 寄
-keyword: draw near
-tree:
+c: 寄
+k: draw near
+t:
   vertical:
     - ⼧
     - 奇
 ---
-character: 富
-keyword: wealth
-tree:
-  vertical:
-    - 宀
+do_not_learn: true
+type: Hyōgai
+c: 畐
+# Conflicts with 富 keyword.
+k: wealth
+t:
+  ⿳:
     - 一
     - 口
     - 田
 ---
-character: 貯
-keyword: savings
-tree:
+c: 富
+k: wealth
+t:
+  vertical:
+    - 宀
+    - 畐
+---
+c: 貯
+k: savings
+t:
   horizontal:
     - 貝
     - vertical:
       - 宀
       - 丁
 ---
-character: 木
-keyword: tree
-tree: 木
+c: 木
+k: tree
+t: 木
 ---
-character: 林
-keyword: grove
-tree:
+c: 林
+k: grove
+t:
   horizontal:
     - 木
     - 木
 ---
-character: 森
-keyword: forest
-tree:
+c: 森
+k: forest
+t:
   vertical:
     - 木
     - 林
 ---
-character: 桂
-keyword: Japanese Judas-tree
-tree:
+c: 桂
+k: Japanese Judas-tree
+t:
   horizontal:
     - 木
     - 圭
 ---
-character: 柏
-keyword: oak
-tree:
+c: 柏
+k: oak
+t:
   horizontal:
     - 木
     - 白
 ---
-character: 枠
-keyword: frame
-tree:
+c: 枠
+k: frame
+t:
   horizontal:
     - 木
     - vertical:
       - 九
       - 十
 ---
-character: 梢
-keyword: treetops
-tree:
+c: 梢
+k: treetops
+t:
   horizontal:
     - 木
     - 肖
 ---
-character: 棚
-keyword: shelf
-tree:
+c: 棚
+k: shelf
+t:
   horizontal:
     - 木
     - 朋
 ---
-character: 杏
-keyword: apricot
-tree:
+c: 杏
+k: apricot
+t:
   vertical:
     - 木
     - 口
 ---
-character: 桐
-keyword: paulownia
-tree:
+c: 桐
+k: paulownia
+t:
   horizontal:
     - 木
     - 同
 ---
-character: 植
-keyword: plant
-tree:
+c: 植
+k: plant
+t:
   horizontal:
     - 木
     - 直
 ---
-character: 椅
-keyword: chair
-tree:
+c: 椅
+k: chair
+t:
   horizontal:
     - 木
     - 奇
 ---
-character: 枯
-keyword: wither
-tree:
+c: 枯
+k: wither
+t:
   horizontal:
     - 木
     - 古
 ---
-character: 朴
-keyword: crude
-tree:
+c: 朴
+k: crude
+t:
   horizontal:
     - 木
     - ⼘
 ---
-character: 村
-keyword: town
-tree:
+c: 村
+k: town
+t:
   hoizontal:
     - 木
     - 勺
 ---
-character: 相
-keyword: inter-
-tree:
+c: 相
+k: inter-
+t:
   horizontal:
     - 木
     - 目
 ---
-character: 机
-keyword: desk
-tree:
+c: 机
+k: desk
+t:
   hoizontal:
     - 木
     - ⼏
 ---
-character: 本
-keyword: book
-tree:
+c: 本
+k: book
+t:
   ⿻:
     - 木
     - 一
 ---
-character: 札
-keyword: tag
-tree:
+c: 札
+k: tag
+t:
   horizontal:
    - 木
    - 乚
 ---
-character: 暦
-keyword: calendar
-tree:
+c: 暦
+k: calendar
+t:
   ⿸:
     - ⼚
     - vertical:
       - 林
       - 日
 ---
-character: 案
-keyword: plan
-tree:
+c: 案
+k: plan
+t:
   vertical:
     - 安
     - 木
 ---
-character: 燥
-keyword: parch
-tree:
+c: 燥
+k: parch
+t:
   horizontal:
     - 火
     - vertical:
       - 品
       - 木
 ---
-character: 未
-keyword: not yet
-tree:
+c: 未
+k: not yet
+t:
   ⿻:
     - 一
     - 木
 ---
-character: 末
-keyword: extremity
+c: 末
+k: extremity
 # TODO: this makes composition not unique. Perhaps find a different
 # order?
-tree:
+t:
   ⿻:
     - 一
     - 木
 ---
-character: 昧
-keyword: obscure
-tree:
+c: 昧
+k: obscure
+t:
   horizontal:
     - 日
     - 未
 ---
-character: 沫
-keyword: splash
-tree:
+c: 沫
+k: splash
+t:
   horizontal:
     - 氵
     - 末
 ---
-character: 味
-keyword: flavor
-tree:
+c: 味
+k: flavor
+t:
   horizontal:
     - 口
     - 未
 ---
-character: 妹
-keyword: younger sister
-tree:
+c: 妹
+k: younger sister
+t:
   horizontal:
     - 女
     - 未
 ---
-character: 朱
-keyword: vermilion
-tree:
+c: 朱
+k: vermilion
+t:
   ⿰:
     - 丿
     - 未
@@ -1802,72 +1847,72 @@ dependencies:
   - ⼂
   - 未
 ---
-character: 株
-keyword: stocks
-tree:
+c: 株
+k: stocks
+t:
   horizontal:
     - 木
     - 朱
 ---
-character: 若
-keyword: young
-tree:
+c: 若
+k: young
+t:
   vertical:
     - ⺾
     - 右
 ---
-character: 草
-keyword: grass
-tree:
+c: 草
+k: grass
+t:
   vertical:
     - ⺾
     - 早
 ---
-character: 苦
-keyword: suffering
-tree:
+c: 苦
+k: suffering
+t:
   vertical:
     - 艹
     - 古
 ---
-character: 苛
-keyword: bullying
-tree:
+c: 苛
+k: bullying
+t:
   vertical:
     - 艹
     - 可
 ---
-character: 寛
-keyword: tolerant
-tree:
+c: 寛
+k: tolerant
+t:
   vertical:
     - 宀
     - 艹
     - 見
 ---
-character: 薄
-keyword: dilute
-tree:
+c: 薄
+k: dilute
+t:
   vertical:
     - 艹
     - horizontal:
       - 氵
       # Up for debate. See Dr.
-      ⿻:
+      ⿺:
         - 専
         - ⼂
 ---
-character: 葉
-keyword: leaf
-tree:
+c: 葉
+k: leaf
+t:
   vertical:
     - 艹
     - 世
     - 木
 ---
-character: 模
-keyword: imitation
-tree:
+c: 模
+k: imitation
+t:
   horizontal:
     - 木
     - vertical:
@@ -1875,9 +1920,9 @@ tree:
       - 日
       - 大
 ---
-character: 漠
-keyword: vague
-tree:
+c: 漠
+k: vague
+t:
   horizontal:
     - 氵
     - vertical:
@@ -1885,27 +1930,27 @@ tree:
       - 日
       - 大
 ---
-character: 墓
-keyword: grave
-tree:
+c: 墓
+k: grave
+t:
   vertical:
     - 艹
     - 日
     - 大
     - 土
 ---
-character: 暮
-keyword: livelihood
-tree:
+c: 暮
+k: livelihood
+t:
   vertical:
     - 艹
     - 日
     - 大
     - 日
 ---
-character: 膜
-keyword: membrane
-tree:
+c: 膜
+k: membrane
+t:
   horizontal:
     - 月
     - vertical:
@@ -2013,8 +2058,10 @@ c: 牛
 k: cow
 t: # TODO: "Dictionary Paradox"
   ⿻:
-    - 𠂉
-    - 十
+    - ⿰:
+      - 丿
+      - 二
+    - ⼁
 ---
 c: 特
 k: special
@@ -2075,7 +2122,11 @@ t:
 ---
 c: 人
 k: person
-t: 人
+t:
+  # TODO: "Dictionary Paradox"
+  ⿸:
+    - 丿
+    - 乀
 variants:
   - 𠆢
   - 亻
@@ -2112,6 +2163,9 @@ t:
 c: 王
 k: king
 t: 王
+variants:
+  - 𤣩
+  - ⺩
 ---
 c: 玉
 k: jewel
@@ -2226,6 +2280,8 @@ dependencies:
   - 𠆢
   - 王
   - ⼂
+variants:
+  - 釒
 ---
 c: 銑
 k: pig iron
@@ -2280,6 +2336,8 @@ c: 道
 k: road-way
 t:
   ⿺:
+    # TODO: Add a home for road-likes.
+    # For Heisig'ers: road.
     - 辶
     - 首
 ---
@@ -2363,18 +2421,23 @@ t:
     - 車
     - 九
 ---
+do_not_learn: true
+c: 俞
+k: butcher  # Alternatively, meeting of butchers
+t:
+  - vertical:
+    - 𠆢
+    - 一
+    - horizontal:
+      - 月
+      - 刂
+---
 c: 輸
 k: transport
 t:
   horizontal:
     - 車
-    # For quick find: butchers
-    - vertical:
-      - 𠆢
-      - 一
-      - horizontal:
-        - 月
-        - 刂
+    - 俞
 ---
 c: 喩
 k: metaphor
@@ -2729,9 +2792,19 @@ t:
     - 冖
     - 木
 ---
+do_not_learn: true
+type: Hyōgai
 c: 聿
-k: (Not RTK1, means brush)
-t: 聿
+k: brush
+# Disagrees with Wiki.
+t:
+  ⿻:
+    - ⿱:
+      - ⿻:
+        - コ
+        - 一
+      - 二
+    - ⼁
 variants:
   - ⺻
 ---
@@ -2822,9 +2895,10 @@ k: elucidate
 t:
   horizontal:
     - 言
-    # Up for debate
+    # Disagrees with Wiki.
+    # Up for debate.
     - vertical:
-      - 𠆢
+      - 入
       - 王
 ---
 c: 獄
@@ -2938,12 +3012,7 @@ k: rebuke
 t:
   horizontal:
     - 言
-    - vertical:
-      - 𠆢
-      - 一
-      - horizontal:
-        - 月
-        - 刂
+    - 俞
 ---
 c: 式
 k: style
@@ -3204,6 +3273,18 @@ t:
   vertical:
     - 一
     - 止
+variants:
+  # For Heisig'ers: mending
+  - 𤴓
+---
+do_not_learn: true
+type: Jinmeiyō
+c: 疋
+k: zoo
+t:
+  ⿱:
+    - 乛
+    - 龰
 ---
 c: 証
 k: evidence
@@ -3224,8 +3305,7 @@ k: determine
 t:
   vertical:
     - 宀
-    - # TODO: Find a better glyph?
-    - 疋
+    - 𤴓
 ---
 c: 錠
 k: lock
@@ -3240,7 +3320,7 @@ t:
   # Up for debate.
   vertical:
     - 土
-    - 疋
+    - 龰
 variants:
   - 赱
 ---
@@ -3433,10 +3513,7 @@ k: hanging scroll
 t:
   horizontal:
     - 巾
-    - vertical:
-      - 一
-      - 口
-      - 田
+    - 畐
 ---
 c: 帽
 k: cap
@@ -3566,7 +3643,8 @@ t:
 do_not_learn: true
 type: Hyōgai
 c: 厶
-k: (Not RTK, means I/myself)
+meaning: I, myself
+k: elbow
 t: 厶
 ---
 c: 転
@@ -3602,12 +3680,14 @@ t:
             - ⼂
             - ⼂
       - ⼁
+variants:
+  - ⻗
 ---
 c: 雲
 k: cloud
 t:
   vertical:
-    - 雨
+    - ⻗
     - 二
     - 厶
 ---
@@ -3622,14 +3702,14 @@ c: 雷
 k: thunder
 t:
   vertical:
-    - 雨
+    - ⻗
     - 田
 ---
 c: 霜
 k: frost
 t:
   vertical:
-    - 雨
+    - ⻗
     - 相
 ---
 c: 冬
@@ -3645,6 +3725,8 @@ t:
   horizontal:
     - 一
     - 大
+variants:
+  - 夭
 ---
 c: 妖
 k: bewitched
@@ -4044,29 +4126,29 @@ t:
       - 十
     - 乞
 ---
+do_not_learn: true
+type: Chinese Only
+c: 复
+k: double back
+t:
+  ⿳:
+    - 𠂉
+    - 日
+    - 夂
+---
 c: 腹
 k: abdomen
 t:
   horizontal:
     - 月
-    - vertical:
-      - horizontal:
-        - ノ
-        - 一
-      - 日
-      - 夂
+    - 复
 ---
 c: 複
 k: duplicate
 t:
   horizontal:
     - 衤
-    - vertical:
-      - horizontal:
-        - ノ
-        - 一
-      - 日
-      - 夂
+    - 复
 ---
 c: 欠
 k: lack
@@ -4191,17 +4273,24 @@ t:
     - 音
     - 員
 ---
+do_not_learn: true
+type: Hyōgai
+c: 戠
+k: kazoo
+t:
+  # Up for debate. Wiki opts for ⿰音戈
+  ⿹:
+      - vertical:
+        - 立
+        - 戈
+      - 日
+---
 c: 識
 k: discriminating
 t:
   horizontal:
     - 言
-    - ⿹:
-      # TODO: wiki opts for ⿰音戈
-      - vertical:
-        - 立
-        - 戈
-      - 日
+    - 戠
 ---
 c: 鏡
 k: mirror
@@ -4329,7 +4418,7 @@ t:
   horizontal:
     - 月
     - vertical:
-      - 并
+      - 丷
       - 兄
 ---
 c: 説
@@ -4338,7 +4427,7 @@ t:
   horizontal:
     - 言
     - vertical:
-      - 并
+      - 丷
       - 兄
 ---
 c: 鋭
@@ -4347,14 +4436,14 @@ t:
   horizontal:
     - 金
     - vertical:
-      - 并
+      - 丷
       - 兄
 ---
 c: 曽
 k: formerly
 t:
   vertical:
-    - 并
+    - 丷
     - 田
     - 日
 ---
@@ -4496,7 +4585,7 @@ t:
 c: 虫
 k: insect
 t: 虫
-tree:
+t:
   vertical:
     - 中
     - horizontal:
@@ -4627,7 +4716,7 @@ c: 亀
 k: tortoise
 t:
   vertical:
-    - 勹
+    - ⺈
     - ⿻:
       - vertical:
         - 日
@@ -4638,7 +4727,7 @@ c: 電
 k: electricity
 t:
   vertical:
-    - 雨
+    - ⻗
     - ⿻:
       - 日
       - 乚
@@ -4658,6 +4747,18 @@ t:
   horizontal:
     - 氵
     - 竜
+---
+do_not_learn: true
+type: Hyōgai
+c: 豕
+k: sow
+t:
+  ⿱:
+    - 一
+    - 𧰨
+variants:
+  # TODO: This may cause a cycle.
+  - 𧰨
 ---
 c: 豚
 k: pork
@@ -4680,7 +4781,7 @@ t:
   ⿺:
     - 辶
     - vertical:
-      - 并
+      - 丷
       - 豕
 ---
 c: 家
@@ -4711,34 +4812,27 @@ k: intestines
 t:
   horizontal:
     - 月
-    - vertical:
-      # Up for debate. Can be 日, 一 instead.
-      - 旦
-      - 勿
+    - 昜
 ---
 c: 場
 k: location
 t:
   horizontal:
     - 土
-    - vertical:
-      - 旦
-      - 勿
+    - 昜
 ---
 c: 湯
 k: hot water
 t:
   horizontal:
     - 氵
-    - vertical:
-      - 旦
-      - 勿
+    - 昜
 ---
 c: 羊
 k: sheep
 t:
   vertical:
-    - 并
+    - 丷
     - ⿻:
       - 三
       - ⼁
@@ -5107,6 +5201,9 @@ c: 店
 k: store
 t:
   ⿸:
+    # TODO: Add a home for enclosures
+    # For Heisig'ers: cave
+    # For non-Heisig'ers: dotted cliff
     - 广
     - 占
 ---
@@ -5152,7 +5249,7 @@ t:
     - 广
     - vertical:
       - 林
-      -
+      - 石
 ---
 c: 心
 k: heart
@@ -5392,7 +5489,7 @@ t:
   horizontal:
     - 忄
     - vertical:
-      - 并
+      - 丷
       - 兄
 ---
 c: 恒
@@ -5456,12 +5553,7 @@ k: pleasure
 t:
   horizontal:
     - 忄
-    - vertical:
-      - 𠆢
-      - 一
-      - horizontal:
-        - 月
-        - 刂
+    - 俞
 ---
 c: 惰
 k: lazy
@@ -5559,6 +5651,7 @@ t:
       - 二
       - ⼅
 variants:
+  # For Heisig'ers: finger
   - 扌
   - 龵
 ---
@@ -5782,14 +5875,31 @@ t:
     - 扌
     - 隹
 ---
+type: Jinmeiyō
+c: 勿
+k: not
+t:
+  ⿹:
+    - 勹
+    - ⿰:
+      - 丿
+      - 丿
+---
+do_not_learn: true
+type: Hyōgai
+c: 昜
+k: piggy bank
+t:
+    - vertical:
+      - 旦
+      - 勿
+---
 c: 揚
 k: hoist
 t:
   horizontal:
     - 扌
-    - vertical:
-      - 旦
-      - 勿
+    - 昜
 ---
 c: 提
 k: propose
@@ -6103,23 +6213,29 @@ t:
     - 隹
     - 又
 ---
+do_not_learn: true
+type: Hyōgai
+c: 蒦
+meaning: measure, calculate
+k: (Not RTK1, means measure/calculate)
+t:
+  ⿱:
+    - 艹
+    - 隻
+---
 c: 護
 k: safeguard
 t:
   ⿰:
     - 言
-    - vertical:
-      - 艹
-      - 隻
+    - 蒦
 ---
 c: 獲
 k: seize
 t:
   ⿰:
     - 犭
-    - vertical:
-      - 艹
-      - 隻
+    - 蒦
 ---
 c: 奴
 k: guy
@@ -6343,6 +6459,7 @@ t:
       - 丨
       - 乀
 variants:
+  # For Heisig'ers: vulture
   - 爫
 ---
 c: 妥
@@ -6464,3 +6581,4171 @@ t:
   ⿹:
     - 勹
     - 厶
+---
+c: 拡
+k: broaden
+t:
+  ⿰:
+    - 扌
+    - 広
+---
+c: 鉱
+k: mineral
+t:
+  ⿰:
+    - 金
+    - 広
+---
+c: 弁
+k: valve
+t:
+  ⿱:
+    - 厶
+    - 廾
+---
+c: 雄
+k: male
+t:
+  ⿰:
+    - 厷
+    - 隹
+---
+c: 台
+k: pedestal
+t:
+  ⿱:
+    - 厶
+    - 口
+---
+c: 怠
+k: neglect
+t: 
+  ⿱:
+    - 台
+    - 心
+---
+c: 治
+k: reign
+t: 
+  ⿰:
+    - 氵
+    - 台
+---
+c: 冶
+k: metallurgy
+t: 
+  ⿰:
+    - 冫
+    = 台
+---
+c: 始
+k: commence
+t: 
+  ⿰:
+    - 女
+    - 台
+---
+c: 胎
+k: womb
+t: 
+  ⿰:
+    - 月
+    - 台
+---
+c: 窓
+k: window
+t:
+  ⿳:
+    # TODO: Double check entry here.
+    - 穴
+    - 厶
+    - 心
+---
+c: 去
+k: gone
+t:
+  ⿱:
+    - 土
+    - 厶
+---
+c: 法
+k: method
+t:
+  ⿰:
+    - 氵
+    - 去
+---
+do_not_learn: true
+type: Jinmeiyō
+c: 云
+k: rising cloud
+t:
+  ⿱:
+    - 二
+    - 厶
+# TODO: Not a variant.
+variants:
+  - 𠫔
+---
+c: 会
+k: meeting
+t:
+  ⿱:
+    - 人
+    - 云
+---
+c: 至
+k: climax
+t:
+  ⿱:
+    - 𠫔
+    - 土
+---
+c: 室
+k: room
+t:
+  ⿱:
+    - 宀
+    - 至
+---
+c: 到
+k: arrival
+t:
+  ⿰:
+    - 至
+    - 刂
+---
+c: 致
+k: doth
+t:
+  ⿰:
+    - 至
+    - 攵
+---
+c: 互
+k: mutually
+t:
+  ⿱:
+    - 一
+    - ⿰:
+      - 𠃋
+      - ㇇
+    - 一
+---
+c: 棄
+k: abandon
+t:
+  ⿳:
+    - 𠫓
+    - 丗
+    - 木
+---
+c: 育
+k: bring up
+t:
+  ⿳:
+    - 亠
+    - 厶
+    - ⺼
+---
+c: 撤
+k: remove
+t:
+  ⿲:
+    - 扌
+    - 育
+    - 攵
+---
+c: 充
+k: allot
+t:
+  ⿱:
+    - 𠫓
+    - 儿
+---
+c: 銃
+k: gun
+t:
+  ⿰:
+    - 金
+    - 充
+---
+c: 硫
+k: sulfur
+# Does not follow wiki.
+t:
+  ⿰:
+    - 石
+    - vertical:
+      - 𠫓
+      - 川
+---
+c: 流
+k: current
+t:
+# Does not follow wiki.
+  ⿰:
+    - 氵
+    - vertical:
+      - 𠫓
+      - 川
+---
+c: 允
+k: license
+t:
+  ⿱:
+    - 厶
+    - 儿
+---
+c: 唆
+k: tempt
+t:
+  ⿰:
+    - 口
+    - 夋
+---
+c: 山
+k: mountain
+t:
+  ⿱:
+    - 丨
+    - 凵
+---
+c: 出
+k: exit
+# Differs from Wiki.
+t:
+  ⿻:
+    - 山
+    - 凵
+---
+c: 拙
+k: bungling
+t:
+  ⿰:
+    - 扌
+    - 出
+---
+c: 岩
+k: boulder
+t:
+  ⿱:
+    - 山
+    - 石
+---
+c: 炭
+k: charcoal
+t:
+  ⿱:
+    - 山
+    - 灰
+---
+c: 岐
+k: branch off
+t:
+  ⿰:
+    - 山
+    - 支
+---
+c: 峠
+k: mountain pass
+t:
+  ⿰:
+    - 山
+    - ⿱:
+      - 上
+      - 下
+---
+c: 崩
+k: crumble
+t:
+  ⿱:
+    - 山
+    - 朋
+---
+c: 密
+k: secrecy
+t:
+  vertical:
+    - 宀
+    - 必
+    - 山
+---
+c: 蜜
+k: honey
+t:
+  ⿱:
+    - ⿱:
+      - 宀
+      - 必
+    - 虫
+---
+c: 嵐
+k: storm
+t:
+  ⿱:
+    - 山
+    - 風
+---
+c: 崎
+k: promontory
+t:
+  ⿰:
+    - 山
+    - 奇
+---
+c: 崖
+k: bluffs
+t:
+  ⿱:
+    - 山
+    - ⿸:
+      - 厂
+      - 圭
+---
+c: 入
+k: enter
+t:
+  ⿹:
+    - 乀
+    - 丿
+---
+c: 込
+k: crowded
+t:
+  ⿺:
+    - 辶
+    - 入
+---
+c: 分
+k: part
+t:
+  ⿱:
+    - 八
+    - 刀
+---
+c: 貧
+k: poverty
+t:
+  ⿱:
+    - 分
+    - 貝
+---
+c: 頒
+k: partition
+t:
+  ⿰:
+    - 分
+    - 頁
+---
+c: 公
+k: public
+t:
+  ⿱:
+    - 八
+    - 厶
+---
+c: 松
+k: pine tree
+t:
+  ⿰:
+    - 木
+    - 公
+---
+c: 翁
+k: venerable old man
+t:
+  ⿱:
+    - 公
+    - 羽
+---
+c: 訟
+k: sue
+t:
+  ⿰:
+    - 言
+    - 公
+---
+c: 谷
+k: valley
+t:
+  ⿳:
+    - 八
+    # Differs from Wiki.
+    - 𠆢
+    - 口
+---
+c: 浴
+k: bathe
+t:
+  ⿰:
+    - 氵
+    - 谷
+---
+c: 容
+k: contain
+t:
+  ⿱:
+    - 宀
+    - 谷
+---
+c: 溶
+k: melt
+t:
+  ⿰:
+    - 氵
+    - 容
+---
+c: 欲
+k: longing
+t:
+  ⿰:
+    - 谷
+    - 欠
+---
+c: 裕
+k: abundant
+t:
+  ⿰:
+    - 衤
+    - 谷
+---
+c: 鉛
+k: lead (metal)
+t:
+  ⿰:
+    - 釒
+    - 㕣
+---
+# If this character does not match the glyphs below,
+# you don't have the right language/font enabled.
+c: 沿
+k: run alongside
+t:
+  ⿰:
+    - 氵
+    - 㕣
+---
+c: 賞
+k: prize
+t:
+  # Up for debate. Update dependencies accordingly.
+  #⿱:
+  #  - 尚
+  #  - 貝
+  ⿱:
+    - 龸
+    - 員
+dependencies:
+  - 尚
+---
+c: 党
+k: party
+t:
+  # Up for debate. Update dependencies accordingly.
+  # ⿱尚儿
+  ⿱:
+    - 龸
+    - 兄
+dependencies:
+  - 尚
+---
+c: 堂
+k: hall
+t:
+  ⿱:
+    - 尚
+    - 土
+---
+c: 常
+k: usual
+t:
+  # Up for debate.
+  # vertical:龸口巾
+  ⿱:
+    - 尚
+    - 巾
+---
+c: 裳
+k: skirt
+t:
+  ⿱:
+    - 尚
+    - 衣
+---
+c: 掌
+k: manipulate
+t:
+  ⿱:
+    - 尚
+    - 手
+---
+c: 皮
+k: pelt
+# TODO: Find a tree for this character.
+t: 皮
+depedencies:
+  - ⼚
+  - 又
+variants:
+  - ⽪
+---
+c: 波
+k: waves
+t:
+  ⿰:
+    - 氵
+    - 皮
+---
+c: 婆
+k: old woman
+t:
+  ⿱:
+    - 波
+    - 女
+---
+c: 披
+k: expose
+t:
+  ⿰:
+    - 扌
+    - 皮
+---
+c: 破
+k: rend
+t:
+  ⿰:
+    - 石
+    - 皮
+---
+c: 被
+k: incur
+t:
+  ⿰:
+    - 衤
+    - 皮
+---
+do_not_learn: true
+type: Hyōgai
+c: 歹
+k: bone
+t:
+  ⿱:
+    - 一
+    - 夕
+---
+c: 残
+k: remainder
+t:
+  ⿰:
+    - 歹
+    - 㦮
+---
+c: 殉
+k: martyrdom
+t:
+  ⿰:
+    - 歹
+    - 旬
+---
+c: 殊
+k: particularly
+t:
+  ⿰:
+    - 歹
+    - 朱
+---
+c: 殖
+k: augment
+t:
+  ⿰:
+    - 歹
+    - 直
+---
+c: 列
+k: file
+t:
+  ⿰:
+    - 歹
+    - 刂
+---
+c: 裂
+k: split
+t:
+  ⿱:
+    - 列
+    - 衣
+---
+c: 烈
+k: ardent
+t:
+  ⿱:
+    - 列
+    - 灬
+---
+c: 死
+k: death
+t:
+  # Up for debate.
+  # ⿱一⿰夕匕
+  ⿸:
+    - 歹
+    - 匕
+---
+c: 葬
+k: interment
+t:
+  ⿳:
+    - 艹
+    - 死
+    - 廾
+---
+do_not_learn: true
+c: 舛
+type: Hyōgai
+k: sunglasses
+# Differs from Wiki.
+t:
+  ⿰:
+    - 夕
+    - ⿻:
+      - vertical:
+        - 一
+        - ⼁
+        - 一
+      - ⼁
+---
+c: 瞬
+k: wink
+t:
+  ⿰:
+    - 目
+    - ⿳:
+      - 爫
+      - 冖
+      - 舛
+---
+c: 耳
+k: ear
+# TODO: Wiki doesn't have a composition.
+t: 耳
+# Up for debate. Visually it fits.
+dependencies:
+  - 目
+---
+c: 取
+k: take
+t:
+  ⿰:
+    - 耳
+    - 又
+---
+c: 趣
+k: gist
+t:
+  ⿺:
+    - 走
+    - 取
+---
+c: 最
+k: utmost
+t:
+  ⿱:
+    - 日
+    - 取
+---
+c: 撮
+k: snapshot
+t:
+  ⿰:
+    - 扌
+    - 最
+---
+c: 恥
+k: shame
+t:
+  ⿰:
+    - 耳
+    - 心
+---
+c: 職
+k: post
+t:
+  ⿰:
+    - 耳
+    - 戠
+---
+c: 聖
+k: holy
+t:
+  ⿱:
+    - ⿰:
+      - 耳
+      - 口
+    - 王
+---
+c: 敢
+k: daring
+t:
+  ⿰:
+    - ⿱:
+      - 丅
+      - 耳
+    - 攵
+---
+c: 聴
+k: listen
+t:
+  ⿰:
+    - 耳
+    - ⿳:
+      - 十
+      - 罒
+      - 心
+---
+c: 懐
+k: pocket
+t:
+  ⿰:
+    - 忄
+    - ⿳:
+      - 十
+      - 罒
+      - 衣
+---
+do_not_learn: true
+type: Hyōgai
+c: 曼
+k: mandala
+t:
+  ⿳:
+    - 日
+    - 罒
+    - 又
+---
+c: 慢
+k: ridicule
+t:
+  ⿰:
+    - 忄
+    - 曼
+---
+c: 漫
+k: loose
+t:
+  ⿰:
+    - 氵
+    - 曼
+---
+c: 買
+k: buy
+t:
+  ⿱:
+    - 罒
+    - 貝
+---
+c: 置
+k: placement
+t:
+  ⿱:
+    - 罒
+    - 直
+---
+c: 罰
+k: penalty
+t:
+  ⿱:
+    - 罒
+    - 䚯
+---
+c: 寧
+k: rather
+t:
+  vertical:
+    - 宀
+    - 心
+    - 罒
+    - 丁
+---
+c: 濁
+k: voiced
+t:
+  ⿰:
+    - 氵
+    - ⿱:
+      - 罒
+      - ⿹:
+        - 勹
+        - 虫
+---
+c: 環
+k: ring
+t:
+  ⿰:
+    - 𤣩
+    - vertical:
+      - 罒
+      - 一
+      - 口
+      - 𧘇
+---
+c: 還
+k: send back
+t:
+  ⿺:
+    - 辶
+    - vertical:
+      - 罒
+      - 一
+      - 口
+      - 𧘇
+---
+c: 夫
+k: husband
+t:
+  ⿻:
+    - 二
+    - 人
+---
+c: 扶
+k: aid
+t:
+  ⿰:
+    - 扌
+    - 夫
+---
+c: 渓
+k: mountain stream
+t:
+  ⿰:
+    - 氵
+    - ⿱:
+      - 爫
+      - 夫
+---
+c: 規
+k: standard
+t:
+  ⿰:
+    - 夫
+    - 見
+---
+c: 替
+k: exchange
+t:
+  ⿱:
+    - ⿰:
+      - 夫
+      - 夫
+    - 曰
+---
+c: 賛
+k: approve
+t:
+  ⿱:
+    - ⿰:
+      - 夫
+      - 夫
+    - 貝
+---
+c: 潜
+k: submerge
+t:
+  ⿰:
+    - 氵
+    - 替
+---
+c: 失
+k: lose
+# Up for debate: ⿻𠂉大
+t:
+  ⿰:
+    - 丿
+    - 夫
+---
+c: 鉄
+k: iron
+t:
+  ⿰:
+    - 金
+    - 失
+---
+c: 迭
+k: alternate
+t:
+  ⿺:
+    - 辶
+    - 失
+---
+c: 臣
+k: retainer
+# Up for debate.
+t:
+  ⿷:
+    - 匚
+    - ⿳:
+      - 丨
+      - コ
+      - 丨
+#  or
+#  ⿺:
+#    - ⿳:
+#      - 丅
+#      - 𠃍
+#      - 丅
+#    - 𠃊
+#  or
+#  ⿻:
+#    - 巨
+#    - ⿱:
+#      - 丨
+#      - 丨
+---
+c: 姫
+k: princess
+t:
+  ⿰:
+    - 女
+    - 臣
+---
+c: 蔵
+k: storehouse
+t:
+  ⿵:
+    - 茂
+    - 臣
+---
+c: 臓
+k: entrails
+t:
+  ⿰:
+    - 月
+    - 蔵
+---
+do_not_learn: true
+type: Hyōgai
+c: 臤
+k: (Not RTK, means hard/wise)
+t:
+  ⿰:
+    - 臣
+    - 又
+---
+c: 賢
+k: intelligent
+t:
+  ⿱:
+    - 臤
+    - 貝 or ⿱䁂八
+---
+c: 腎
+k: kidney
+t:
+  ⿱:
+    - 臤
+    - 月
+---
+c: 堅
+k: strict
+t:
+  ⿱:
+    - 臤
+    - 土
+---
+c: 臨
+k: look to
+t:
+  ⿰:
+    - 臣
+    - ⿱:
+      - 𠂉
+      - 品
+---
+c: 覧
+k: perusal
+t:
+  ⿱:
+    - ⿰:
+      - 臣
+      - ⿱:
+        - 𠂉
+        - 一
+    - 見
+---
+c: 巨
+k: gigantic
+t:
+  ⿷:
+    - 匚
+    - コ
+---
+c: 拒
+k: repel
+t:
+  ⿰:
+    - 扌
+    - 巨
+---
+c: 力
+k: power
+# TODO: "Dictionary Paradox"
+t:
+  ⿻:
+    - 𠃌
+    - 丿
+---
+c: 男
+k: man
+t:
+  ⿱:
+    - 田
+    - 力
+---
+c: 労
+k: labor
+t:
+  ⿳:
+    - ⺍
+    - 冖
+    - 力
+---
+c: 募
+k: recruit
+t:
+  ⿱:
+    - 莫
+    - 力
+---
+c: 劣
+k: inferiority
+t:
+  ⿱:
+    - 少
+    - 力
+---
+c: 功
+k: achievement
+t:
+  ⿰:
+    - 工
+    - 力
+---
+c: 勧
+k: persuade
+# Disagrees with Wiki.
+# Up for debate.
+t:
+  ⿰:
+    - ⿻:
+      - 午
+      - 隹
+    - 力
+---
+c: 努
+k: toil
+t:
+  ⿱:
+    - 奴
+    - 力
+---
+c: 勃
+k: uprising
+t:
+  ⿰:
+    - ⿳:
+      - 十
+      - 冖
+      - 子
+    - 力
+---
+c: 励
+k: encourage
+t:
+  ⿰:
+    - ⿸:
+      - 厂
+      - 万
+    - 力
+---
+c: 加
+k: add
+t:
+  ⿰:
+    - 力
+    - 口
+---
+c: 賀
+k: congratulations
+t:
+  ⿱:
+    - 加
+    - 貝
+---
+c: 架
+k: erect
+t:
+  ⿱:
+    - 加
+    - 木
+---
+do_not_learn: true
+type: Hyōgai
+c: 劦
+k: triceps
+t:
+  ⿱:
+    - 力
+    - ⿰:
+      - 力
+      - 力
+---
+c: 脇
+k: armpit
+t:
+  ⿰:
+    - 月
+    - 劦
+---
+c: 脅
+k: threaten
+t:
+  ⿱:
+    - 劦
+    - 月
+---
+c: 協
+k: co-
+t:
+  ⿰:
+    - 十
+    - 劦
+---
+c: 行
+k: going
+t:
+  ⿰:
+    - ⿱:
+      - 丿
+      - 亻
+    - ⿱:
+      - 一
+      - 丁
+variants:
+  - 彳
+---
+c: 律
+k: rhythm
+t:
+  ⿰:
+    - 彳
+    - 聿
+---
+c: 復
+k: restore
+t:
+  ⿰:
+    - 彳
+    - 复
+---
+c: 得
+k: gain
+t:
+  ⿰:
+    - 彳
+    - ⿱:
+      - 旦
+      - 寸
+---
+c: 従
+k: accompany
+# Disagrees with Wiki.
+t:
+  ⿰:
+    - 彳
+    - ⿱:
+      - 丷
+      - 𤴓
+---
+c: 徒
+k: junior
+t:
+  ⿰:
+    - 彳
+    - 走
+---
+c: 待
+k: wait
+t:
+  ⿰:
+    - 彳
+    - 寺
+---
+c: 往
+k: journey
+t:
+  ⿰:
+    - 彳
+    - 主
+---
+c: 征
+k: subjugate
+t:
+  ⿰:
+    - 彳
+    - 正
+---
+c: 径
+k: diameter
+t:
+  ⿰:
+    - 彳
+    - 圣
+---
+c: 彼
+k: he
+t:
+  ⿰:
+    - 彳
+    - 皮
+---
+c: 役
+k: duty
+t:
+  ⿰:
+    - 彳
+    - 殳
+---
+c: 徳
+k: benevolence
+t:
+  ⿰:
+    - 彳
+    - ⿳:
+      - 十
+      - 罒
+      - 心
+---
+c: 徹
+k: penetrate
+t:
+  ⿲:
+    - 彳
+    - 育
+    - 攵
+---
+c: 徴
+k: indications
+t:
+  ⿲:
+    - 彳
+    - ⿱:
+      - 山
+      - 王
+    - 攵
+---
+c: 懲
+k: penal
+t:
+  ⿱:
+    - 徵
+    - 心
+---
+c: 微
+k: delicate
+t:
+  ⿲:
+    - 彳
+    - ⿱:
+      - 山
+      - 兀
+    - 攵
+---
+c: 街
+k: boulevard
+# Disagrees with Wiki.
+t:
+  # Potentially ⿻, but no strokes overlap.
+  ⿴:
+    - 行
+    - 圭
+---
+c: 桁
+k: girder
+t:
+  ⿰:
+    - 木
+    - 行
+---
+c: 衡
+k: equilibrium
+# See 街.
+t:
+  ⿴:
+    - 行
+    - ⿳:
+      - ⺈
+      - 田
+      - 大
+---
+do_not_learn: true
+type: Jinmeiyō
+c: 禾
+meaning: rice plant
+k: wheat
+t:
+  ⿱:
+    - 丿
+    - 木
+---
+c: 稿
+k: draft
+t:
+  ⿰:
+    - 禾
+    - 高
+---
+c: 稼
+k: earnings
+t:
+  ⿰:
+    - 禾
+    - 家
+---
+c: 程
+k: extent
+t:
+  ⿰:
+    - 禾
+    - 呈
+---
+c: 税
+k: tax
+t:
+  ⿰:
+    - 禾
+    - ⿱:
+      - 丷
+      - 兄
+---
+c: 稚
+k: immature
+t:
+  ⿰:
+    - 禾
+    - 隹
+---
+c: 和
+k: harmony
+t:
+  ⿰:
+    - 禾
+    - 口
+---
+c: 移
+k: shift
+t:
+  ⿰:
+    - 禾
+    - 多
+---
+c: 秒
+k: second
+t:
+  ⿰:
+    - 禾
+    - 少
+---
+c: 秋
+k: autumn
+t:
+  ⿰:
+    - 禾
+    - 火
+---
+c: 愁
+k: distress
+t:
+  ⿱:
+    - 秋
+    - 心
+---
+c: 私
+k: private
+t:
+  ⿰:
+    - 禾
+    - 厶
+---
+c: 秩
+k: regularity
+t:
+  ⿰:
+    - 禾
+    - 失
+---
+c: 秘
+k: secret
+t:
+  ⿰:
+    - 禾
+    - 必
+---
+c: 称
+k: appellation
+t:
+  ⿰:
+    - 禾
+    - ⿱:
+      - 𠂉
+      - 小
+---
+c: 利
+k: profit
+t:
+  ⿰:
+    - 禾
+    - 刂
+---
+c: 梨
+k: pear tree
+t:
+  ⿱:
+    - 利
+    - 木
+---
+c: 穫
+k: harvest
+t:
+  ⿰:
+    - 禾
+    - 蒦
+---
+c: 穂
+k: ear of a plant
+t:
+  ⿰:
+    - 禾
+    - 恵
+---
+c: 稲
+k: rice plant
+t:
+  ⿰:
+    - 禾
+    - ⿱:
+      - 爫
+      - 旧
+---
+c: 香
+k: incense
+t:
+  ⿱:
+    - 禾
+    - 日
+---
+c: 季
+k: seasons
+t:
+  ⿱:
+    - 禾
+    - 子
+---
+c: 委
+k: committee
+t:
+  ⿱:
+    - 禾
+    - 女
+---
+c: 秀
+k: excel
+t:
+  ⿱:
+    - 禾
+    - 乃
+---
+c: 透
+k: transparent
+t:
+  ⿺:
+    - 辶
+    - 秀
+---
+c: 誘
+k: entice
+t:
+  ⿰:
+    - 言
+    - 秀
+---
+do_not_learn: true
+type: Jinmeiyō
+c: 尤
+k: chihuahua with one human leg
+t:
+  # Up for debate. Conforms with Wiki.
+  ⿺:
+    - ⿸:
+      - 𠂇
+      - 乚
+    - 丶
+---
+c: 稽
+k: training
+t:
+  ⿰:
+    - 禾
+    - ⿱:
+      - 尤
+      - 旨
+---
+c: 穀
+k: cereals
+t:
+  ⿰:
+    - ⿳:
+      - 士
+      - 冖
+      - 禾
+    - 殳
+---
+c: 菌
+k: germ
+t:
+  ⿱:
+    - 艹
+    - ⿴:
+      - 囗
+      - 禾
+---
+c: 萎
+k: numb
+t:
+  ⿱:
+    - 艹
+    - 委
+---
+c: 米
+k: rice
+t:
+  ⿻:
+    - 丷
+    - 木
+variants:
+  # For Heisig'ers: grains of rice.
+  - 氺
+---
+c: 粉
+k: flour
+t:
+  ⿰:
+    - 米
+    - 分
+---
+c: 粘
+k: sticky
+t:
+  ⿰:
+    - 米
+    - 占
+---
+c: 粒
+k: grains
+t:
+  ⿰:
+    - 米
+    - 立
+---
+c: 粧
+k: cosmetics
+t:
+  ⿰:
+    - 米
+    - ⿸:
+      - 广
+      - 土
+---
+c: 迷
+k: astray
+t:
+  ⿺:
+    - 辶
+    - 米
+---
+c: 粋
+k: chic
+t:
+  ⿰:
+    - 米
+    - ⿱:
+      - 九
+      - 十
+---
+c: 謎
+k: riddle
+t:
+  ⿰:
+    - 訁
+    - 迷
+---
+c: 糧
+k: provisions
+t:
+  ⿰:
+    - 米
+    - 量
+---
+c: 菊
+k: chrysanthemum
+t:
+  ⿱:
+    - 艹
+    - ⿹:
+      - 勹
+      - 米
+---
+c: 奥
+k: core
+t:
+  ⿱:
+    - ⿵:
+      - ⿱:
+        - 丿
+        - 冂
+      - 米
+    - 大
+---
+c: 数
+k: number
+t:
+  ⿰:
+    - ⿱:
+      - 米
+      - 女
+    - 攵
+---
+c: 楼
+k: watchtower
+t:
+  ⿰:
+    - 木
+    - ⿱:
+      - 米
+      - 女
+---
+c: 類
+k: sort
+t:
+  ⿰:
+    - ⿱:
+      - 米
+      - 大
+    - 頁
+---
+c: 漆
+k: lacquer
+# Disagrees with Wiki.
+t:
+  ⿰:
+    - 氵
+    - ⿳:
+      - 木
+      - 𠆢
+      - 氺
+---
+c: 膝
+k: knee
+# See 漆.
+t:
+  ⿰:
+    - ⺼
+    - ⿳:
+      - 木
+      - 𠆢
+      - 氺
+---
+c: 様
+k: Esq.
+t:
+  ⿰:
+    - 木
+    - ⿳:
+      - 丷
+      - 王
+      - 水
+---
+c: 求
+k: request
+# Complies with Wiki.
+t:
+  ⿺:
+    - ⿻:
+      - 一
+      - 氺
+    - 丶
+---
+c: 球
+k: ball
+t:
+  ⿰:
+    - ⺩
+    - 求
+---
+c: 救
+k: salvation
+t:
+  ⿰:
+    - 求
+    - 攵
+---
+c: 竹
+k: bamboo
+t:
+  ⿰:
+    - ⿱:
+      - ⺈
+      - 亅
+    - ⿱:
+      - ⺈
+      - 亅
+variants:
+  - ⺮
+---
+c: 笑
+k: laugh
+t:
+  ⿱:
+    - ⺮
+    - 夭
+---
+c: 笠
+k: bamboo hat
+t:
+  ⿱:
+    - 𥫗
+    - 立
+---
+c: 笹
+k: bamboo grass
+t:
+  ⿱:
+    - ⺮
+    - 世
+---
+c: 箋
+k: stationery
+t:
+  ⿱:
+    - 𥫗
+    - ⿱:
+      - 戈
+      - 戈
+---
+c: 筋
+k: muscle
+t:
+  ⿱:
+    - ⺮
+    - ⿰:
+      - ⺼
+      - 力
+---
+c: 箱
+k: box
+t:
+  ⿱:
+    - ⺮
+    - 相
+---
+c: 筆
+k: writing brush
+t:
+  ⿱:
+    - ⺮
+    - 聿
+---
+c: 筒
+k: cylinder
+t:
+  ⿱:
+    - ⺮
+    - 同
+---
+c: 等
+k: etc.
+t:
+  ⿱:
+    - ⺮
+    - 寺
+---
+c: 算
+k: calculate
+t:
+  ⿱:
+    - ⺮
+    - ⿱:
+      - 目
+      - 廾
+---
+c: 答
+k: solution
+t:
+  ⿱:
+    - ⺮
+    - 合
+---
+c: 策
+k: scheme
+t:
+  ⿱:
+    - ⺮
+    - 朿
+---
+c: 簿
+k: register
+# See 薄.
+t:
+  ⿱:
+    - 𥫗
+    - horizontal:
+      - 氵
+      # Up for debate. See Dr.
+      ⿺:
+        - 専
+        - ⼂
+---
+c: 築
+k: fabricate
+t:
+  ⿱:
+    - ⿱:
+      - 𥫗
+      - ⿰:
+        - 工
+        - 凡
+    - 木
+---
+c: 篭
+k: basket
+t:
+  ⿱:
+    - ⺮
+    - 竜
+---
+c: 佐
+k: assistant
+t:
+  ⿰:
+    - 亻
+    - 左
+---
+c: 侶
+k: partner
+t:
+  ⿰:
+    - 亻
+    - 呂
+---
+c: 但
+k: however
+t:
+  ⿰:
+    - 亻
+    - 旦
+---
+c: 住
+k: dwell
+t:
+  ⿰:
+    - 亻
+    - 主
+---
+c: 位
+k: rank
+t:
+  ⿰:
+    - 亻
+    - 立
+---
+c: 仲
+k: go-between
+t:
+  ⿰:
+    - 亻
+    - 中
+---
+c: 体
+k: body
+t:
+  ⿰:
+    - 亻
+    - 本
+---
+c: 悠
+k: remote
+t:
+  ⿱:
+    - ⿲:
+      - 亻
+      - 丨
+      - 攵
+    - 心
+---
+c: 件
+k: affair
+t:
+  ⿰:
+    - 亻
+    - 牛
+---
+c: 仕
+k: attend
+t:
+  ⿰:
+    - 亻
+    - 士
+---
+c: 他
+k: other
+t:
+  ⿰:
+    - 亻
+    - 也
+---
+c: 伏
+k: prostrated
+t:
+  ⿰:
+    - 亻
+    - 犬
+---
+c: 伝
+k: transmit
+t:
+  ⿰:
+    - 亻
+    - 云
+---
+c: 仏
+k: Buddha
+t:
+  ⿰:
+    - 亻
+    - 厶
+---
+c: 休
+k: rest
+t:
+  ⿰:
+    - 亻
+    - 木
+---
+c: 仮
+k: provisional
+t:
+  ⿰:
+    - 亻
+    - 反
+---
+c: 伎
+k: performing artist
+t:
+  ⿰:
+    - 亻
+    - 支
+---
+c: 伯
+k: chief
+t:
+  ⿰:
+    - 亻
+    - 白
+---
+c: 俗
+k: vulgar
+t:
+  ⿰:
+    - 亻
+    - 谷
+---
+c: 信
+k: faith
+t:
+  ⿰:
+    - 亻
+    - 言
+---
+c: 佳
+k: excellent
+t:
+  ⿰:
+    - 亻
+    - 圭
+---
+c: 依
+k: reliant
+t:
+  ⿰:
+    - 亻
+    - 衣
+---
+c: 例
+k: example
+t:
+  ⿰:
+    - 亻
+    - 列
+---
+c: 個
+k: individual
+t:
+  ⿰:
+    - 亻
+    - 固
+---
+c: 健
+k: healthy
+t:
+  ⿰:
+    - 亻
+    - 建
+---
+c: 側
+k: side
+t:
+  ⿰:
+    - 亻
+    - 則
+---
+c: 侍
+k: waiter
+t:
+  ⿰:
+    - 亻
+    - 寺
+---
+c: 停
+k: halt
+t:
+  ⿰:
+    - 亻
+    - 亭
+---
+c: 値
+k: price
+t:
+  ⿰:
+    - 亻
+    - 直
+---
+c: 倣
+k: emulate
+t:
+  ⿰:
+    - 亻
+    - 放
+---
+c: 傲
+k: arrogance
+t:
+  ⿰:
+    - 亻
+    - 敖
+---
+c: 倒
+k: overthrow
+t:
+  ⿰:
+    - 亻
+    - 到
+---
+c: 偵
+k: spy
+t:
+  ⿰:
+    - 亻
+    - 貞
+---
+c: 僧
+k: Buddhist priest
+t:
+  ⿰:
+    - 亻
+    - 曽
+---
+c: 億
+k: hundred million
+t:
+  ⿰:
+    - 亻
+    - 意
+---
+c: 儀
+k: ceremony
+t:
+  ⿰:
+    - 亻
+    - 義
+---
+c: 償
+k: reparation
+t:
+  ⿰:
+    - 亻
+    - 賞
+---
+c: 仙
+k: hermit
+t:
+  ⿰:
+    - 亻
+    - 山
+---
+c: 催
+k: sponsor
+t:
+  ⿰:
+    - 亻
+    - ⿱:
+      - 山
+      - 隹
+---
+c: 仁
+k: humanity
+t:
+  ⿰:
+    - 亻
+    - 二
+---
+c: 侮
+k: scorn
+t:
+  ⿰:
+    - 亻
+    - 毎
+---
+c: 使
+k: use
+t:
+  ⿰:
+    - 亻
+    - 吏
+---
+c: 便
+k: convenience
+t:
+  ⿰:
+    - 亻
+    - 更
+---
+c: 倍
+k: double
+t:
+  ⿰:
+    - 亻
+    - 咅
+---
+c: 優
+k: tenderness
+t:
+  ⿰:
+    - 亻
+    - 憂
+---
+c: 伐
+k: fell
+t:
+  ⿰:
+    - 亻
+    - 戈
+---
+c: 宿
+k: inn
+t:
+  ⿱:
+    - 宀
+    - 佰
+---
+c: 傷
+k: wound
+t:
+  ⿰:
+    - 亻
+    - ⿳:
+      - 𠂉
+      - 昜
+---
+c: 保
+k: protect
+t:
+  ⿰:
+    - 亻
+    - ⿱:
+      - 口
+      - 木
+---
+c: 褒
+k: praise
+t:
+  ⿳:
+    - 亠
+    - 保
+    - 𧘇
+---
+c: 傑
+k: greatness
+t:
+  ⿰:
+    - 亻
+    - ⿱:
+      - 舛
+      - 木
+---
+c: 付
+k: adhere
+t:
+  ⿰:
+    - 亻
+    - 寸
+---
+c: 符
+k: token
+t:
+  ⿱:
+    - ⺮
+    - 付
+---
+c: 府
+k: municipality
+t:
+  ⿸:
+    - 广
+    - 付
+---
+c: 任
+k: responsibility
+t:
+  ⿰:
+    - 亻
+    - 壬
+---
+c: 賃
+k: fare
+t:
+  ⿱:
+    - 任
+    - 貝
+---
+c: 代
+k: substitute
+t:
+  ⿰:
+    - 亻
+    - 弋
+---
+c: 袋
+k: sack
+t:
+  ⿱:
+    - 代
+    - 衣
+---
+c: 貸
+k: lend
+t:
+  ⿱:
+    - 代
+    - 貝
+---
+c: 化
+k: change
+t:
+  ⿰:
+    - 亻
+    - 匕
+---
+c: 花
+k: flower
+t:
+  ⿱:
+    - 艹
+    - 化
+---
+c: 貨
+k: freight
+t:
+  ⿱:
+    - 化
+    - 貝
+---
+c: 頃
+k: about that time
+t:
+  ⿰:
+    - 匕
+    - 頁
+---
+c: 傾
+k: lean
+t:
+  # Up for debate. Taken from Wiki.
+  # Can be ⿰化頁.
+  ⿰:
+    - 亻
+    - 頃
+---
+c: 何
+k: what
+t:
+  ⿰:
+    - 亻
+    - 可
+---
+c: 荷
+k: baggage
+t:
+  ⿱:
+    - 艹
+    - 何
+---
+do_not_learn: true
+c: 夋
+k: (Not RTK. Unknown meaning)
+t:
+  ⿱:
+    - 允
+    - 夂
+---
+c: 俊
+k: sagacious
+t:
+  ⿰:
+    - 亻
+    - 夋
+---
+c: 傍
+k: bystander
+t:
+  ⿰:
+    - 亻
+    - vertical:
+      - 亠
+      - 丷
+      - 冖
+      - 方
+---
+do_not_learn: true
+type: Jinmeiyō
+k: (Unknown if RTK1.6 or not.)
+t:
+  ⿱:
+    - 大
+    # TODO: Conflicts with eel primitive.
+    - ⿻:
+      - 日
+      - 乚
+---
+c: 俺
+k: myself
+t:
+  ⿰:
+    - 亻
+    - 奄
+---
+c: 久
+k: long time
+t:
+  ⿸:
+    - 𠂊
+    - 乀
+---
+c: 畝
+k: furrow
+t:
+  ⿰:
+    - ⿱:
+      - 亠
+      - 田
+    - 久
+---
+c: 囚
+k: captured
+t:
+  ⿴:
+    - 囗
+    - 人
+---
+c: 内
+k: inside
+t:
+  ⿻:
+    - 冂
+    - 人
+---
+c: 丙
+k: third class
+t:
+  ⿱:
+    - 一
+    - 内
+---
+c: 柄
+k: design
+t:
+  ⿰:
+  - 木
+  - 丙
+---
+c: 肉
+k: meat
+t:
+  ⿵:
+    - 内
+    - 人
+---
+c: 腐
+k: rot
+t:
+  ⿸:
+    - 府
+    - 肉
+---
+do_not_learn: true
+type:
+c: 从
+# For non-Heisig'ers: two people
+k: assembly line
+t:
+  ⿰:
+    - 人
+    - 人
+---
+do_not_learn: true
+type: Jinmeiyō
+c: 坐
+k: (???)
+# unconventional stroke order.
+t:
+  ⿻:
+    - 土
+    - 从
+---
+c: 座
+k: sit
+t:
+  ⿸:
+    - 广
+    - 坐
+---
+c: 挫
+k: sprain
+t:
+  ⿰:
+    - 扌
+    - 坐
+---
+c: 卒
+k: graduate
+t:
+  ⿳:
+    - 亠
+    - 从
+    - 十
+---
+c: 傘
+k: umbrella
+# Up for debate. Breaks stroke order.
+t:
+  ⿱:
+    - 人
+    - ⿻:
+      - 十
+      - ⿱:
+        - 从
+        - 从
+---
+c: 匁
+k: monme
+# Wiki's hot take on monme.
+# Added 刀 a dependency, just in case.
+t:
+  ⿻:
+    - 勹
+    - 乂
+dependencies:
+  - 刀
+---
+c: 以
+k: by means of
+t:
+  ⿲:
+    - 𠄌
+    - 丶
+    - 人
+---
+c: 似
+k: similar
+t:
+  ⿰:
+    - 亻
+    - 以
+---
+do_not_learn: true
+type: Hyōgai (Shinjitai)
+c: 并
+k: puzzle
+t:
+  ⿱:
+    - 丷
+    - 开
+variants:
+  - 幷
+---
+c: 併
+k: join
+t:
+  ⿰:
+    - 亻
+    - 并
+---
+c: 瓦
+k: tile
+t:
+  ⿵:
+    - ⿸:
+      - ⿱:
+        - 丅
+        - ㇀
+      - ㇈
+    - 丶
+---
+c: 瓶
+k: flower pot
+t:
+  ⿰:
+    - 并
+    - 瓦
+---
+c: 宮
+k: Shinto shrine
+t:
+  ⿱:
+    - 宀
+    - 呂
+---
+c: 営
+k: occupation
+t:
+  ⿳:
+    - ⺍
+    - 冖
+    - 呂
+---
+c: 善
+k: virtuous
+t:
+  # Up for debate. Consider ⿳.
+  ⿻:
+    - 羊
+    - ⿱:
+      - 䒑
+      - 口
+---
+c: 膳
+k: dining tray
+t:
+  ⿰:
+    - 月
+    - 善
+---
+c: 年
+k: year
+t: 年 #TODO: "Dictionary Paradox".
+  # ⿱𠂉㐄 or ⿻午⿱一丨 or ⿻午丄
+---
+c: 夜
+k: night
+t:
+  ⿱:
+    - 亠
+    - ⿰:
+      - 亻
+      - ⿴:
+        - 夂
+        - 丶
+---
+c: 液
+k: fluid
+t:
+  ⿰:
+    - 氵
+    - 夜
+---
+c: 塚
+k: hillock
+t:
+  ⿰:
+    - 土
+    - ⿱:
+      - 冖
+      - 豕
+---
+do_not_learn: true
+type: Chinese Only
+c: 敝
+k: shredder
+t:
+  - ⿰:
+    # Disagrees with Wiki.
+    - ⿱:
+      - ⺌
+      - ⿵:
+        - 冂
+        # TODO: Find inverted version.
+        - ⺌
+    - 攵
+---
+c: 幣
+k: cash
+t:
+  ⿱:
+    - 敝
+    - 巾
+---
+c: 蔽
+k: cover over
+t:
+  ⿱:
+    - 艹
+    - 敝
+---
+c: 弊
+k: abuse
+t:
+  ⿱:
+    - 敝
+    - 廾
+---
+c: 喚
+k: yell
+t:
+  ⿰:
+    - 口
+    - ⿳:
+      - ⺈
+      - ⿵:
+        - 冂
+        - 儿
+      - 大
+---
+c: 換
+k: interchange
+t:
+  ⿰:
+    - 扌
+    - ⿳:
+      - ⺈
+      - ⿵:
+        - 冂
+        - 儿
+      - 大
+---
+c: 融
+k: dissolve
+# Also isolate.
+t:
+  ⿰:
+    - ⿳:
+      - 一
+      - 口
+      - ⿵:
+        - 冂
+        - ⿱:
+          - 儿
+          - 丅
+    - 虫
+---
+c: 施
+k: alms
+# Up for debate. Taking Heisig's side.
+t:
+  ⿸:
+    ⿰:
+      - 方
+      - 𠂉
+    - 也
+---
+c: 旋
+k: rotation
+t:
+  ⿸:
+    ⿰:
+      - 方
+      - 𠂉
+    - 疋
+---
+c: 遊
+k: play
+t:
+  ⿺:
+    - 辶
+    - ⿸:
+      - ⿰:
+        - 方
+        - 𠂉
+      - 子
+---
+c: 旅
+k: trip
+t:
+  ⿸:
+    - ⿱:
+      - 方
+      - 𠂉
+    - ⿱:
+      - 𠂉
+      - ⿸:
+        - ⿱:
+          - 丿
+          - 𠄌
+        - ⿺:
+          - 乀
+          - 丿
+dependencies:
+  - 𧘇
+---
+c: 物
+k: thing
+t:
+  ⿰:
+    - 牜
+    - 勿
+---
+c: 易
+k: easy
+t:
+  ⿱:
+    - 日
+    - 勿
+---
+c: 賜
+k: grant
+t:
+  ⿰:
+    - 貝
+    - 易
+---
+do_not_learn: true
+type: Hyōgai
+c: 尸
+meaning: corpse
+k: flag
+# Strange stroke order.
+t:
+  ⿰:
+    - 丿
+    - コ
+---
+c: 尿
+k: urine
+t:
+  ⿸:
+    - 尸
+    - 水
+---
+c: 尼
+k: nun
+t:
+  ⿸:
+    - 尸
+    - 匕
+---
+c: 尻
+k: buttocks
+t:
+  ⿸:
+    - 尸
+    - 九
+---
+c: 泥
+k: mud
+t:
+  ⿰:
+    - 氵
+    - 尼
+---
+c: 塀
+k: fence
+t:
+  ⿰:
+    - 土
+    - ⿸:
+      - 尸
+      - 并
+---
+c: 履
+k: footgear
+t:
+  ⿸:
+    - 尸
+    - 復
+---
+c: 屋
+k: roof
+t:
+  ⿸:
+    - 尸
+    - 至
+---
+c: 握
+k: grip
+t:
+  ⿰:
+    - 扌
+    - 屋
+---
+c: 屈
+k: yield
+t:
+  ⿸:
+    - 尸
+    - 出
+---
+c: 掘
+k: dig
+t:
+  ⿰:
+    - 扌
+    - 屈
+---
+c: 堀
+k: ditch
+t:
+  ⿰:
+    - 土
+    - 屈
+---
+c: 居
+k: reside
+t:
+  ⿸:
+    - 尸
+    - 古
+---
+c: 据
+k: set
+t:
+  ⿰:
+    - 扌
+    - 居
+---
+c: 裾
+k: hem
+t:
+  ⿰:
+    - 衤
+    - 居
+---
+c: 層
+k: stratum
+t:
+  ⿸:
+    - 尸
+    - 曽
+---
+c: 局
+k: bureau
+t:
+  ⿸:
+    - 尸
+    - ⿹:
+      - 𠃌
+      - 口
+# Up for debate.
+dependencies:
+  - 句
+  - 可
+---
+c: 遅
+k: slow
+t:
+  ⿺:
+    - 辶
+    - ⿸:
+      - 尸
+      - 羊
+---
+c: 漏
+k: leak
+t:
+  ⿰:
+    - 氵
+    - ⿸:
+      - 尸
+      - 雨
+---
+c: 刷
+k: printing
+t:
+  ⿰:
+    - ⿸:
+      - 尸
+      - 巾
+    - 刂
+---
+c: 尺
+k: shaku
+# Wiki doesn't have a composition. Not super sure here.
+t:
+  ⿸:
+    - 尸
+    - 乁
+---
+c: 尽
+k: exhaust
+t:
+  ⿱:
+    - 尺
+    - ⺀
+---
+c: 沢
+k: swamp
+t:
+  ⿰:
+    - 氵
+    - 尺
+---
+c: 訳
+k: translate
+t:
+  ⿰:
+    - 言
+    - 尺
+---
+c: 択
+k: choose
+t:
+  ⿰:
+    - 扌
+    - 尺
+---
+c: 昼
+k: daytime
+t:
+  ⿵:
+    - 尺
+    - 旦
+---
+c: 戸
+k: door
+t:
+  ⿱:
+    - 一
+    - 尸
+---
+c: 肩
+k: shoulder
+t:
+  ⿸:
+    - 戸
+    - 月
+---
+c: 房
+k: tassel
+t:
+  ⿸:
+    - 戸
+    - 方
+---
+c: 扇
+k: fan
+t:
+  ⿸:
+    - 戸
+    - 羽
+---
+c: 炉
+k: hearth
+t:
+  ⿰:
+    - 火
+    - 戸
+---
+c: 戻
+k: re-
+t:
+  ⿸:
+    - 戸
+    - 大
+---
+c: 涙
+k: tears
+t:
+  ⿰:
+    - 氵
+    - 戻
+---
+c: 雇
+k: employ
+t:
+  ⿸:
+    - 戸
+    - 隹
+---
+c: 顧
+k: look back
+t:
+  ⿰:
+    - 雇
+    - 頁
+---
+c: 啓
+k: disclose
+t:
+  ⿱:
+    - ⿰:
+      - 戸
+      - 攵
+    - 口
+---
+c: 示
+k: show
+t:
+  ⿱:
+    - 二
+    - 小
+variants:
+  - 礻
+---
+c: 礼
+k: salutation
+t:
+  ⿰:
+    - 礻
+    - 乚
+---
+c: 祥
+k: auspicious
+t:
+  ⿰:
+    - 礻
+    - 羊
+---
+c: 祝
+k: celebrate
+t:
+  ⿰:
+    - 礻
+    - 兄
+---
+c: 福
+k: blessing
+t:
+  ⿰:
+    - 礻
+    - 畐
+---
+c: 祉
+k: welfare
+t:
+  ⿰:
+    - 礻
+    - 止
+---
+c: 社
+k: company
+t:
+  ⿰:
+    - 礻
+    - 土
+---
+c: 視
+k: inspection
+t:
+  ⿰:
+    - 礻
+    - 見
+---
+c: 奈
+k: Nara
+t:
+  ⿱:
+    - 大
+    - 示
+---
+c: 尉
+k: military officer
+t:
+  ⿰:
+    - ⿸:
+      - 尸
+      - 示
+    - 寸
+---
+c: 慰
+k: consolation
+t:
+  ⿱:
+    - 尉
+    - 心
+---
+c: 款
+k: goodwill
+t:
+  ⿰:
+    - ⿱:
+      - 士
+      - 示
+    - 欠
+---
+c: 禁
+k: prohibition
+t:
+  ⿱:
+    - 林
+    - 示
+---
+c: 襟
+k: collar
+t:
+  ⿰:
+    - 衤
+    - 禁
+---
+c: 宗
+k: religion
+t:
+  ⿱:
+    - 宀
+    - 示
+---
+c: 崇
+k: adore
+t:
+  ⿱:
+    - 山
+    - 宗
+---
+c: 祭
+k: ritual
+t:
+  ⿱:
+    - ⿰:
+      - 月
+      - ⿻:
+        - ㇇
+        - 乁 #TODO: Find a replacement.
+    - 示
+---
+c: 察
+k: guess
+t:
+  ⿱:
+    - 宀
+    - 祭
+---
+c: 擦
+k: grate
+t:
+  ⿰:
+    - 扌
+    - 察
+---
+c: 由
+k: wherefore
+t:
+  ⿻:
+    - 日
+    - 丨
+---
+c: 抽
+k: pluck
+t:
+  ⿰:
+    - 扌
+    - 由
+---
+c: 油
+k: oil
+t:
+  ⿰:
+    - 氵
+    - 由
+---
+c: 袖
+k: sleeve
+t:
+  ⿰:
+    - 衤
+    - 由
+---
+c: 宙
+k: mid-air
+t:
+  ⿱:
+    - 宀
+    - 由
+---
+c: 届
+k: deliver
+t:
+  ⿸:
+    - 尸
+    - 由
+---
+c: 笛
+k: flute
+t:
+  ⿰:
+    - ⺮
+    - 由
+---
+c: 軸
+k: axis
+t:
+  ⿰:
+    - 車
+    - 由
+---
+c: 甲
+k: armor
+# TODO: Not Unique. See 由 and 未.
+t:
+  ⿻:
+    - 日
+    - 丨
+---
+c: 押
+k: push
+t:
+  ⿰:
+    - 扌
+    - 甲
+---
+c: 岬
+k: headland
+t:
+  ⿰:
+    - 山
+    - 甲
+---
+c: 挿
+k: insert
+# Wiki doesn't have an entry.
+# Choosing Heisig's ordering.
+t:
+  ⿰:
+    - 扌
+    - ⿱:
+      - 千
+      - 甲
+---
+c: 申
+k: speaketh
+# TODO: Not unique. See 由.
+t:
+  ⿻:
+    - 日
+    - 丨
+---
+c: 伸
+k: expand
+t:
+  ⿰:
+    - 亻
+    - 申
+---
+c: 神
+k: gods
+t:
+  ⿰:
+    - 礻
+    - 申
+---
+c: 捜
+k: search
+t:
+  ⿰:
+    - 扌
+    - ⿱:
+      - 申
+      - 又
+---
+c: 果
+k: fruit
+t:
+  ⿻:
+    - 日
+    - 木
+---
+c: 菓
+k: confectionary
+t:
+  ⿱:
+    - 艹
+    - 果
+---
+c: 課
+k: chapter
+t:
+  ⿰:
+    - 言
+    - 果
+---
+c: 裸
+k: naked
+t:
+  ⿰:
+    - 衤
+    - 果
+---
+c: 斤
+k: ax
+t:
+  ⿸:
+    - 𠂆
+    - 丅
+---
+c: 析
+k: chop
+t:
+  ⿰:
+    - 木
+    - 斤
+---
+c: 所
+k: place
+t:
+  ⿰:
+    - 戸
+    - 斤
+---
+c: 祈
+k: pray
+t:
+  ⿰:
+    - 礻
+    - 斤
+---
+c: 近
+k: near
+t:
+  ⿺:
+    - 辶
+    - 斤
+---
+c: 折
+k: fold
+t:
+  ⿰:
+    - 扌
+    - 斤
+---
+c: 哲
+k: philosophy
+t:
+  ⿱:
+    - 折
+    - 口
+---
+c: 逝
+k: departed
+t:
+  ⿺:
+    - 辶
+    - 折
+---
+c: 誓
+k: vow
+t:
+  ⿱:
+    - 折
+    - 言
+---
+c: 斬
+k: chop off
+t:
+  ⿰:
+    - 車
+    - 斤
+---
+c: 暫
+k: temporarily
+t:
+  ⿱:
+    - 斬
+    - 日
+---
+c: 漸
+k: steadily
+t:
+  ⿰:
+    - 氵
+    - 斬
+---
+c: 断
+k: severance
+t:
+  ⿰:
+    - ⿺:
+      - 𠃊
+      - 米
+    - 斤
+---
+c: 質
+k: substance
+t:
+  ⿱:
+    - 斦
+    - 貝
+---
+c: 斥
+k: reject
+# Disagrees with Wiki.
+t:
+  ⿻:
+    - 斤
+    - 丶
+---
+c: 訴
+k: accusation
+t:
+  ⿰:
+    - 言
+    - 斥
+---
+do_not_learn: true
+type: Hyōgai
+c: 乍
+k: saw
+t:
+  ⿱:
+    - 𠂉
+    - ⿰:
+      - 丨
+      - 二
+---
+c: 昨
+k: yesterday
+t:
+  ⿰:
+    - 日
+    - 乍
+---
+c: 詐
+k: lie
+t:
+  ⿰:
+    - 訁
+    - 乍
+---
+c: 作
+k: make
+t:
+  ⿰:
+    - 亻
+    - 乍
+---
+do_not_learn: true
+type: Hyōgai
+c: 彐
+k: broom
+t:
+  ⿴:
+    - ユ
+    - 一
+---
+c: 雪
+k: snow
+t:
+  ⿱:
+    - ⻗
+    - 彐
+---
+c: 録
+k: record
+t:
+  ⿰:
+    - 金
+    - ⿱:
+      - 彐
+      - 氺
+---
+c: 剥
+k: peel off
+t:
+  ⿰:
+    - ⿱:
+      - 彐
+      - 氺
+    - 刂
+---
+c: 尋
+k: inquire
+t:
+  ⿳:
+    - 彐
+    - ⿰:
+      - 工
+      - 口
+    - 寸
+---
+c: 急
+k: hurry
+t:
+  ⿳:
+    - ⺈
+    - 彐
+    - 心
+---
+c: 穏
+k: calm
+t:
+  ⿰:
+    - 禾
+    - ⿳:
+      - 爫
+      - 彐
+      - 心
+---
+c: 侵
+k: encroach
+t:
+  ⿰:
+    - 亻
+    - ⿳:
+      - 彐
+      - 冖
+      - 又
+---
+c: 浸
+k: immersed
+t:
+  ⿰:
+    - 氵
+    - ⿳:
+      - 彐
+      - 冖
+      - 又
+---
+c: 寝
+k: lie down
+t:
+  ⿱:
+    - 宀
+    ⿰:
+      - 丬
+      - ⿳:
+        - 彐
+        - 冖
+        - 又
+---
+c: 婦
+k: lady
+t:
+  ⿰:
+    - 女
+    - ⿳:
+      - 彐
+      - 冖
+      - 巾
+---
+c: 掃
+k: sweep
+t:
+  ⿰:
+    - 扌
+    - ⿳:
+      - 彐
+      - 冖
+      - 巾
+---
+c: 当
+k: hit
+t:
+  ⿱:
+    - ⺌
+    - 彐
+---
+c: 彙
+k: glossary
+t:
+  ⿳:
+    - 彑
+    - 冖
+    - 果
+---
+c: 争
+k: contend
+t:
+  ⿱:
+    - ⺈
+    - ⿻:
+      - コ
+      - 一
+      - 亅
+---
+c: 浄
+k: clean
+t:
+  ⿰:
+    - 氵
+    - 争
+---
+c: 事
+k: matter
+t:
+  ⿻:
+    - ⿳:
+      - 一
+      - 口
+      - ⿻:
+        - コ
+        - 一
+    - 亅
+# TODO: Fix dependency tree for this style of character.
+# Possibly 肀. Claim as a variant or do_not_learn?
+# Also related to 聿.
+dependency:
+  - 争
+---
+c: 唐
+k: T'ang
+t:
+  ⿸:
+    - 广
+    - ⿱:
+      - 肀
+      - 口
+---
+c: 糖
+k: sugar
+t:
+  ⿰:
+    - 米
+    - 唐
+---
+do_not_learn: true
+type: Hyōgai
+c: 隶
+k: seive
+t:
+  ⿱:
+    - 肀
+    - 氺
+---
+c: 康
+k: sane
+t:
+  ⿸:
+    - 广
+    - 隶
+---
+c: 逮
+k: apprehend
+t:
+  ⿺:
+    - 辶
+    - 隶
+---
+do_not_learn: true
+type: Hyōgai
+c: 尹
+k: mop
+t:
+  ⿻:
+    - コ
+    - 𠂇
+dependencies:
+  - 肀
+---
+c: 伊
+k: Italy
+t:
+  ⿰:
+    - 亻
+    - 尹
+---
+c: 君
+k: old boy
+t:
+  ⿸:
+    - 尹
+    - 口
+---
+c: 群
+k: flock
+t:
+  ⿰:
+    - 君
+    - 羊
+---
+do_not_learn: true
+type: Jinmeiyō
+c: 而
+k: comb
+t:
+  ⿳:
+    - 一
+    - 丿
+    - ⿵:
+      - 冂
+      - ⿰:
+        - ⼁
+        - ⼁
+---
+c: 耐
+k: -proof
+t:
+  ⿰:
+    - 而
+    - 寸
+---
+c: 需
+k: demand
+t:
+  ⿱:
+    - ⻗
+    - 而
+---
+c: 儒
+k: Confucian
+t:
+  ⿰:
+    - 亻
+    - 需
+---
+c: 端
+k: edge
+t:
+  ⿰:
+    - 立
+    - ⿱:
+      - 山
+      - 而
+---
+c: 両
+k: both
+t:
+  ⿱:
+    - 一
+    - ⿻:
+      - 冂
+      - 山
+---
+c: 満
+k: full
+t:
+  ⿰:
+    - 氵
+    - ⿱:
+      - 卄
+      - 両
+---
+c: 画
+k: brush-stroke
+t:
+  ⿱:
+    - 一
+    - ⿶:
+      - 凵
+      - 由
+---
+c: 歯
+k: tooth
+t:
+  ⿱:
+    - 止
+    - ⿶:
+      - 凵
+      - 米
+---
+c: 曲
+k: bend
+# No Wiki entry.
+t:
+  ⿻:
+    - 日
+    - ⿰:
+      - ⼁
+      - ⼁
+---
+c: 曹
+k: cadet
+# Disagrees with Wiki.
+t:
+  ⿱:
+    - ⿻:
+      - 一
+      - 曲
+    - 日
+---
+c: 遭
+k: encounter
+t:
+  ⿺:
+    - 辶
+    - 曹
+---
+c: 漕
+k: rowing
+t:
+  ⿰:
+    - 氵
+    - 曹
+---
+c: 槽
+k: vat
+t:
+  ⿰:
+    - 木
+    - 曹
+---
+c: 斗
+k: Big Dipper
+t:
+  ⿻:
+    - ⿻:
+      - ㇀
+      - 丨
+    - ⺀
+---
+c: 料
+k: fee
+t:
+  ⿰:
+    - 米
+    - 斗
+---
+c: 科
+k: department
+t:
+  ⿰:
+    - 禾
+    - 斗
+---
+c: 図
+k: map
+t:
+  ⿴:
+    - 囗
+    - ⿶:
+      - ⺀
+      - 乂
+---
+c: 用
+k: utilize
+# No Wiki entry.
+t: None
+  ⿻:
+    - 月
+    - ⼁
+---
+c: 庸
+k: comfortable
+t: None
+  ⿸:
+    - 广
+    - ⿱:
+      # TODO: find a better glyph.
+      - 肀
+      - 用
+---
+c: 備
+k: equip
+t:
+  ⿰:
+    - 亻
+    - ⿱:
+      - 卄
+      - ⿸:
+        - 厂
+        - 用
+---
+do_not_learn: true
+type: glyph
+c: 龷
+k: salad
+t:
+  ⿱:
+    - 卄
+    - 一
+---
+c: 昔
+k: once upon a time
+t:
+  ⿱:
+    - 龷
+    - 日
+---
+c: 借
+k: borrow
+t:
+  ⿰:
+    - 亻
+    - 昔
+---
+c: 惜
+k: pity
+t:
+  ⿰:
+    - 忄
+    - 昔
+---
+c: 措
+k: set aside
+t:
+  ⿰:
+    - 扌
+    - 昔
+---
+c: 散
+k: scatter
+t:
+  ⿰:
+    - ⿱:
+      - 龷
+      - 月
+    - 攵
+---
+c: 廿
+k: twenty
+t:
+  ⿻:
+    - 一
+    - 凵
+---
+c: 庶
+k: commoner
+t:
+  ⿸:
+    - 广
+    - ⿱:
+      - 廿
+      - 灬
+---
+c: 遮
+k: intercept
+t:
+  ⿺:
+    - 辶
+    - 庶
+---
+c: 席
+k: seat
+t:
+  ⿸:
+    - 广
+    - ⿱:
+       - 廿
+       - 巾
+---
+c: 度
+k: degrees
+t:
+  ⿸:
+    - 广
+    - ⿱:
+      - 廿
+      - 又
+---
+c: 渡
+k: transit
+t:
+  ⿰:
+    - 氵
+    - 度
+---
+do_not_learn: true
+type: Hyōgai
+c: 卉
+k: haystack
+t:
+  ⿱:
+    - 十
+    - 廾
+---
+c: 奔
+k: bustle
+t:
+  ⿱:
+    - 大
+    - 卉
+---
+c: 噴
+k: erupt
+t:
+  ⿰:
+    - 口
+    - ⿱:
+      - 卉
+      - 貝
+---
+c: 墳
+k: tomb
+t:
+  ⿰:
+    - 土
+    - ⿱:
+      - 卉
+      - 貝
+---
+c: 憤
+k: aroused
+t:
+  ⿰:
+    - 忄
+    - ⿱:
+      - 卉
+      - 貝
+---
+do_not_learn: true
+type: Jinmeiyō
+c: 尭
+k: straw man
+t:
+  ⿱:
+    - 卉
+    - 兀
+---
+c: 焼
+k: bake
+t:
+  ⿰:
+    - 火
+    - 尭
+---
+c: 暁
+k: daybreak
+t:
+  ⿰:
+    - 日
+    - 尭
+---
+c: 半
+k: half
+t:
+  ⿻:
+    - 丷
+    - ⿻:
+      - 二
+      - 丨
+---
+c: 伴
+k: consort
+t:
+  ⿰:
+    - 亻
+    - 半
+---
+c: 畔
+k: paddy ridge
+t:
+  ⿰:
+    - 田
+    - 半
+---
+c: 判
+k: judgment
+t:
+  ⿰:
+    - 半
+    - 刂
+---
+do_not_learn: true
+type: Chinese Only
+c: 龹
+k: quarter
+t:
+  ⿱:
+    - 丷
+    - 夫
+# Up for debate.
+dependencies:
+  - 半
+---
+c: 拳
+k: fist
+t:
+  ⿱:
+    - 龹
+    - 手
+---
+c: 券
+k: ticket
+t:
+  ⿱:
+    - 龹
+    - 刀
+---
+c: 巻
+k: scroll
+t:
+  ⿱:
+    - 龹
+    - 己
+---
+c: 圏
+k: sphere
+t:
+  ⿴:
+    - 囗
+    - 巻
+---
+c: 勝
+k: victory
+# No Wiki entry.
+t:
+  ⿰:
+    - 月
+    - ⿱:
+      - 龹
+      - 力
+---
+c: 藤
+k: wisteria
+# Incomplete Wiki entry.
+t:
+  ⿱:
+    - 艹
+    - ⿰:
+      - 月
+      - ⿱:
+        - 龹
+        - 氺
+---
+c: 謄
+k: facsimilie
+t:
+  ⿰:
+    - 月
+    - ⿱:
+      - 龹
+      - 言
+---
+c: 片
+k: one-sided
+# No Wiki entry.
+t: 片 # TODO: Fill this out.
+---
+c: 版
+k: printing block
+t:
+  ⿰:
+    - 片
+    - 反
+---
+c: 之
+k: of
+t:
+  ⿳:
+    - 丶
+    - ㇇
+    - 乀
+---
+c: 乏
+k: destitution
+t:
+  ⿱:
+    - 丿
+    - 之

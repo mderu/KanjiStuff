@@ -1,6 +1,6 @@
 # https://raw.githubusercontent.com/sdcr/heisig-kanjis/master/heisig-kanjis.csv
 # kanji, id_5th_ed, id_6th_ed, keyword_5th_ed, keyword_6th_ed, components, on_reading, kun_reading
-heisig_csv= """\
+heisig_csv = """\
 一,    1,    1, one, one
 二,    2,    2, two, two
 三,    3,    3, three, three
@@ -2269,7 +2269,7 @@ heisig_csv= """\
 凪, 2140, 2266, lull, lull
 夙, 2141, 2267, earlybird, earlybird
 鳳, 2142, 2268, phoenix, phoenix
-剽, , 2269, , menace, , , 
+剽, , 2269, , menace
 劉, 2143, 2270, slaughter, slaughter
 剃, 2146, 2271, shave, shave
 厭, 2149, 2272, despondent, despondent
@@ -2353,7 +2353,7 @@ heisig_csv= """\
 挽, 2244, 2350, lathe, lathe
 撞, 2245, 2351, bump into, bump into
 扮, 2246, 2352, disguise, disguise
-捏, , 2353, , fabrication, , , 
+捏, , 2353, , fabrication
 掴, 2249, 2354, clutch, clutch
 捺, 2250, 2355, impress, impress
 掻, 2252, 2356, scratch, scratch
@@ -2504,7 +2504,7 @@ heisig_csv= """\
 迄, 2421, 2501, until, until
 逗, 2423, 2502, standstill, standstill
 鄭, 2425, 2503, courtesy, courtesy
-隕, , 2504, , falling, , , 
+隕, , 2504, , falling
 隈, 2427, 2505, nook, nook
 憑, 2428, 2506, possessed, possessed
 惹, 2429, 2507, attract, attract
@@ -2753,7 +2753,7 @@ heisig_csv= """\
 詫, 2721, 2750, beg pardon, beg another’s pardon
 誼, 2719, 2751, familiarity, familiarity
 謬, 2720, 2752, fallible, fallible
-訝, , 2753, , wary, , , 
+訝, , 2753, , wary
 諺, 2723, 2754, proverb, proverb
 誹, 2724, 2755, slander, slander
 謂, 2725, 2756, so-called, so-called
@@ -2768,7 +2768,7 @@ heisig_csv= """\
 賎, 2735, 2765, despicable, despicable
 貰, 2737, 2766, get, get
 賑, 2739, 2767, bustling, bustling
-贖, , 2768, , expiate, , , 
+贖, , 2768, , expiate
 躓, 2740, 2769, stumble, stumble
 蹄, 2741, 2770, hoof, hoof
 蹟, 2743, 2771, vestiges, vestiges
@@ -2871,7 +2871,7 @@ heisig_csv= """\
 嘉, 2852, 2868, applaud, applaud
 兇, 2853, 2869, evil, evil
 兜, 2854, 2870, helmet, helmet
-靄, , 2871, , mist, , , 
+靄, , 2871, , mist
 劫, 2857, 2872, kalpa, kalpa
 歎, 2859, 2873, bemoan, bemoan
 輿, 2860, 2874, palanquin, palanquin
@@ -2887,8 +2887,8 @@ heisig_csv= """\
 殆, 2871, 2884, almost, almost
 牌, 2873, 2885, mahjong tiles, mahjong tiles
 覗, 2875, 2886, peek, peek
-齟, , 2887, , disagree, , , 
-齬, , 2888, , discord, , , 
+齟, , 2887, , disagree
+齬, , 2888, , discord
 秦, 2877, 2889, Manchu dynasty, Manchu dynasty
 雀, 2878, 2890, sparrow, sparrow
 隼, 2879, 2891, peregrine falcon, peregrine falcon
@@ -2924,7 +2924,7 @@ heisig_csv= """\
 琵, 2912, 2921, biwa, biwa
 琶, 2913, 2922, lute, lute
 叉, 2914, 2923, forked, forked
-乖, , 2924, , disobey, , , 
+乖, , 2924, , disobey
 畠, 2916, 2925, dry field, dry field
 圃, 2918, 2926, vegetable patch, vegetable patch
 丞, 2919, 2927, helping hand, helping hand
@@ -3001,45 +3001,45 @@ heisig_csv= """\
 饅, 2998, 2998, bean jam, bean jam
 嘔, 2999, 2999, retch, retch
 鼈, 3000, 3000, snapping turtle, snapping turtle
-亙, 2985, , span (old), , , , 
-亨, 3001, , go smoothly, , , , 
-伶, 2112, , minstrel, , , , 
-佑, 2126, , adjutant, , , , 
-佼, 2109, , comely, , , , 
-侑, 3002, , condone, , , , 
-俣, 2127, , fork in a road, , , , 
-倖, 2119, , bliss, , , , 
-傭, 2128, , hire, , , , 
-僻, 2117, , biased, , , , 
-卜, 2103, , augury, , , , 
-喬, 2104, , heaven-high, , , , 
-孟, 2872, , start, , , , 
-尭, 2095, , lofty, , , , 
-峨, 2226, , high mountain, , , , 
-嵯, 2230, , rocky, , , , 
-巌, 2978, , boulder (old), , , , 
-巽, 2861, , southeast, , , , 
-彪, 2876, , mottled, , , , 
-掟, 3007, , mandate, , , , 
-掠, 2247, , pillage, , , , 
-撹, 2257, , churn up, , , , 
-梧, 3003, , parasol tree, , , , 
-欝, 2856, , depressed, , , , 
-欽, 3004, , circumspect, , , , 
-煕, 3005, , cheer, , , , 
-熔, 2547, , fuse metal, , , , 
-珪, 2564, , silicon, , , , 
-瑶, 2553, , precious stone, , , , 
-甫, 2097, , offspring, , , , 
-籠, 3028, , cage (Joyo version), , , , 
-聚, 2939, , crowd, , , , 
-舘, 2980, , Bldg. (old), , , , 
-舜, 2915, , rose of Sharon, , , , 
-詑, 2718, , prevarication, , , , 
-諏, 2722, , advise, , , , 
-躯, 2986, , body (old), , , , 
-郁, 2424, , cultured, , , , 
-鏑, 2758, , arrowhead, , , , """
+亙, 2985, , span (old),
+亨, 3001, , go smoothly,
+伶, 2112, , minstrel,
+佑, 2126, , adjutant,
+佼, 2109, , comely,
+侑, 3002, , condone,
+俣, 2127, , fork in a road,
+倖, 2119, , bliss,
+傭, 2128, , hire,
+僻, 2117, , biased,
+卜, 2103, , augury,
+喬, 2104, , heaven-high,
+孟, 2872, , start,
+尭, 2095, , lofty,
+峨, 2226, , high mountain,
+嵯, 2230, , rocky,
+巌, 2978, , boulder (old),
+巽, 2861, , southeast,
+彪, 2876, , mottled,
+掟, 3007, , mandate,
+掠, 2247, , pillage,
+撹, 2257, , churn up,
+梧, 3003, , parasol tree,
+欝, 2856, , depressed,
+欽, 3004, , circumspect,
+煕, 3005, , cheer,
+熔, 2547, , fuse metal,
+珪, 2564, , silicon,
+瑶, 2553, , precious stone,
+甫, 2097, , offspring,
+籠, 3028, , cage (Joyo version),
+聚, 2939, , crowd,
+舘, 2980, , Bldg. (old),
+舜, 2915, , rose of Sharon,
+詑, 2718, , prevarication,
+諏, 2722, , advise,
+躯, 2986, , body (old),
+郁, 2424, , cultured,
+鏑, 2758, , arrowhead,"""
 
 # https://www.reddit.com/r/LearnJapanese/comments/1a126a/all_2200_kanji_from_heisigs_remembering_the_kanji/
 reddit_list = """
